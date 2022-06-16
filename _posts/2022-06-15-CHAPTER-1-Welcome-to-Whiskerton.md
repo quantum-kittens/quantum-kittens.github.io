@@ -16,4 +16,4 @@ No, Whiskerton was where they belonged, with its impossibilities and improbabili
 
 
 
-## [Chapter 1 Part 2 - Commentary - Introduction](/_posts/2022-06-14-CHAPTER-1-Part-2-Commentary-The-Qubit-and-Superposition.md)
+## Chapter 1 Part 2 - Commentary - Introduction
