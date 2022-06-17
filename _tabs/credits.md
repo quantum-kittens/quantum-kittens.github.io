@@ -1,6 +1,6 @@
 ---
 title: Credits
-icon: fas fa-info-circle
+icon: fas fa-users
 order: 2
 ---
 
