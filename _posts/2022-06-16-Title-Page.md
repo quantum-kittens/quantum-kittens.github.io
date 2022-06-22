@@ -10,7 +10,8 @@ math: true
 
 
 
+## How to Read
 
-## Chapter 1 - Welcome to Whiskerton
-
-## Chapter 1 Part 2 - Commentary - Introduction
+Each chapter has two parts to it: 
+- Story (part 1) about cats in Whiskerton
+- Commentary (part 2) explaining the quantum computing concepts demonstrated in the story

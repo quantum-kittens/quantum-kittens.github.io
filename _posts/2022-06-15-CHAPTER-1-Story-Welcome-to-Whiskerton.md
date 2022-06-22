@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 1 - Welcome to Whiskerton'
+title: 'Chapter 1 - Story - Welcome to Whiskerton'
 math: true
 ---
 
