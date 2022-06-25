@@ -6,7 +6,7 @@ order: 2
 
 
 # About the Author
-![](/assets/imgs/author_portrait.jpeg){: width="972" height="589" style="max-width: 200px" .left}
+![](/assets/imgs/author_portrait.jpeg){: style="max-width: 200px" .left}
 Radha Pyari Sandhir is the India Quantum Community Lead at IBM Quantum, a scientific advisor for literature and film, science communicator, and a writer of speculative fiction with stories published in Hugo award-winning Clarkesworld Magazine, Nature, Constelacion, and forthcoming in ParSec. She has a PhD in theoretical quantum physics, is passionate about community growth and outreach, with a particular focus on engaging entry points for non-expert audiences.
 
 
@@ -19,7 +19,7 @@ You can find her on Twitter [@RadhaPyari](https://twitter.com/radhapyari), Websi
 
 ### Lead Illustrator: Rashi Chandra
 
-![](/assets/imgs/illustrator_portrait.png){: width="972" height="589" style="max-width: 200px" .left}
+![](/assets/imgs/illustrator_portrait.png){: style="max-width: 200px" .left}
 Rashi Chandra is a self-taught artist who is currently working in the mobile games industry since 2011. She loves to work on character designs, game UI and illustrating comics and books. When she’s not making art, she is busy playing games on her PC or chasing after her 2 cats.
 
 Follow her on Instagram: [@rashichan](https://www.instagram.com/rashichan/)
