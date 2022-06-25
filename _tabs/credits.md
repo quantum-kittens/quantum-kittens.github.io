@@ -4,7 +4,6 @@ icon: fas fa-users
 order: 2
 ---
 
-![](/assets/imgs/illustrator_portrait.png){: style="max-width: 200px" .left}
 
 
 # About the Author
@@ -22,6 +21,7 @@ You can find her on Twitter [@RadhaPyari](https://twitter.com/radhapyari), Websi
 ### Lead Illustrator: Rashi Chandra
 
 
+![](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/assets/imgs/Illustrator_portrait.png?raw=true){: style="max-width: 200px" .left} 
 Rashi Chandra is a self-taught artist who is currently working in the mobile games industry since 2011. She loves to work on character designs, game UI and illustrating comics and books. When she’s not making art, she is busy playing games on her PC or chasing after her 2 cats.
 
 Follow her on Instagram: [@rashichan](https://www.instagram.com/rashichan/)
@@ -32,7 +32,7 @@ And on Twitter at [@rashichandra](https://twitter.com/rashichandra)
 
 
 
-![](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/assets/imgs/Illustrator_portrait.png?raw=true){: style="max-width: 200px"}
+
 
 
 ### Support Illustration and Art Direction: Radha Pyari Sandhir
