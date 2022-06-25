@@ -1,6 +1,5 @@
 ---
 title: 'Chapter 1 - Story - Welcome to Whiskerton'
-categories: [Story]
 ---
 
 ![](/assets/imgs/cover_beta.png){: style="max-width: 700px" .center}
