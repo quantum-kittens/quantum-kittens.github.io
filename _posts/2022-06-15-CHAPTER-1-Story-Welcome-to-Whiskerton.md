@@ -18,7 +18,7 @@ Schrödinger had been a curious pioneer in spite of his tuna biscuit addiction, 
 
 ![](/assets/imgs/Feather_Animation.gif){: style="max-width: 150px" .left} The grass was not only green, but also purple and blue, for one. For another, the hills and trees and ponds were prone to shift about every so often as though they couldn’t quite pick their favorite spots. But the best part about this land? There were toys. Lots and lots of toys, marbles and feathers and felt mice and more, all as wondrous and peculiar as the land itself, shifting colors, periodically disappearing, moving in ways that were difficult to predict.
 
-*An extraordinary land; perfect for an extraordinary town*: is what Schrödinger is believed to have thought while munching on a tuna biscuit, eyes grazing the curious landscape.
+*An extraordinary land; perfect for an extraordinary town*: Schrödinger is believed to have thought while munching on a tuna biscuit, eyes grazing the curious landscape.
 
 To establish this extraordinary new town, Schrödinger lured potential denizens with grand shows involving the toys native to the land. Hundreds of animals of all shapes, sizes, and ornamentations showed up to spectate. They hitched tents, bonded over campfires, oohed and aahed at the theatrics, and enjoyed, for the most part, waking up to their tents somehow unexpectedly having popped to a different location within the encampment overnight. 
 
