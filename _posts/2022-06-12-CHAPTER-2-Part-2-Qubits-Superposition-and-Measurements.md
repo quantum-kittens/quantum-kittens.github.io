@@ -9,7 +9,7 @@ You very likely know what classical computing is; it’s what most people mean w
 
 Deep down at the fundamental level of a classical computer, information is carried by *bits*: single units of information that can have only one of two values or *states*, 0 or 1.  In much the same way, quantum computers have a fundamental computing unit, called quantum bits or *qubits*. Here’s a fun fact: the marbles of Whiskerton actually represent qubits!
 
-## Overview: What is a Qubit?
+## What is a Qubit?
 
 A qubit is the simplest system in quantum computing, the fundamental building block for quantum computation. Physically, qubits can take a number of different forms, depending on the hardware a quantum computer uses.
 
@@ -18,7 +18,7 @@ But behaviorally, they act the same way! So you can consider a ‘qubit’ to be
 > Qubits are abstract mathematical objects that have the ability to not only be in the states 0 or 1, but in a *superposition* of the two. 
 {: .prompt-tip }
 
-## Overview: Quantum Superposition
+## Quantum Superposition
 
 Quantum superposition is a neat quantum physics phenomenon that doesn’t really have an analog in classical physics. You can think of it as a combination. 
 
@@ -61,9 +61,9 @@ _______
 
 ## Mathematical Representation of a Qubit State
 
-Quantum states are mathematically represented by what is known as *Dirac notation*, which makes use of something called a *ket*: $\ket{}$[^footnote].
+Quantum states are mathematically represented by what is known as *Dirac notation*, which makes use of something called a *ket*: $\ket{}$[^fn-nth-1].
 
-[^footnote]: A ket is a mathematical object with certain properties called a *vector*. A qubit can be considered a vector. Two vectors can be combined to form another valid vector. But you don't need to know about vectors to read this text!
+[^fn-nth-1]: A ket is a mathematical object with certain properties called a *vector*. A qubit can be considered a vector. Two vectors can be combined to form another valid vector. But you don't need to know about vectors to read this text!
 
 This is how an arbitrary qubit state is represented[^fn-nth-2]:
 
@@ -145,9 +145,7 @@ Now, there’s one more curious aspect to this thought experiment: you could say
 Quantum entanglement is actually our next stop! Let’s hop to it:
 
 Link
-
 ________
-
 
 ## Qiskit Code
 

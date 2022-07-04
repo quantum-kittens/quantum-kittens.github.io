@@ -8,12 +8,12 @@ order: 2
 
 # About the Author
 ![](/assets/imgs/author_portrait.jpeg){: style="max-width: 200px" .left}
-Radha Pyari Sandhir is the India Quantum Community Lead at IBM Quantum, a scientific advisor for literature and film, science communicator, and a writer of speculative fiction with stories published in Hugo award-winning Clarkesworld Magazine, Nature, Constelacion, and forthcoming in ParSec. She has a PhD in theoretical quantum physics, is passionate about community growth and outreach, with a particular focus on engaging entry points for non-expert audiences.
+Radha Pyari Sandhir is the India Quantum Community Lead at IBM Quantum, a scientific advisor for literature and film, science communicator, and a writer of speculative fiction with stories published in Hugo award-winning Clarkesworld Magazine, Nature, Constelación, and forthcoming in ParSec as R. P. Sand. She has a PhD in theoretical quantum physics, is passionate about community growth and outreach, with a particular focus on engaging entry points for non-expert audiences.
 
 
 Radha frequently combines her love for all things creative with educational endeavors. She has co-created a number of web apps and resources such as the [Quantum Bubble Art Generator](http://qartgen.herokuapp.com/) that generates a visual representation of quantum noise, [Quantum Grove: A Lofi Ambience](https://quantum-kittens.itch.io/quantum-grove), and the [D&D μStarter Kit](https://qdnd.herokuapp.com/) for D&D players that harbors a quantum dice roller and generates characters. She conceptualized, authored, and co-developed [The Photonic Trail: A Quantum Optics Treasure Hunt](https://qplaylearn.com/treasure-hunt), a single-player fantasy game. She's organized numerous quantum events and learning programs, including Qiskit's Quantum Explorers.
 
-You can find her on Twitter [@RadhaPyari](https://twitter.com/radhapyari), Website [radhapyarisandhir.com](https://radhapyarisandhir.com)(mailto:radha.pyari.sandhir@ibm.com)
+You can find her on Twitter [@RadhaPyari](https://twitter.com/radhapyari), and her Website [radhapyarisandhir.com](https://radhapyarisandhir.com).
 
 
 # About the Illustrator
