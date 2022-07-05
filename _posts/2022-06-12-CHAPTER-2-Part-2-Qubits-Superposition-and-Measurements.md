@@ -169,7 +169,6 @@ from qiskit.providers.aer import QasmSimulator
 
 #Create Marble Circuit
 
-#Create Marble Circuit
 
 marble_circuit = QuantumCircuit(1, 1) # add one qubit (Whiskerton marble) and one classical bit (to store the measurement outcome)
 
