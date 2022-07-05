@@ -25,7 +25,7 @@ She went to her office within the Town Hall, a cozy room that bore an abundance 
 
 Whiskertese marbles had a curious property: they were red and blue at the same time, a superposition of two colors, until someone looked directly at them. When directly observed, a Whiskertese marble would either turn red or turn blue, with a fifty percent chance of becoming either color. Should one pack a room with a hundred Whiskertese marbles, and thereafter look directly at each in turn, close to half of them would become red and close to half of them would become blue. There was no way to tell beforehand which of the two colors a marble would become. 
 
-![](/assets/imgs/marble_animation.gif){: style="max-width: 150px" .right} 
+![](/assets/imgs/Marble_Animation.png){: style="max-width: 150px" .right} 
 Arya pawed one of the marbles out of a storage box, careful to avoid looking at it directly.
 
 "If it turns blue, I will choose cheese ribbons. If it turns red, I will choose salmon shortcakes," she declared aloud to her office’s occupants: giant piles of books and paper, half very important bureaucratic documents, half napping perches.
@@ -111,7 +111,7 @@ And, to Arya’s delight, not a single cat objected.
 
 (Well, except for Blade.)
 
-![](/assets/imgs/Box.png){: style="max-width: 300px" .center}
+![](/assets/imgs/Box_Animation.png){: style="max-width: 500px" .center}
 
 
 
