@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 3 - Story - Red Dots and Doorbells'
+title: 'Chapter 3 - Story - Doorbells'
 ---
 
 
@@ -31,17 +31,17 @@ With doorbells and Blade and marvelous sounds foremost in her mind, Luna went in
 
 “Hihihi,” Luna called. “Up for some mischief, Soya?” Soya, being a kitten was, of course, always up for some mischief. Not moments later the two scurried towards a certain buildercat’s home. 
 
-Unsuspecting Blade was in his kitchen, staring intently at a red dot on his ceiling. He clutched a small parcel in a paw because he was supposed to be delivering a custom build to one of the townscats, but he couldn’t tear his eyes away from that dot. He just *had* to figure out what it was!
+Unsuspecting Blade was in his kitchen, staring intently at a suspicious spot on his ceiling. He clutched a small parcel in a paw because he was supposed to be delivering a custom build to one of the townscats, but he couldn’t tear his eyes away from that dot. He just *had* to figure out what it was!
 
 Meanwhile, on the front porch, Luna nudged Soya to peer inside the bell compartment. The marble within turned blue, as did the marble on the other side of the door, and the doorbell rang. 
 
 The sound was, unsurprisingly, accompanied by a loud *bang!* and a “Twisted yarn!” which launched the kittens into a fit of giggles.
 
-![](/assets/imgs/Ladybug_ceiling.png){: style="max-width: 200px" .left} True to his nature, Blade had leapt reflexively at the sudden peal, bopping his head on the ceiling. Unbeknownst to him, the red dot had transferred itself to his forehead in the process. Transferred itself, because the red dot was in reality a ladybug who had, in the spur of the moment, decided perching on a cat’s head was more fun than perching on a ceiling.
+![](/assets/imgs/Ladybug_ceiling.png){: style="max-width: 200px" .left} True to his nature, Blade had leapt reflexively at the sudden peal, bopping his head on the ceiling. Unbeknownst to him, the suspicious spot had transferred itself to his forehead in the process. Transferred itself, because the suspicious spot was in reality a ladybug who had, in the spur of the moment, decided perching on a cat’s head was more fun than perching on a ceiling.
 
 Blade glared and grumbled--first at bopping his head and then at the now-blank ceiling--before heading to the front door.
  
-When he opened the door to an empty porch he groaned. *Infernal kittens, I bet it was them. Disturbing my red dot contemplations. Now I know how Mowgli feels when he watches birds.*
+When he opened the door to an empty porch he groaned. *Infernal kittens, I bet it was them. Disturbing my suspicious spot contemplations. Now I know how Mowgli feels when he watches birds.*
 
 From where they hid behind a bush, Luna and Soya shared gleeful whispers and watched as the buildercat glared at the street before trudging back inside. Ringing Blade's doorbell had been so much fun, they decided, that they should have another go of it.
 
@@ -73,7 +73,7 @@ Soya saluted.
 	
 They rang the doorbell once more; this time it was Luna who peered into the peephole. The marble turned red, and the ensuing *bang!* they heard from within delighted them so fiercely they forgot all about the butterfly.
 	
-The ladybug, peeved by the sudden jolt, hopped back to the ceiling, concluding that cat heads were decidedly *not* ideal for perching after all. But Blade did not see the red dot reappear above him, for he barreled to the front door, furious. 
+The ladybug, peeved by the sudden jolt, hopped back to the ceiling, concluding that cat heads were decidedly *not* ideal for perching after all. But Blade did not see the suspicious spot reappear above him, for he barreled to the front door, furious. 
 	
 He flung open the door, unsurprised to find no one there, and yowled into the mid morning sunshine: “I know it’s you, Luna! You and whichever kittens you’ve roped into bothering me. Leave me alone or I’ll… I’ll…” he glanced at the parcel still clutched in his paw. “I’ll make you run an errand!”
 	
@@ -85,4 +85,4 @@ However, Luna, being somewhat of a connoisseur of plans and pranks, anticipated 
 
 "It's your turn to ring the bell, go up there! I’ll stand guard here.” And when the diamond-chested, gullible kitten did just that, Luna slipped away, rapturous at this bonus prank. The sounds of a disgruntled cat berating a kitten faded behind her as she fled.
 	
-Back on the porch, beration complete, Blade pushed his parcel into a regretful Soya’s paws and set her about making the delivery. Which meant he was completely free to  ponder the red dot in peace.
+Back on the porch, beration complete, Blade pushed his parcel into a regretful Soya’s paws and set her about making the delivery. Which meant he was completely free to  ponder the suspicious spot in peace.
