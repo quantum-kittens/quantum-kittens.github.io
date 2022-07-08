@@ -21,7 +21,7 @@ Now, it wasn’t only Blade’s skittishness that made ringing his doorbell inte
 
 ![](/assets/imgs/Doorbell.png){: style="max-width: 300px" .right}  
 
-The Whiskertese doorbells were fabricated like so: two marbles were connected by something called an *entangler*, which, true to its name, entangled the marbles. This meant if someone looked directly at one marble, then the second marble would immediately be affected—-without anyone having looked at it! And the two marbles would turn the same color, either both red, or both blue.
+The Whiskertese doorbells were fabricated like so: two marbles were connected by something called an *entangler*, which, true to its name, entangled the marbles. This meant if someone looked directly at one marble, then the second marble would immediately be affected—-without anyone having looked at it! Each of the two marbles would be in a superposition of red and blue, but once someone observedone of them, two marbles would turn the same color, either both red, or both blue.
 
 An entangler was embedded into the front door of each home, and the two marbles were placed in compartments that hung on either side. The compartment on the outside had a peephole through which a visiting cat could observe the marble. This act would immediately affect its counterpart on the other side of the door. The second marble was connected to a sound box such that any time it became a single color the sound would go off.
 
