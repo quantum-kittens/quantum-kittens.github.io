@@ -3,10 +3,6 @@ title: 'Chapter 3 Part 2 - Commentary - Multiple Qubits, Entanglement, and Bell 
 math: true
 ---
 
----
-title: 'Chapter 3 Part 2 - Commentary - Multiple Qubits, Entanglement, and Bell States'
-math: true
----
 
 There isn’t much you can do with a single classical bit. Information processing and algorithms  usually require more units of information. Down at the machine level, an image on your social media feed, for instance, is not represented by a single bit. It is represented by *many* bits, many 0’s and 1’s, long strings of bits, and it is those bit strings that are transmitted across the internet and processed by your devices.
 
