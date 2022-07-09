@@ -6,7 +6,7 @@ order: 4
 
 
 
-This is the Beta release of Quantum Kittens.
+This is the Beta release of *Quantum Kittens*.
 
 If you encounter a bug, please fill out [this Bug Report form](https://airtable.com/shrtEjflrGDVpubjc).
 

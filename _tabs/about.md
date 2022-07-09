@@ -13,4 +13,4 @@ From marbles that are red and blue at the same time to feathers that spontaneous
 
 Quantum concepts are portrayed through stories about curious cats who live in Whiskerton, a town governed by the laws of quantum physics. Each story is accompanied by a commentary section with layperson explanations. A reader can choose to read them together, or just stick to the stories and avoid the explanations altogether.
 
-Note: This is the Beta release of Quantum Kittens, consisting of only the first three chapters. This book will be completed and released in the near future.
+Note: This is the Beta release of *Quantum Kittens*, consisting of only the first three chapters. This book will be completed and released in the near future.
