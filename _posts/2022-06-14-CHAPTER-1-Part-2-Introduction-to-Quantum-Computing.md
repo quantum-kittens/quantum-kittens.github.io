@@ -3,13 +3,13 @@ title: 'Chapter 1 Part 2 - Commentary - Introduction to Quantum Computing'
 math: true
 ---
 
-Ours is a world governed by classical physics, in which a film is either playing or paused, a coin lands on either heads or tails, and a cat is either alive or dead. Classical physics is what we experience in our everyday lives. Based on the trajectory and velocity of a ball you've thrown, it's pretty easy to predict with reasonable certainty where the ball will land--depending on your aiming skills it may not land where you intended it to, of course, but once it's left your hand you can deduce where it is headed. There's zero chance of it landing at your feet, say, if you've thrown it with enough force.
+Ours is a world governed by classical physics, in which a film is either playing or paused, a coin lands on either heads or tails, and a cat is either alive or dead. Classical physics is what we experience in our everyday lives. Based on the trajectory and velocity of a ball you've thrown, it's pretty easy to predict with reasonable certainty where the ball will land--depending on your aiming skills, it may not land where you intended it to, of course, but once it's left your hand, you can deduce where it is headed. There's zero chance of it landing at your feet, say, if you've thrown it with enough force.
 
-However, if you were to shrink down and I mean really shrink down, you'll fast discover that the laws that govern the subatomic world are much different from what we experience on a macroscopic scale. Down there, throwing a ball would look very different.
+However, if you were to shrink down--and I mean *really* shrink down--you'll fast discover that the laws that govern the subatomic world are much different from what we experience on a macroscopic scale. Down there, throwing a ball would look very different.
 
 The subatomic world is the domain of quantum physics, where results are governed by probabilities.[^fn-nth-1] Outcomes that wouldn't have been likely in the classical context would suddenly be possible. The ball could very well land at your feet no matter how hard you throw it! You and the ball would be subatomic particles, like electrons, and hence governed by the laws of quantum physics.
 
-[^fn-nth-1]: While quantum physics is prevalent at the subatomic, microscopic level, there are some processes that display quantum effects even at the macroscopic level. But not things we enounter as we go about our daily lives.
+[^fn-nth-1]: While quantum physics is prevalent at the subatomic, microscopic level, there are some processes that display quantum effects even at the macroscopic level. But not things we encounter as we go about our daily lives.
 
 What makes quantum physics so bizarre and, in a way, counterintuitive, is that there are certain quantum phenomena that have no counterpart in classical physics. Quantum particles can be in a superposition of more than one state, they can be entangled, and there are uncertainties associated with their behaviors. There is nothing that we experience in our classical world that is analogous to any of these properties!
 
@@ -22,9 +22,9 @@ And the difference has enormous potential: it is widely believed that near futur
 
 We still are a ways away from reaching this ideal quantum computer that works perfectly and seeing this potential realized; there are a number of hardware obstacles to overcome. But imperfect quantum computers already exist today, some even publicly accessible through the cloud, and researchers and industry professionals alike are working to identify near-term useful applications and evolve the hardware.
 
-At this point it is important to note that quantum computers won’t replace our classical computers, only complement them by extending the realm of computing possibilities. 
+At this point, it is important to note that quantum computers won’t replace our classical computers; only complement them by extending the realm of computing possibilities. 
 
->We don’t need quantum computers to binge watch tv shows when we can do so perfectly with our own devices. We need them for things classical computers aren’t very good at!
+>We don’t need quantum computers to binge-watch tv shows when we can do so perfectly with our own devices. We need them for things classical computers aren’t very good at!
 {: .prompt-tip }
 
 Illustrated in the stories ahead are various important quantum phenomena and how they are used for quantum computing.
