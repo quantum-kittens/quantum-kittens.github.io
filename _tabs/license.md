@@ -32,7 +32,7 @@ The automated and/or systematic collection of data from this website is prohibit
 
 ## Permissions
 
-You may request permission to use the copyright materials on this website by writing to [EMAIL ADDRESS] or [ADDRESS].
+You may request permission to use the copyright materials on this website by writing [via email](https://www.radhapyarisandhir.com/contact/).
 
 ## Enforcement of copyright
 
@@ -40,12 +40,12 @@ Radha Pyari Sandhir takes the protection of its copyright very seriously.
 
 If Radha Pyari Sandhir discovers that you have used its copyright materials in contravention of the license above, Radha Pyari Sandhir may bring legal proceedings against you seeking monetary damages and an injunction to stop you using those materials.  You could also be ordered to pay legal costs.
 
-If you become aware of any use of Radha Pyari Sandhir copyright materials that contravenes or may contravene the license above, please report this via email.
+If you become aware of any use of Radha Pyari Sandhir copyright materials that contravenes or may contravene the license above, please report this [via email](https://www.radhapyarisandhir.com/contact/).
 
 ## Infringing material
 
-If you become aware of any material on the website that you believe infringes your or any other person's copyright, please report this via email
+If you become aware of any material on the website that you believe infringes your or any other person's copyright, please report this [via email](https://www.radhapyarisandhir.com/contact/).
 
 ## Derivative works
 
-The use of works by Radha Pyari Sandhir as a basis for inspiration for other works is a violation of the IP laws, under the proviso of being deemed a derivative. Only derivates with permission from the artist are legal. Any Infringements on the IP rights of Radha Pyari Sandhir will be pursued in any legal manner that is deemed necessary. Please report this via email.
+The use of works by Radha Pyari Sandhir as a basis for inspiration for other works is a violation of the IP laws, under the proviso of being deemed a derivative. Only derivates with permission from the artist are legal. Any Infringements on the IP rights of Radha Pyari Sandhir will be pursued in any legal manner that is deemed necessary. Please report this [via email](https://www.radhapyarisandhir.com/contact/).
