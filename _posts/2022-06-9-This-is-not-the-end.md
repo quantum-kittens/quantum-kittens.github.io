@@ -3,11 +3,13 @@ title: 'This is Not the End'
 ---
 
 
-The stories about the townscats of Whiskerton don't end here, this is only the beginning. 
-If you've made it this far, thank you! 
+Do you want to hear about how Arya sent Blade a birthday gift via quantum teleportation, how councilcat Poh tricked Arya out of laying claim to a cardbox box, and other stories about the townscats of Whiskerton?
 
 
-This is the beta release of Quantum Kittens, we plan to complete the book in the near future. But in order to do that, we need your help!
+The good news is the stories don't end here, this is only the beginning. 
 
 
-Once you’ve finished reading, we would appreciate you taking a couple of minutes to fill out [this survey](https://airtable.com/shrTIeiVZWHm2OTVw) so that we can continue to improve and grow this content. 
+This is only the beta release of Quantum Kittens, we will be completing the book in the near future. But in order to do that, we need your help!
+
+
+Once you’ve finished reading, we would appreciate you taking a couple of minutes to fill out [this survey](https://airtable.com/shrTIeiVZWHm2OTVw) so that we can gather resources to complete this book.

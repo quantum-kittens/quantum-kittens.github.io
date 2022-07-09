@@ -10,5 +10,4 @@ This is the Beta release of Quantum Kittens.
 
 If you encounter a bug, please fill out [this Bug Report form](https://airtable.com/shrtEjflrGDVpubjc).
 
-Once you've read the book, we would appreciate you taking a couple of minutes to fill out [this survey](https://airtable.com/shrTIeiVZWHm2OTVw) so that we can continue to improve and grow this content. 
-
+Once you've read the bete release of the book, we would appreciate you taking a couple of minutes to fill out [this survey](https://airtable.com/shrTIeiVZWHm2OTVw) so that we can assess engagement and gather resources to complete this book.
