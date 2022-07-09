@@ -214,3 +214,5 @@ print("This means in 1000 shots you get blue " + str(counts['0']) + " times, and
 
 plot_histogram(counts)
 ```
+
+*Note: the Qiskit code provided is open source, and does not fall under the copyright of Quantum Kittens.*

@@ -12,7 +12,7 @@ Copyright © 2022 Radha Pyari Sandhir
 
 ## Ownership of copyright
 
-The copyright in this website and the material on this website (including without limitation the text, computer code, artwork, photographs, images, music, audio material, video material and audio-visual material on this website  – unless otherwise specified) is owned by Radha Pyari Sandhir.
+The copyright in this website and the material on this website (including without limitation the text, artwork, photographs, images, music, audio material, video material and audio-visual material on this website  – unless otherwise specified) is owned by Radha Pyari Sandhir.
 
 ## Copyright license
 

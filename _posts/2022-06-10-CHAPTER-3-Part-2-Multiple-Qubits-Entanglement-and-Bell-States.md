@@ -124,3 +124,5 @@ doorbell_circuit.draw('mpl') # see how the circuit looks
 ```
 
 As an exercise, run the this circuit in a similar way to the marble circuit in [Chapter 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)!
+
+*Note: the Qiskit code provided is open source, and does not fall under the copyright of Quantum Kittens.*
