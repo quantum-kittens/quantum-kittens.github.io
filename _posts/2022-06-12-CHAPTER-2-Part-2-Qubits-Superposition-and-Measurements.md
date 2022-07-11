@@ -40,7 +40,7 @@ Even if you happen to know everything about the probabilities beforehand, that i
 
 Essentially:
 
-> Even if you know everything about the state of a quantum system, it can still behave randomly.
+> Even if you know everything about the state of a quantum system, it *can* still behave randomly.
 {: .prompt-tip }
 
 For instance, you know everything about the state of a Whiskertese marble: it's in an equally weighted (fifty-fifty) superposition. Yet, after measurement, we don't know if it will end up as a red marble or a blue one. That part is random!
@@ -49,7 +49,7 @@ Quantum physics is probabilistic, which means there is some *uncertainty*. A mea
 
 At first glance, it may appear that the benefit of quantum superposition has vanished since you only ever get 0’s and 1’s as your outcomes, no different from classical bits. Enter quantum computing algorithms. 
 
-An algorithm is basically a series of operations you perform to get a desired result. What a quantum computing algorithm does is manipulate the probabilities, increasing the probability associated with the desired outcome and decreasing all others. [^footnote]
+An algorithm is basically a series of operations you perform to get a desired result. What a quantum computing algorithm does is manipulate the probabilities, increasing the probability associated with the desired outcome and decreasing all others. [^footnote] In this way, if the probability associated with the desired state hits 1, then that outcome is guaranteed, which means the behavior is no longer random. 
 
 [^footnote]: Quantum operations are carried out by applying what are known as *quantum gates.* 
 
@@ -104,7 +104,7 @@ The thing about qubits is that you cannot determine $\alpha_{0}$ and $\alpha_{1}
 
 [^fn-nth-5]: This is precisely why what are known as *quantum circuits* or quantum computation models that have gate sequences, measurements and the like, are run multiple times: to gather statistics. 
 
-However, you don't necessarily need to know what the $\alpha$'s are in order for qubit states to be useful. The beauty of the qubit state lies in how one can change and manipulate $\alpha_{0}$ and $\alpha_{1}$ with quantum gates before measurement. As mentioned earlier, the goal is to boost the probabilities associated with the desired outcome. If the desired outcome is 0,  then the algorithm can be designed to boost $\alpha_{0}$, regardless of what it is.
+However, you don't necessarily need to know what the $\alpha$'s are in order for qubit states to be useful. The beauty of the qubit state lies in how one can change and manipulate $\alpha_{0}$ and $\alpha_{1}$ with quantum gates before measurement. As mentioned earlier, the goal is to boost the probabilities associated with the desired outcome. If the desired outcome is 0,  then the algorithm can be designed to boost $\alpha_{0}$, regardless of what it is. And if $\alpha_{0}$ hits 1, then the outcome 0 will be guaranteed.
 
 ## Physical Qubits
 
@@ -144,8 +144,16 @@ Now, there’s one more curious aspect to this thought experiment: you could say
 
 Quantum entanglement is actually our next stop! Let’s hop to it:
 
-Link
-________
+_____________________________
+
+
+_____________________________
+
+
+_____________________________
+
+
+**[Next: Chapter 3 - Story - Doorbells](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)**
 
 ## Qiskit Code
 

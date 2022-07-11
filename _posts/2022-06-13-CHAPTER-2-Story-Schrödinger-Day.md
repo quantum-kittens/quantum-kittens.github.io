@@ -4,9 +4,9 @@ title: 'Chapter 2 - Story - Schrödinger Day'
 
 “Twisted yarn,” Arya cursed as she examined the Town Hall’s pantry. It was Schrödinger Day, Whiskerton’s most joyous festival, and the councilcat—with pristine ginger coat, green eyes, and a penchant for sunbathing—found herself in somewhat of a quandary.
 
-Schrödinger Day was the anniversary of Whiskerton becoming a town. The townscats always celebrated their founding day with much pomp and grandeur, even umpteen generations later when Arya, the councilcat in charge of planning, found herself staring at the pantry’s contents.
+Schrödinger Day was the anniversary of Whiskerton becoming a town. The townscats always celebrated their Foundation Day with much pomp and grandeur, even umpteen generations later when Arya, the councilcat in charge of planning, found herself staring at the pantry’s contents.
 
-You see, she had very diligently instructed the Town Hall’s chefcat to bake tuna biscuits, which were the obvious choice of celebratory snack to accompany evening cream on this occasion. But that morning a frantic chefcat reported that all the tuna biscuits she'd spent the entire night preparing had vanished. And no, it wasn't the town’s mischievous kittens who ate them, the tuna biscuits disappeared before her very eyes!
+You see, she had diligently instructed the Town Hall’s chefcat to bake tuna biscuits, which were the obvious choice of celebratory snack for this occasion’s evening cream. But that morning, a frantic chefcat reported that all the tuna biscuits she'd spent the entire night preparing had vanished. And no, it wasn't the town’s mischievous kittens who ate them. The tuna biscuits disappeared before her very eyes!
 
 Vanishing items weren't an uncommon occurrence in Whiskerton--though, to be fair, food hardly ever disappeared--and Arya figured the tuna biscuits would turn up again sooner or later. But she couldn't count on them returning in time. 
 
@@ -16,14 +16,14 @@ There were only two snack options available: cheese ribbons or salmon shortcakes
 
 But with just these two options available for the single celebratory snack, Arya was faced with an unfortunate choice. The townscats were evenly divided in their love for these particular snacks; either choice would result in half of them being disappointed. And Arya always avoided disappointing anyone if she could help it.
 
-*Cheese ribbons. No, can’t choose that, poor Jinxy one street over will end up hiccuping for days. Okay, salmon shortcakes, then. No, I’ll never hear the end of it from Blade. Fine, cheese ribbons. Oh, but Bilito will box my ears at our next council meeting! But… if I choose salmon shortcakes Poh will box my ears at our next council meeting!*
+*Cheese ribbons. No, can’t choose that, poor Jinxy one street over will end up hiccuping for days. Okay, salmon shortcakes, then. No, I’ll never hear the end of it from Blade. Fine, cheese ribbons. Oh, but Bilito will box my ears at our next council meeting! But…if I choose salmon shortcakes,* Poh *will box my ears at our next council meeting!*
 
 ![](/assets/imgs/Arya_Full_Illustration.png){: style="max-width: 300px" .left}
-Arya’s thoughts raced hither and tither, threatening to implode, panic rearing its wretched head. She eventually realized she could either stay there, paralyzed by her thoughts, or she could cat up and make a decision. So, make a decision it was, but she would do so by consulting a marble, which could help when faced with a difficult choice between two equally weighted options.
+Arya’s thoughts raced hither and thither, threatening to implode, panic rearing its wretched head. She eventually realized she could either stay there, paralyzed by her thoughts, or she could cat up and make a decision. So, make a decision it was, but she would do so by consulting a marble. Marbles could be helpful when faced with a difficult choice between two equally weighted options.
 
-She went to her office within the Town Hall, a cozy room that bore an abundance of books, smells of fresh ink and parchment, and sunbathing spots. And a marble or two.
+She went to her office within Town Hall, a cozy room that bore an abundance of books, smells of fresh ink and parchment, and sunbathing spots. And a marble or two.
 
-Whiskertese marbles had a curious property: they were red and blue at the same time, a superposition of two colors, until someone looked directly at them. When directly observed, a Whiskertese marble would either turn red or turn blue, with a fifty percent chance of becoming either color. Should one pack a room with a hundred Whiskertese marbles, and thereafter look directly at each in turn, close to half of them would become red and close to half of them would become blue. There was no way to tell beforehand which of the two colors a marble would become. 
+Whiskertese marbles had a curious property: they were red and blue at the same time, a superposition of two colors, until someone looked directly at them. When directly observed, a Whiskertese marble would either turn red or turn blue, with a fifty percent chance of either color. Should one pack a room with a hundred Whiskertese marbles, and thereafter look directly at each individual marble, close to half would turn red and close to half would turn blue. There was no way to tell beforehand which of the two colors a marble would become. 
 
 ![](/assets/imgs/Marble_Animation.png){: style="max-width: 150px" .right} 
 Arya pawed one of the marbles out of a storage box, careful to avoid looking at it directly.
@@ -38,7 +38,7 @@ They headed straight for the statue. Arya leaped out the window and hastened aft
 
 Luna. 
 
-Luna, Luna, Luna. While the townskittens had been instructed to steer clear of the preporations until just before the celebration, she should have known to keep Luna in particular occupied far away from the square that day. For up in the now-shredded streamers of the Tree, extending a raring paw toward a purple feather that had popped into existence right above the statue, was the town's most mischievous, excitable, and destructive kitten of all: Luna.
+Luna, Luna, Luna. While the townskittens had been instructed to steer clear of the preparations until just before the celebration, she should have known to keep Luna in particular occupied far away from the square. For up in the now-shredded streamers of the Tree, extending a raring paw toward a purple feather that had popped into existence right above the statue, was the town's most mischievous, excitable, and destructive kitten of all: Luna.
 
 Technically, Luna was a tad old to be called 'kitten', but she was small for her almost-ready-to-be-an-adult-cat age. Her expression was permanently that of raised eyebrows, had she eyebrows at all, which could be interpreted as wonder or concern, contingent upon the circumstances. Her fur was short and ginger, prone to a slight grunge since her insatiable curiosity left her easily distracted during a bath.
 
@@ -48,13 +48,13 @@ You see, the townscats of Whiskerton enjoyed uncertainty. They also enjoyed shin
 
 The glitter machine consisted of a single marble connected to two glitter vials. During the opening ceremony, a designated councilcat looked directly at the marble. The marble turned either red or blue, and one of the vials would pop open depending on the marble's color, showering colored glitter on their town's beloved founder. In the days leading up to the holiday the townscats greatly enjoyed debating which of the two colors would be released. This year, a green glitter vial was linked to the marble's red, and a purple glitter vial was linked to the marble's blue. 
 
-Forget the evening snack, if Luna damaged the glitter machine the celebrations would definitely be ruined. Arya shouted to Luna, but, of course, at that moment, Luna's whole world consisted solely of the purple feather, and there was no room for admonishments, glitter machines, or even other cats.
+Forget the evening snack; if Luna damaged the glitter machine, the celebrations would be ruined. Arya shouted to Luna, but of course, at that moment, Luna's whole world consisted solely of the purple feather. There was no room for admonishments, glitter machines, or even other cats.
 
 Arya scanned the area for something to lure Luna away, for she feared tipping the kitten off the branch if she attempted to climb the tree herself.
 
-Her eyes fell on a familiar assortment of tools scattered around an open toolbox by the statue's pedestal. It was as if a buildercat had very abruptly abandoned his task for a nap or a bath, and she knew exactly to whom that toolbox belonged.
+Her eyes fell on a familiar assortment of tools scattered around an open toolbox by the statue's pedestal. It was as if a buildercat had abruptly abandoned his task for a nap or a bath. She knew exactly to whom that toolbox belonged.
 
-"Blade?" Arya called, hoping that her best friend would hear her, wherever he was.
+"Blade?" Arya called, hoping her best friend would hear her, wherever he was.
 
 ![](/assets/imgs/Blade_Full_Illustration.png){: style="max-width: 300px" .left}
 Blade was an agile black cat with blazing yellow eyes, skilled with marbles and tools, and even more skilled at being easily startled. Unsurprisingly, the sudden echo of his name off the buildings that lined the square provoked a monumental leap into the air, back arched. Where had he been? Curled up, fast asleep, tucked under a bush, dreaming of pigeons.
@@ -63,11 +63,11 @@ Blade’s protests at his nap’s interruption ceased instantly when he spotted 
 
 It didn’t work, of course.
 
-The cats scrambled for ideas, and event the kittens around them chimed in excitedly.
+The cats scrambled for ideas, and even the kittens around them chimed in excitedly.
 
 "Do you think we can distract her with another feather?" Arya said.
 
-"I haven't seen another one pop up around here for a few hours," Blade said.
+"I haven't seen another pop up around here for a few hours," Blade said.
 
 "How about tossing up a ball?" one of the kittens piped in.
 
@@ -99,7 +99,7 @@ Even though dread about ruined celebrations coursed through Arya, reflexive exci
 
 For what they had before them was a glorious *uncertainty*. A cat inside a box, and with him the glitter machine! The machine had likely been set off by the fall, which meant Blade could be swathed in purple glitter. Or he could be green. No one could be sure until they looked. Just like a Whiskertese marble. What a magnificent conundrum!
 
-Whispers turned to impassioned shouts of color guesses, and an enlivened crowd coalesced in the square as word spread through the town like wildfire. Arya could hear Blade's muffled mutterings about interrupted naps and useless kittens and inconsequential feathers as he attempted to push open the lid, but she couldn't have any of that, now, could she? For as she gazed at the enthused gathering cats she realized Schrödinger Day wasn’t ruined at all! This novel uncertainty was too captivating. 
+Whispers turned to impassioned shouts of color guesses, and an enlivened crowd coalesced in the square as word spread through the town like wildfire. Arya could hear Blade's muffled mutterings about interrupted naps and useless kittens and inconsequential feathers as he attempted to push open the lid, but she couldn't have any of that, now, could she? For as she gazed at the enthused gathering cats, she realized Schrödinger Day wasn’t ruined at all! This novel uncertainty was too captivating. 
 
 She hopped lightly onto the lid so that Blade couldn't leave. His mutterings grew louder, and this time "obnoxious best friends" were added to his list.
 
@@ -114,5 +114,16 @@ And, to Arya’s delight, not a single cat objected.
 ![](/assets/imgs/Box_Animation.png){: style="max-width: 500px" .center}
 
 
+_____________________________
 
- 
+
+_____________________________
+
+
+_____________________________
+
+
+**[Chapter 2 Part 2 - Commentary - Qubits, Superposition, and Measurement](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)**
+
+
+**[Chapter 3 - Story - Doorbells](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)**

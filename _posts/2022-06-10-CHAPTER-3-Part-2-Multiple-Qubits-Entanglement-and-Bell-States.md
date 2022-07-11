@@ -92,8 +92,16 @@ These two-qubit pairs that are in Bell states are called EPR pairs, after physic
  
 Physically constructing entangled qubits in the lab depends on what you use for qubits. For instance, two photons from a single source, generated in a specific manner, may emerge entangled. There's no single universal 'entangler' the way there is in Whiskerton. And, more accurately, no one actually calls these sources 'entanglers'!
  
-Next: 
- 
+_____________________________
+
+
+_____________________________
+
+
+_____________________________
+
+
+**[Next: This is Not the End](https://quantum-kittens.github.io/posts/This-is-not-the-end/)**
  
 ________
 
@@ -126,3 +134,5 @@ doorbell_circuit.draw('mpl') # see how the circuit looks
 As an exercise, run the this circuit in a similar way to the marble circuit in [Chapter 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)!
 
 *Note: the Qiskit code provided is open source, and does not fall under the copyright of Quantum Kittens.*
+
+

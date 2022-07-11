@@ -4,7 +4,7 @@ title: 'Chapter 1 - Story - Welcome to Whiskerton'
 
 ![](/assets/imgs/cover_beta.png){: style="max-width: 700px" .center}
 
-Once upon a time, in a land far from here (though closer than you may think), was a little town called Whiskerton. Though little, the town was far from ordinary. For not only was it home to a coterie of curious cats, Whiskerton abided by the laws of quantum physics. 
+Once upon a time, in a land far from here (though closer than you may think), was a little town called Whiskerton. Though little, the town was far from ordinary. Not only was it home to a coterie of curious cats, Whiskerton abided by the laws of quantum physics. 
 
 That's why its feline residents loved it so dearly. Who wouldn't want to live in a place where feathers spontaneously appeared and disappeared? Or where marbles could be red and blue at the same time? Or where one could not tell with certainty where a felt mouse would land if one tossed it in the air; only where it *probably* might but *quite likely not* end up?
 
