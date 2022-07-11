@@ -23,7 +23,7 @@ Now, it wasn’t only Blade’s skittishness that made ringing his doorbell inte
 
 The Whiskertese doorbells were fabricated like so: two marbles were connected by something called an *entangler*, which, true to its name, entangled the marbles. This meant if someone looked directly at one marble, then the second marble would immediately be affected—-without anyone having looked at it! Each of the two marbles would be in a superposition of red and blue, but once someone observed one of them, two marbles would turn the same color: either both red, or both blue.
 
-An entangler was embedded into the front door of each home, and the two marbles were placed in compartments that hung on either side. The compartment on the outside had a peephole through which a visiting cat could observe the marble. This act would immediately affect its counterpart on the other side of the door. The second marble was connected to a sound box such that any time it became a single color, the sound would go off.
+An entangler was embedded into the front door of each home, and the two marbles were placed in compartments that hung on either side. The compartment on the outside had a peephole through which a visiting cat could observe the marble. This act would immediately affect its counterpart on the other side of the door. The second marble was connected to a sound box so that whenever it became a single color, the sound would go off.
 
 The adult townscats loved their doorbells, but the kittens loved them even more. Luna, especially, relished in how she could immediately change the state of a marble without having looked at it by gazing at another marble. And in how that change released a chiming sound to summon a cottage’s occupant.
 
@@ -65,7 +65,7 @@ Soya nodded, and began to count: "One."
 ![](/assets/imgs/Soya_Luna_Full_Illustration.png){: style="max-width: 500px"}
 	
 
-The next few moments went in Luna trying to snatch a glimmering butterfly from the air, with Soya contributing unhelpful albeit enthusiastic remarks, before Luna remembered why they were there.
+Luna attempted to snatch a glimmering butterfly from the air, Soya contributing unhelpful albeit enthusiastic remarks. They spent a few breezy moments like this before Luna remembered why they were there.
 	
 "Wait,” Luna said. “Let's ring the bell first and then catch it?” 
 	

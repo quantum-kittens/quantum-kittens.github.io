@@ -8,7 +8,6 @@ order: 5
 
 Copyright © 2022 Radha Pyari Sandhir
 
-## Credit
 
 ## Ownership of copyright
 
