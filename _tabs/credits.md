@@ -33,17 +33,21 @@ And on Twitter at [@rashichandra](https://twitter.com/rashichandra)
 
 
 
-
-### Support Illustration and Art Direction: Radha Pyari Sandhir
+Support Illustration and Art Direction: Radha Pyari Sandhir
 
 
 # The Cats
 
 The characters are based on real life cats. 
 
-Under construction
+*More to come, under construction*
 
 
 # Acknowledgements
 
-Under construction
+Editor: [Suzanne Musin](https://www.linkedin.com/in/suzannemusin/), technical editor and product content strategist for the high tech industry. The right person to ask about Ancient Greek literature clues in a crossword puzzle.
+
+Technical reviewer: James L. Weaver, quantum & classical developer, author and speaker.
+
+
+*More to come, under construction*
