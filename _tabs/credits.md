@@ -33,7 +33,7 @@ And on Twitter at [@rashichandra](https://twitter.com/rashichandra)
 
 
 
-Support Illustration and Art Direction: Radha Pyari Sandhir
+### Support Illustration, Animation, and Art Direction: Radha Pyari Sandhir
 
 
 # The Cats
