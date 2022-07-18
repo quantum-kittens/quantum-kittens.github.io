@@ -4,11 +4,11 @@ math: true
 ---
 
 
-There isn’t much you can do with a single classical bit. Information processing and algorithms  usually require more units of information. Down at the machine level, an image on your social media feed, for instance, is not represented by a single bit. It is represented by *many* bits, many 0’s and 1’s, long strings of bits, and it is those bit strings that are transmitted across the internet and processed by your devices.
+There isn’t much you can do with a single classical bit. Information processing and algorithms usually require more units of information. For instance, down at the machine level, an image on your social media feed is not represented by a single bit. It is represented by *many* bits, many 0’s and 1’s, long strings of bits, and it is those bit strings that are transmitted across the internet and processed by your devices.
 
 In a similar fashion, there isn’t much you can do with a single qubit, no matter how fancy a qubit may seem. In fact, the potential advantage of quantum computing over classical computing in certain contexts lies in being able to one day create processors with hundreds and maybe thousands of stable, perfect qubits.
 
-Therefore, most quantum computing protocols involve more than one qubit, the way the doorbells of Whiskerton involve more than one marble. Granted, the doorbells of Whiskerton are still very simple quantum systems with only two marbles, whereas some of the algorithms designed for future quantum computers involve loads more. Nonetheless, these doorbells illustrate something that even more complex protocols make use of, a quantum phenomenon that has no analog in the classical world: *quantum entanglement*.
+Therefore, most quantum computing protocols involve more than one qubit, the way the doorbells of Whiskerton involve more than one marble. Granted, the doorbells of Whiskerton are still very simple quantum systems with only two marbles, whereas some of the algorithms designed for future quantum computers involve loads more. Nonetheless, these doorbells illustrate something that even more complex protocols make use of. It's a quantum phenomenon that has no analog in the classical world: *quantum entanglement*.
 
 ## What is Quantum Entanglement?
 
@@ -19,7 +19,7 @@ In essence, the following is possible in the quantum world:
 > Even if two qubits (or quantum systems) are too far apart to influence each other, they can still be correlated in such a way that tampering with one immediately affects the other.
 {: .prompt-tip }
 
-The two marbles in a Whiskertese doorbell are entangled. Remember that if one turns red, the second one does as well, even though the two are in separate boxes. No one needs to look directly at the second marble in order for it to reduce to a single color!  
+The two marbles in a Whiskertese doorbell are entangled. Remember that if one turns red, the second one does as well, even though the two are in separate boxes. No one needs to look directly at the second marble in order for it to reduce to a single color.  
 
 This entanglement isn’t quite like the correlations we see in our everyday lives. In our classical world, if you have two marbles in an opaque bag, one red and one blue, and you pull out the blue one, you would know immediately that the red one was still in the bag. That’s classical correlation, the type of correlation we experience on the daily. 
 
@@ -29,14 +29,14 @@ However, quantum entanglement doesn’t behave like classical correlations. Ther
 
 Since we’re talking about two entities immediately influencing one another despite distance between them, at this point you may rightfully wonder: does this mean we can send information faster than light? Unfortunately, the answer is no.
 
-The catch is that simply performing any old type of measurement won’t work—yes, there are different *types* of measurements! The varying types of measurements are beyond the scope of the current text, but suffice it to say that if you and a friend who lives far away share an entangled pair, then the type of measurement you perform on your part of the pair must be conveyed to your friend somehow. If your friend doesn’t know which type of measurement to perform on their part, they won’t be able to ‘see’ the expected result! So some sort of communication must take place, say, through a telephone call. Which… cannot happen faster than light.
+The catch is that simply performing any old type of measurement won’t work—yes, there are different *types* of measurements! The varying types of measurements are beyond the scope of the current text, but suffice it to say that if you and a friend who lives far away share an entangled pair, then the type of measurement you perform on your part of the pair must be conveyed to your friend somehow. If your friend doesn’t know which type of measurement to perform on their part, they won’t be able to ‘see’ the expected result! So some sort of communication must take place, say, through a telephone call. Which…cannot happen faster than light.
 
 >If you’d like to dive a little deeper into quantum entanglement, read on! Otherwise, head on over to the next page: This is Not the End.
 {: .prompt-info }
 
 _______
 
-## Mathematical Representation of Multi-qubit States
+## Mathematical Representation of Multi-Qubit States
 
 Multiple qubit states are represented in a similar manner to single qubit states. We’ll focus on two-qubit states since Whiskerton doorbells have two qubits, but the representation holds for even higher numbers.
 
@@ -76,9 +76,9 @@ So here is what that state looks like:
 \label{eq:bellstate}
 \end{equation}
 
-The marbles are in what as known as a "Bell state”—named after the physicist John S. Bell, and *not* because this is the state of the doorbells in Whiskerton. The above equation is what this particular Bell state looks like mathematically, where $\phi^+$ is a naming convention. [^fn-nth-2]
+The marbles are in what is known as a "Bell state”—named after the physicist John S. Bell, and *not* because this is the state of the doorbells in Whiskerton. The above equation is what this particular Bell state looks like mathematically, where $\phi^+$ is a naming convention. [^fn-nth-2]
 
-[^fn-nth-2]: This is what the Bell state looks like mathematically in the *computational basis*, which is a reference to the type of measurement required to ‘see’ the outcome. There are different bases associated with different types of measurements!
+[^fn-nth-2]: This is what the Bell state looks like mathematically in the *computational basis*, which is a reference to the type of measurement required to ‘see’ the outcome. There are different bases associated with different types of measurements.
 
 As you can see, there's an equal probability for either of the two basis states $\ket{00},\ket{11}$ to occur, before the first qubit is measured. But when the first qubit becomes either $\ket{0}$ or $\ket{1}$, then the second one has no choice but to follow. In this manner the outcomes are correlated, and the qubits are entangled. 
 
@@ -119,19 +119,19 @@ from qiskit.providers.aer import QasmSimulator
 
 #Create Doorbell Entangler Circuit
 
-doorbell_circuit = QuantumCircuit(2, 2) # add two qubits (Whiskerton marbles) and two classical bits (to store the measurement outcome)
+doorbell_circuit = QuantumCircuit(2, 2) # Create a circuit with two qubits (Whiskerton marbles) and two classical bits (to store the measurement outcome).
 
-doorbell_circuit.h(0) # add a Hadamard gate to the first qubit 
+doorbell_circuit.h(0) # Add a Hadamard gate to the first qubit/ 
 
-doorbell_circuit.cx(0,1) # add a cnot gate with the first qubit as the control and the second qubit as the target; the target flips its state when the control is in the 1 state  
+doorbell_circuit.cx(0,1) # Add a cnot gate with the first qubit as the control and the second qubit as the target. The target flips its state when the control is in the 1 state.
 
-doorbell_circuit.measure([0,1],[0,1]) # add measurement operators (this is equivalent to a cat looking directly at the outer marble)
+doorbell_circuit.measure([0,1],[0,1]) # Add measurement operators (this is equivalent to a cat looking directly at the outer marble).
 
-doorbell_circuit.draw('mpl') # see how the circuit looks
+doorbell_circuit.draw('mpl') # See how the circuit looks.
 
 ```
 
-As an exercise, run the this circuit in a similar way to the marble circuit in [Chapter 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)!
+As an exercise, run this circuit in a similar way to the marble circuit in [Chapter 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)!
 
 *Note: the Qiskit code provided is open source, and does not fall under the copyright of Quantum Kittens.*
 
