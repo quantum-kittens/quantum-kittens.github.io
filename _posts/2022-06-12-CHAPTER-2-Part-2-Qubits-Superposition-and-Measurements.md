@@ -7,11 +7,11 @@ math: true
 
 You very likely know what classical computing is; it’s what most people mean when they say “computing”. This is the computing done by everyday electronic gadgets like the device you’re using to read this, and even the computing done by supercomputers tucked away in labs.
 
-Deep down at the fundamental level of a classical computer, information is carried by *bits*: single units of information that can have only one of two values or *states*, 0 or 1.  In much the same way, quantum computers have a fundamental computing unit, called quantum bits or *qubits*. Here’s a fun fact: the marbles of Whiskerton actually represent qubits!
+Deep down at the fundamental level of a classical computer, information is carried by *bits*: single units of information that can have only one of two values or *states*: 0 or 1.  In much the same way, quantum computers have a fundamental computing unit, called quantum bits or *qubits*. Here’s a fun fact: the marbles of Whiskerton actually represent qubits!
 
 ## What is a Qubit?
 
-A qubit is the simplest system in quantum computing, the fundamental building block for quantum computation. Physically, qubits can take a number of different forms, depending on the hardware a quantum computer uses. But, behaviorally, they act the same way! So you can consider a ‘qubit’ to be an abstract mathematical object that behaves in a curious manner different from a classical bit. Remember how classical bits can take on one of two values, 0 and 1? A qubit can do that and more:
+A qubit is the simplest system in quantum computing, the fundamental building block for quantum computation. Physically, qubits can take a number of different forms, depending on the hardware a quantum computer uses. But, behaviorally, they act the same way. So you can consider a ‘qubit’ to be an abstract mathematical object that behaves in a curious manner different from a classical bit. Classical bits can take on one of two values, 0 and 1, but a qubit can do that and more:
 
 > Qubits are abstract mathematical objects that have the ability to not only be in the states 0 or 1, but in a *superposition* of the two. 
 {: .prompt-tip }
@@ -20,21 +20,21 @@ A qubit is the simplest system in quantum computing, the fundamental building bl
 
 Quantum superposition is a neat quantum physics phenomenon that doesn’t really have an analog in classical physics. You can think of it as a combination. 
 
-Where classical bits can only ever be in state 0 or 1 and never a combination of the two, quantum states can be combined and still be valid states. So the state of a qubit can be a combination of 0 and 1!
+Where classical bits can only ever be in state 0 or 1 and never a combination of the two, quantum states can be combined and still be valid states. So the state of a qubit can be a combination of 0 *and* 1.
 
 In Whiskerton, the marbles are by default in such a superposition state: an equally weighted combination of the colors red and blue. It would be incorrect to think of these colors as paint colors. In your everyday, classical experience, if you combine red and blue paint, you would get purple paint. But Whiskertese marbles aren’t actually purple; after a cat directly observes a marble, the color can turn either red or blue, with a fifty percent chance for each. You definitely cannot get the colors red or blue back if you have purple paint!
 
 Being able to make use of this wondrous phenomenon is one of the ways quantum computing differs from classical computing. In a classical computer, if you perform an operation on a bit, you’re essentially performing that operation on either a 0 or 1, one at a time. If you need to perform an operation on both, you’d have to do so in two shots, consecutively. 
 
-But by harnessing superposition, a quantum computer could perform that operation on both 0 and 1 at the same time. If we scale this up to many qubits, you can imagine how this may potentially result in speed-ups or an increase in memory capacity or other improvements!
+But by harnessing superposition, a quantum computer could perform that operation on both 0 and 1 at the same time. If we scale this up to many qubits, you can imagine how this may potentially result in speed-ups or an increase in memory capacity or other improvements.
 
 ## Measurements
 
 You’ve seen that the marbles have a fifty percent chance of becoming red or blue upon direct observation. A cat observing a marble is a metaphor of measuring a qubit’s state, where red represents a 1 and blue represents a 0. In real life, measurements are conducted by measuring physical quantities in the lab.
 
-Measurement is essentially asking the qubit what state it’s in, but there’s a caveat: simply the act of measurement makes the qubit settle into either the 0 or 1 states, so you only ever get the answer 0 or 1! But there’s a probability associated with each possible outcome.
+Measurement is essentially asking the qubit what state it’s in, but there’s a caveat: simply the act of measurement makes the qubit settle into either the 0 or 1 states, so you only ever get the answer 0 or 1. But there’s a probability associated with each possible outcome.
 
-Even if you happen to know everything about the probabilities beforehand, that is, even if you know the exact superposition state of the qubit before measurement, you cannot predict the outcome of a measurement.
+Even if you happen to know everything about the probabilities beforehand--that is, even if you know the exact superposition state of the qubit before measurement--you cannot predict the outcome of a measurement.
 
 Essentially:
 
@@ -49,7 +49,7 @@ At first glance, it may appear that the benefit of quantum superposition has van
 
 An algorithm is basically a series of operations you perform to get a desired result. What a quantum computing algorithm does is manipulate the probabilities, increasing the probability associated with the desired outcome and decreasing all others. [^footnote] In this way, if the probability associated with the desired state hits 1, then that outcome is guaranteed, which means the behavior is no longer random. 
 
-[^footnote]: Quantum operations are carried out by applying what are known as *quantum gates.* 
+[^footnote]: Quantum operations are carried out by applying what are known as *quantum gates,* logic operations that are the building block of quantum circuits, and analogous to classical logic gates in conventional digital circuits. 
 
 So there you have it. Now that you have an overview of qubits, quantum superposition, and measurements, you know the physics behind the marbles in Whiskerton. 
 
@@ -61,7 +61,7 @@ _______
 
 Quantum states are mathematically represented by what is known as *Dirac notation*, which makes use of something called a *ket*: $\ket{}$[^fn-nth-1].
 
-[^fn-nth-1]: A ket is a mathematical object with certain properties called a *vector*. A qubit can be considered a vector. Two vectors can be combined to form another valid vector. But you don't need to know about vectors to read this text!
+[^fn-nth-1]: A ket is a mathematical object with certain properties called a *vector*. A qubit can be considered a vector. Two vectors can be combined to form another valid vector. But you don't need to know about vectors to read this text.
 
 This is how an arbitrary qubit state is represented[^fn-nth-2]:
 
@@ -74,7 +74,7 @@ This is how an arbitrary qubit state is represented[^fn-nth-2]:
 
 The Greek letter $\psi$, pronounced "sigh", is a symbolic representation of the state. The $\ket{}$ symbol is written, not spoken. When you refer to the qubit, you can voice, "I have a qubit in the state psi,” or write, “I have a qubit in the state  $\ket{\psi}$," after having defined $\ket{\psi}$ in an equation.
 
-Notice that $\psi$ isn't the only thing tucked within a ket. You have $\ket{0}$ and $\ket{1}$ in the equation as well, which are the 0 and 1 states. These are called the *basis states* of the qubits, that is, the possible states a qubit can reduce to after measurement, just as a Whiskertese marble can reduce to a red or a blue.  Since a qubit has *two* basis states, a qubit is a two-level system.
+Notice that $\psi$ isn't the only thing tucked within a ket. You have $\ket{0}$ and $\ket{1}$ in the equation as well, which are the 0 and 1 states. These are called the *basis states* of the qubits; that is, the possible states a qubit can reduce to after measurement, just as a Whiskertese marble can reduce to a red or a blue.  Since a qubit has *two* basis states, a qubit is a two-level system.
 
 The plus sign indicates a combination, or a superposition. The parameters $\alpha_{0}$ and $\alpha_{1}$ are called *amplitudes*, and let us know how likely it is the qubit will be in the state $\ket{0}$ or $\ket{1}$ after measurement, where $\alpha$ is the Greek letter, alpha. The subscript of the symbol $\alpha$ is a label to indicate to which basis state it corresponds. 
 
@@ -100,9 +100,9 @@ Here, $\alpha_{0}=\sqrt{\frac{2}{3}}$, which means the probability of getting th
 
 The thing about qubits is that you cannot determine $\alpha_{0}$ and $\alpha_{1}$ for an arbitrary state $\ket{\psi}$ through measurements--the only way to know exactly what numbers these $\alpha$'s are is to have created the state yourself, or to know the person who created it. This is because a measurement always results in a single outcome: 0 or 1, so no measurement can lead to the knowledge of the $\alpha$'s. If someone else created the state, you can ask them for thousands of qubits in identical states and after thousands of measurements, statistically decipher what the amplitudes and thus the probabilities of the state are. [^fn-nth-5]
 
-[^fn-nth-5]: This is precisely why what are known as *quantum circuits* or quantum computation models that have gate sequences, measurements and the like, are run multiple times: to gather statistics. 
+[^fn-nth-5]: This is precisely why quantum circuits are run multiple times: to gather statistics. Quantum circuits are quantum computation models that have gate sequences, measurements, and the like.
 
-However, you don't necessarily need to know what the $\alpha$'s are in order for qubit states to be useful. The beauty of the qubit state lies in how one can change and manipulate $\alpha_{0}$ and $\alpha_{1}$ with quantum gates before measurement. As mentioned earlier, the goal is to boost the probabilities associated with the desired outcome. If the desired outcome is 0,  then the algorithm can be designed to boost $\alpha_{0}$, regardless of what it is. And if $\alpha_{0}$ hits 1, then the outcome 0 will be guaranteed.
+However, you don't necessarily need to know what the $\alpha$'s are in order for qubit states to be useful. The beauty of the qubit state lies in how one can change and manipulate $\alpha_{0}$ and $\alpha_{1}$ with quantum gates before measurement. As mentioned earlier, the goal is to boost the probabilities associated with the desired outcome. If the desired outcome is 0,  then the algorithm can be designed to boost $\alpha_{0}$, regardless of what it is. And if $\alpha_{0} = 1$, then the outcome 0 will be guaranteed.
 
 ## Physical Qubits
 
@@ -116,9 +116,9 @@ Don’t know what electrons or photons are? Let’s digress briefly:
 >A photon is the building block of electromagnetic radiation, which includes visible light. Everything that you see is due to these photons hitting your retinae. When photons are *polarized*, they vibrate in a specific direction rather than all directions. In terms of qubits, polarization in the horizontal direction, say, can be represented by $\ket{0}$ and polarization in the vertical direction, say, can be represented by $\ket{1}$. A superposition of the two is possible, and corresponds to the photon vibrating in a direction between vertical and horizontal, analogous to Southeast lying between South and East on a compass.
 {: .prompt-info }
 
-One important thing to note about qubit states is that they are not stable. Little disturbances in a qubit's environment can reduce it to either $\ket{0}$ or $\ket{1}$, disturbances like heat, vibrations, etc.[^fn-nth-6] And even *that* is unstable; after some time a qubit can jump back into a superposition. It's this little tug of war of states that makes qubits a little tricky to manipulate in the lab--and what keeps the cats of Whiskerton intrigued!
+One important thing to note about qubit states is that they are not stable. Little disturbances in a qubit's environment can reduce it to either $\ket{0}$ or $\ket{1}$: disturbances like heat, vibrations, etc.[^fn-nth-6] And even *that* is unstable; after some time a qubit can jump back into a superposition. It's this little tug of war of states that makes qubits a little tricky to manipulate in the lab--and what keeps the cats of Whiskerton intrigued!
 
-[^fn-nth-6]: This sensitivity of quantum states is one of the obstacles in fabricating stable, perfect physical qubits, and decides with a large number qubits. But this is an exciting research area with lots of promising progress. 
+[^fn-nth-6]: This sensitivity of quantum states is one of the obstacles in fabricating stable, perfect physical qubits, and devices with a large number of qubits. But this is an exciting research area with lots of promising progress. 
 
 ## Schrödinger's Cat
 
@@ -130,7 +130,7 @@ Qubits are two-level systems and have two basis states, but there are other quan
 
 No one really knows why this happens. One possible explanation is the Copenhagen interpretation of quantum mechanics, in which the act of measurement itself collapses all possibilities to a single one. In 1935, physicist Erwin Schrödinger published a paper that outlined his famous thought experiment as a push-back to this interpretation, by hypothetically extrapolating quantum effects on a microscopic level to an everyday macroscopic object: a cat.
 
-In the original thought experiment, a radioactive substance is used instead of a qubit (or a Whiskertese marble). Radioactive substances decay according to  probabilities, just like a qubit reduces to a certain state according to probabilities.
+In the original thought experiment, a radioactive substance is used instead of a qubit (or a Whiskertese marble). Radioactive substances decay according to probabilities, just like a qubit reduces to a certain state according to probabilities.
 
 A cat is placed in a box with a radioactive substance that is linked to a vial of poison. If any one of the atoms decays, then the vial shatters, poisoning the cat. Thus, the state of the cat is coupled with that of the poison system, which is governed by the probability that at least one atom will decay. In this way, before the box is opened, the cat can be considered to be both dead or alive, because each of the possibilities is likely. That is, the cat's reality is undetermined prior to the opening of the box. 
 
@@ -157,7 +157,7 @@ _____________________________
 
 This section is for programmers familiar with python who want to learn how to use Qiskit, IBM Quantum’s open source python framework to program quantum computers.
 
-You can simulate a Whiskerton marble using this code! This code walks you through how to create and run a quantum circuit with a single qubit.
+You can simulate a Whiskerton marble using this code. This code walks you through creating and running a quantum circuit with a single qubit.
 
 You can run this code in two ways:
 
@@ -194,11 +194,11 @@ marble_circuit.draw('mpl') # see how the circuit looks
 
 marble_state = {'1': 'red', '0': 'blue'}
 
-simulator = QasmSimulator() # identify the quantum computer to run this on, in this case it's a simulator not a real device
+simulator = QasmSimulator() # Identify the quantum computer to run this on. In this case it's a simulator not a real device.
 
-compiled_circuit = transpile(marble_circuit, simulator) # compile the circuit down to low-level QASM instructions
+compiled_circuit = transpile(marble_circuit, simulator) # Compile the circuit down to low-level QASM instructions.
 
-job = simulator.run(compiled_circuit, shots=1000) # run the circuit on the simulator, 1000 times to gather statistics
+job = simulator.run(compiled_circuit, shots=1000) # Run the circuit on the simulator 1000 times to gather statistics.
 
 
 # fetch and print the outcome:
@@ -208,7 +208,7 @@ counts = result.get_counts(compiled_circuit)
 
 ans = str(max(counts, key=counts.get))
 
-print('The marble is ' + marble_state[ans]) # the outcomes is the one associated with the highest count
+print('The marble is ' + marble_state[ans]) # The outcome is the one associated with the highest count.
 ```
 
  ```python
@@ -216,7 +216,7 @@ print('The marble is ' + marble_state[ans]) # the outcomes is the one associated
 # Examine the statistics and plot histogram
 
 print("Your result in the form of counts:", counts)
-print("This means in 1000 shots you get blue " + str(counts['0']) + " times, and red " + str(counts['1']) + " times.")
+print("Thus, in 1000 shots, you get blue " + str(counts['0']) + " times, and red " + str(counts['1']) + " times.")
 
 plot_histogram(counts)
 ```
