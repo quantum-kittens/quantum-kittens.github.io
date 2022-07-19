@@ -22,7 +22,7 @@ Quantum superposition is a neat quantum physics phenomenon that doesn’t really
 
 Where classical bits can only ever be in state 0 or 1 and never a combination of the two, quantum states can be combined and still be valid states. So the state of a qubit can be a combination of 0 *and* 1.
 
-In Whiskerton, the marbles are by default in such a superposition state: an equally weighted combination of the colors red and blue. It would be incorrect to think of these colors as paint colors. In your everyday, classical experience, if you combine red and blue paint, you would get purple paint. But Whiskertese marbles aren’t actually purple; after a cat directly observes a marble, the color can turn either red or blue, with a fifty percent chance for each. You definitely cannot get the colors red or blue back if you have purple paint!
+![](/assets/imgs/Marble_Animation.png){: style="max-width: 150px" .left} In Whiskerton, the marbles are by default in such a superposition state: an equally weighted combination of the colors red and blue. It would be incorrect to think of these colors as paint colors. In your everyday, classical experience, if you combine red and blue paint, you would get purple paint. But Whiskertese marbles aren’t actually purple; after a cat directly observes a marble, the color can turn either red or blue, with a fifty percent chance for each. You definitely cannot get the colors red or blue back if you have purple paint!
 
 Being able to make use of this wondrous phenomenon is one of the ways quantum computing differs from classical computing. In a classical computer, if you perform an operation on a bit, you’re essentially performing that operation on either a 0 or 1, one at a time. If you need to perform an operation on both, you’d have to do so in two shots, consecutively. 
 
@@ -53,7 +53,7 @@ An algorithm is basically a series of operations you perform to get a desired re
 
 So there you have it. Now that you have an overview of qubits, quantum superposition, and measurements, you know the physics behind the marbles in Whiskerton. 
 
->If you’d like to dive deeper into these concepts and see how Blade’s predicament is related to what is known as Schrödinger’s cat, read on! Otherwise, head on over to the next story: Link
+>If you’d like to dive deeper into these concepts and see how Blade’s predicament is related to what is known as Schrödinger’s cat, read on! Otherwise, head on over to the next story: [Chapter 3 - Story - Doorbells](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)
 {: .prompt-info }
 _______
 
@@ -61,7 +61,7 @@ _______
 
 Quantum states are mathematically represented by what is known as *Dirac notation*, which makes use of something called a *ket*: $\ket{}$[^fn-nth-1].
 
-[^fn-nth-1]: A ket is a mathematical object with certain properties called a *vector*. A qubit can be considered a vector. Two vectors can be combined to form another valid vector. But you don't need to know about vectors to read this text.
+[^fn-nth-1]: A ket denotes a mathematical object with certain properties called a *vector*. A qubit can be considered a vector. Two vectors can be combined to form another valid vector. But you don't need to know about vectors to read this text.
 
 This is how an arbitrary qubit state is represented[^fn-nth-2]:
 
@@ -78,7 +78,7 @@ Notice that $\psi$ isn't the only thing tucked within a ket. You have $\ket{0}$ 
 
 The plus sign indicates a combination, or a superposition. The parameters $\alpha_{0}$ and $\alpha_{1}$ are called *amplitudes*, and let us know how likely it is the qubit will be in the state $\ket{0}$ or $\ket{1}$ after measurement, where $\alpha$ is the Greek letter, alpha. The subscript of the symbol $\alpha$ is a label to indicate to which basis state it corresponds. 
 
-Mathematically, if we square the amplitudes, we’ll get the probabilities associated with each basis state. So, if you measure a qubit in the state $\ket{\psi}$, you will get the result $\ket{0}$ with a probability $\alpha_{0}^2$, or get the result $\ket{1}$ with a probability $\alpha_{1}^2$. [^fn-nth-3] 
+Mathematically, if we square the amplitudes, we’ll get the probabilities associated with each basis state. So, if you measure a qubit in the state $\ket{\psi}$, you will get the result 0 with a probability $\alpha_{0}^2$, or get the result 1 with a probability $\alpha_{1}^2$. [^fn-nth-3] 
 
 [^fn-nth-3]: The superscript 2 indicates a 'square', which means the number is being multiplied by itself. That is, $\alpha_{0}^2=\alpha_{0}*\alpha_{0}$.
 
@@ -92,7 +92,7 @@ Let's look at a specific example. Suppose we have a qubit in the state:
 \ket{\psi}=\sqrt{\frac{2}{3}}\ket{0}-\frac{1}{\sqrt{3}}\ket{1}
 \end{equation}
 
-Here, $\alpha_{0}=\sqrt{\frac{2}{3}}$, which means the probability of getting the result $\ket{0}$ after measurement is $\frac{2}{3}$. Similarly for $\alpha_{1}=-\frac{1}{\sqrt{3}}$, and a probability of  $\frac{1}{3}$ associated with $\ket{1}$ . That is, if you have a ton of qubits in this state, and you measure them all, statistically speaking, approximately one third of them would yield the outcome 1. The larger the amplitude, $\alpha$, the higher the probability, and the more likely it is to find the qubit in the associated state after measurement.[^fn-nth-4]
+Here, $\alpha_{0}=\sqrt{\frac{2}{3}}$, which means the probability of getting the result 0 after measurement is $\frac{2}{3}$. Similarly for $\alpha_{1}=-\frac{1}{\sqrt{3}}$, and a probability of  $\frac{1}{3}$ associated with result 1. That is, if you have a ton of qubits in this state, and you measure them all, statistically speaking, approximately one third of them would yield the outcome 1. The larger the amplitude, $\alpha$, the higher the probability, and the more likely it is to find the qubit in the associated state after measurement.[^fn-nth-4]
 
 [^fn-nth-4]: Note for the mathematicians: we refer to $mod(\alpha)$ here.
 
@@ -106,7 +106,7 @@ However, you don't necessarily need to know what the $\alpha$'s are in order for
 
 ## Physical Qubits
 
-By now you know that qubit states are mathematical constructs, which make them easier to work with mathematically to develop algorithms and the like without making a statement on the physical system that is used. This is important, because it doesn't matter whether you physically construct qubit states in the lab as, say, electron spins, polarized states of photons, or something else.
+As stated earlier, qubit states are mathematical constructs, which make them easier to work with mathematically to develop algorithms and the like without making a statement on the physical system that is used. This is important, because it doesn't matter whether you physically construct qubit states in the lab as, say, electron spins, polarized states of photons, or something else.
 
 Don’t know what electrons or photons are? Let’s digress briefly:
 
@@ -124,7 +124,7 @@ One important thing to note about qubit states is that they are not stable. Litt
 
 This brings us to Blade in the box with the glitter machine. His predicament is a homage of sorts to a thought experiment by physicist Erwin Schrödinger in 1935[^fn-nth-7].
 
-[^fn-nth-7]: Schrödinger, Erwin (November 1935). "Die gegenwärtige Situation in der Quantenmechanik (The present situation in quantum mechanics)". Naturwissenschaften. 23 (48): 807-812.}
+[^fn-nth-7]: Schrödinger, Erwin (November 1935). "Die gegenwärtige Situation in der Quantenmechanik (The present situation in quantum mechanics)". Naturwissenschaften. 23 (48): 807-812.
 
 Qubits are two-level systems and have two basis states, but there are other quantum particles and systems that can have even more. Yet all of these systems, qubits and beyond, adhere to the same rule: upon measurement, the outcome is only one out of all the possibilities. 
 
@@ -140,7 +140,7 @@ This thought experiment has fast become one of the most recognized iconographies
 
 Now, there’s one more curious aspect to this thought experiment: you could say that the state of the cat is *entangled* with that of the radioactive substance. 
 
-Quantum entanglement is actually our next stop! Let’s hop to it:
+Quantum entanglement is actually our next stop! Let’s hop to it: **[Next: Chapter 3 - Story - Doorbells](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)**
 
 _____________________________
 
@@ -151,7 +151,7 @@ _____________________________
 _____________________________
 
 
-**[Next: Chapter 3 - Story - Doorbells](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)**
+
 
 ## Qiskit Code
 

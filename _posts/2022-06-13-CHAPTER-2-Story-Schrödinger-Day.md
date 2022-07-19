@@ -44,9 +44,9 @@ Technically, Luna was a tad old to be called 'kitten', but she was small for her
 
 Luna teetered on the edge of a branch, hanging close to the statue. Hanging *precariously* close to the decorative contraption that was the most important part of the occasion, more so than the celebratory snack: a glitter machine atop Schrödinger’s hat.
 
-You see, the townscats of Whiskerton enjoyed uncertainty. They also enjoyed shiny things. Each year, as a signal to commence the founding day celebrations, a flurry of glitter was released over the statue.
+You see, the townscats of Whiskerton enjoyed uncertainty. They also enjoyed shiny things. Each year, as a signal to commence the Foundation Day celebrations, a flurry of glitter was released over the statue.
 
-The glitter machine consisted of a single marble connected to two glitter vials. During the opening ceremony, a designated councilcat looked directly at the marble. The marble turned either red or blue, and one of the vials would pop open depending on the marble's color, showering colored glitter on their town's beloved founder. In the days leading up to the holiday the townscats greatly enjoyed debating which of the two colors would be released. This year, a green glitter vial was linked to the marble's red, and a purple glitter vial was linked to the marble's blue. 
+The glitter machine consisted of a single marble connected to two glitter vials. During the opening ceremony, a designated councilcat looked directly at the marble. The marble turned either red or blue, and one of the vials would pop open depending on the marble's color, showering colored glitter on their town's beloved founder. In the days leading up to the holiday, the townscats greatly enjoyed debating which of the two colors would be released. This year, a green glitter vial was linked to the marble's red, and a purple glitter vial was linked to the marble's blue. 
 
 Forget the evening snack; if Luna damaged the glitter machine, the celebrations would be ruined. Arya shouted to Luna, but of course, at that moment, Luna's whole world consisted solely of the purple feather. There was no room for admonishments, glitter machines, or even other cats.
 
@@ -56,7 +56,7 @@ Her eyes fell on a familiar assortment of tools scattered around an open toolbox
 
 "Blade?" Arya called, hoping her best friend would hear her, wherever he was.
 
-![](/assets/imgs/Blade_Full_Illustration.png){: style="max-width: 300px" .left}
+![](/assets/imgs/Blade_Full_Illustration.png){: style="max-width: 300px" .right}
 Blade was an agile black cat with blazing yellow eyes, skilled with marbles and tools, and even more skilled at being easily startled. Unsurprisingly, the sudden echo of his name off the buildings that lined the square provoked a monumental leap into the air, back arched. Where had he been? Curled up, fast asleep, tucked under a bush, dreaming of pigeons.
 
 Blade’s protests at his nap’s interruption ceased instantly when he spotted Luna. He scampered to join Arya and the kittens at the foot of the tree, calling to the maddening rascal about how hard he worked on that glitter machine and that she should come down if she knew what was good for her. 

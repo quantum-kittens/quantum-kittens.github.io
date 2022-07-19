@@ -12,11 +12,11 @@ Whiskerton was a town governed by probabilities, monumentally different from its
 
 No, Whiskerton was where they belonged, with its impossibilities and improbabilities and counterintuitivities. Oh: and tuna biscuits, of course.
 
-At the heart of Whiskerton lay its town square, wherein sat a striking feline statue of copper, brass, and gold. While it was positioned under the Great Scratching Tree—-a considerable oak with more scratch than bark—-the warm shadows cast by branches did not diminish the statue’s strikingness but rather enhanced its tender detailing. 
+At the heart of Whiskerton lay its town square, wherein sat a striking feline statue of copper, brass, and gold. While it was positioned under the Great Scratching Tree—a considerable oak with more scratch than bark—the warm shadows cast by branches did not diminish the statue’s strikingness but rather enhanced its tender detailing. 
 
 The statue bore the likeness of Schrödinger, Founder of Whiskerton, gleaming face crinkled in thought as though he contemplated gravely important things, and waistcoat stretched a tad thin around the midriff, betraying a weakness for tuna biscuits with evening cream.
 
-Schrödinger had been a curious pioneer in spite of his tuna biscuit addiction, prone to wander in the hopes of discovering something magnificent. And discover something magnificent he did! A land that was…peculiar, to say the least. Quite unlike any he’d seen before. 
+Schrödinger had been an enthusiastic pioneer in spite of his tuna biscuit addiction, prone to wander in the hopes of discovering something magnificent. And discover something magnificent he did! A land that was…peculiar, to say the least. Quite unlike any he’d seen before. 
 
 ![](/assets/imgs/Feather_Animation.gif){: style="max-width: 150px" .left} 
 
@@ -26,7 +26,7 @@ The grass was not only green, but also purple and blue, for one. For another, th
 
 To establish this extraordinary new town, Schrödinger lured potential denizens with grand shows involving the toys native to the land. Hundreds of animals of all shapes, sizes, and ornamentations showed up to spectate. They hitched tents, bonded over campfires, oohed and aahed at the theatrics, and enjoyed (for the most part) waking up to their tents somehow unexpectedly having popped to a different location within the encampment overnight. 
 
-The animals were perfectly entertained, but it was only the cats who expressed interest in taking up permanent residence in this shiny new land, curious creatures as they were. At the end of the day, non-felines much preferred to live in a place where they could clearly see where and how the toys they loved to toss around moved, thankyou*very*much.
+The animals were thoroughly entertained, but it was only the cats who expressed interest in taking up permanent residence in this shiny new land, curious creatures as they were. At the end of the day, non-felines much preferred to live in a place where they could clearly see where and how the toys they loved to toss around moved, thankyou*very*much.
 
 And so it was that on the fourteenth of April that year, Whiskerton was not only pronounced a town, but declared homeland for all the cats in the world. 
 

@@ -9,7 +9,7 @@ However, if you were to shrink down--and I mean *really* shrink down--you'll fas
 
 The subatomic world is the domain of quantum physics, where results are governed by probabilities.[^fn-nth-1] Outcomes that wouldn't have been likely in the classical context would suddenly be possible. The ball could very well land at your feet no matter how hard you throw it! You and the ball would be subatomic particles, like electrons, and hence governed by the laws of quantum physics.
 
-[^fn-nth-1]: While quantum physics is prevalent at the subatomic, microscopic level, there are some processes that display quantum effects even at the macroscopic level. But not things we encounter as we go about our daily lives.
+[^fn-nth-1]: While quantum physics is prevalent at the subatomic, microscopic level, there are some processes that display quantum effects even at the macroscopic level. But not really things we encounter as we go about our daily lives.
 
 What makes quantum physics so bizarre and, in a way, counterintuitive, is that there are certain quantum phenomena that have no counterpart in classical physics. Quantum particles can be in a superposition of more than one state, they can be entangled, and there are uncertainties associated with their behaviors. There is nothing that we experience in our classical world that is analogous to any of these properties!
 
