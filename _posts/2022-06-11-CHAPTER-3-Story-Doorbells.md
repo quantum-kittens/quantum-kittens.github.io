@@ -19,7 +19,7 @@ Specifically, ringing Blade’s doorbell, as he was a cat who startled easily. W
 
 Now, it wasn’t only Blade’s skittishness that made ringing his doorbell interesting. A Whiskertese doorbell was itself an entertaining contraption, being more extraordinary than an ordinary doorbell. The contraption had been Arya’s idea—she was clever at that sort of thing—and Blade, as her best friend, was clever at bringing Arya’s ideas to life.
 
-![](/assets/imgs/Doorbell.png){: style="max-width: 300px" .right}  
+![](/assets/imgs/Doorbell_Animation.png){: style="max-width: 300px" .right}  
 
 The Whiskertese doorbells were fabricated like so: two marbles were connected by something called an *entangler*, which, true to its name, entangled the marbles. This meant if someone looked directly at one marble, then the second marble would immediately be affected—without anyone having looked at it! Each of the two marbles would be in a superposition of red and blue, but once someone observed one of them, the two marbles would turn the same color: either both red, or both blue.
 
