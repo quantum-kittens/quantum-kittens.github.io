@@ -13,5 +13,7 @@ math: true
 ## How to Read
 
 Each chapter has two parts to it: 
-- Story (part 1) about cats in Whiskerton
-- Commentary (part 2) explaining the quantum computing concepts demonstrated in the story
+- Story (part 1) is about cats in Whiskerton
+- Commentary (part 2) explains the quantum concepts demonstrated in the story
+
+This Beta version contains the first three chapters of *Quantum Kittens*.
