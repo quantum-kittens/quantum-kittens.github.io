@@ -40,7 +40,11 @@ And on Twitter at [@rashichandra](https://twitter.com/rashichandra)
 
 The characters are based on real life cats. 
 
-*More to come, under construction*
+![](/assets/imgs/RL_QK_cats.png){: style="max-width: 450px" }
+
+The main characters, Arya, Blade, and Luna, are the author's cats. You can find them on Instagram at [@catomictheory](https://www.instagram.com/catomictheory/).
+
+Soya and the others mentioned are all beloved cats connected to the author in some way.
 
 
 # Acknowledgements
@@ -49,5 +53,5 @@ Editor: [Suzanne Musin](https://www.linkedin.com/in/suzannemusin/), technical ed
 
 Technical reviewer: James L. Weaver, quantum & classical developer, author and speaker.
 
+The author would also like to extend deep thanks to Manon de Reeper and Preeti Sandhir for invaluable feedback and support, Cotes2020 and Vishal Bajpe for dev guidance, Neil Clarke for license guidance, Rana Prathap Singh for helpful remarks, and Yuri Kobayashi and the rest of the APAC community team at IBM Quantum for encouragement and support.
 
-*More to come, under construction*
