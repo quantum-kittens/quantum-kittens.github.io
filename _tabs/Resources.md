@@ -4,7 +4,25 @@ icon: fas fa-book
 order: 3
 ---
 
+If you'd like to explore more, check out these resources!
 
 
-Under Construction
+### Compilations
+
+- [QuantumCatalog.Com](http://quantumcatalog.com) - Searchable reservoir of (primarily-free) quantum resources for all levels
+
+
+### Videos
+- [VERITASIUM: How Does a Quantum Computer Work?](https://www.youtube.com/watch?v=g_IaVepNDT4&ab_channel=Veritasium)
+- [WIRED: Quantum Computing Expert Explains One Concept in 5 Levels of Difficulty](https://www.youtube.com/watch?v=OWJCfOvochA&t=3s&ab_channel=WIRED)
+
+
+
+
+### Books
+- [Introduction to Classical and Quantum Computing by Thomas G. Wong](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
+- [Qiskit Pocket Guide by James L. Weaver and Frank J. Harkins](https://www.amazon.com/Qiskit-Pocket-Guide-Quantum-Development/dp/1098112474/)
+- [Qiskit Textbook](https://qiskit.org/textbook/preface.html) - online and itneractable
+- [Quantum Computation and Quantum Information by Michael A. Nielsen and Isaac L. Chuang](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information)
+
 
