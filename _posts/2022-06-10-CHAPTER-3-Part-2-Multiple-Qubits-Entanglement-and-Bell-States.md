@@ -111,10 +111,12 @@ You can simulate a Whiskerton doorbell using the following code. By using this c
 
  ```python
 # Importing standard Qiskit libraries
-from qiskit import QuantumCircuit, transpile, Aer, IBMQ
-from qiskit.tools.jupyter import *
+from qiskit import QuantumCircuit, transpile
 from qiskit.visualization import *
-from qiskit.providers.aer import QasmSimulator
+from qiskit import BasicAer
+
+#Loading your IBM Quantum account(s)
+#provider = IBMQ.load_account()
 
 
 #Create Doorbell Entangler Circuit
@@ -129,7 +131,10 @@ doorbell_circuit.measure([0,1],[0,1]) # Add measurement operators (this is equiv
 
 doorbell_circuit.draw('mpl') # See how the circuit looks.
 
+
 ```
+
+The above code is also available as a jupyter notebook [here](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_3.ipynb).
 
 As an exercise, run this circuit in a similar way to the marble circuit in [Chapter 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)!
 

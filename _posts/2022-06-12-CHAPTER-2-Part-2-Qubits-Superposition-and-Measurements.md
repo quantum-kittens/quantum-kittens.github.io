@@ -89,10 +89,10 @@ This means that each quantum state is subject to a constraint. Probability theor
 Let's look at a specific example. Suppose we have a qubit in the state:
 
 \begin{equation}
-\ket{\psi}=\sqrt{\frac{2}{3}}\ket{0}-\frac{1}{\sqrt{3}}\ket{1}
+\ket{\psi}=\sqrt{\frac{2}{3}}\ket{0}-\sqrt{\frac{1}{3}}\ket{1}
 \end{equation}
 
-Here, $\alpha_{0}=\sqrt{\frac{2}{3}}$, which means the probability of getting the result 0 after measurement is $\frac{2}{3}$. Similarly for $\alpha_{1}=-\frac{1}{\sqrt{3}}$, and a probability of  $\frac{1}{3}$ associated with result 1. That is, if you have a ton of qubits in this state, and you measure them all, statistically speaking, approximately one third of them would yield the outcome 1. The larger the amplitude, $\alpha$, the higher the probability, and the more likely it is to find the qubit in the associated state after measurement.[^fn-nth-4]
+Here, $\alpha_{0}=\sqrt{\frac{2}{3}}$, which means the probability of getting the result 0 after measurement is $\frac{2}{3}$. Similarly for $\alpha_{1}=-\sqrt{\frac{1}{3}}$, and a probability of  $\frac{1}{3}$ associated with result 1. That is, if you have a ton of qubits in this state, and you measure them all, statistically speaking, approximately one third of them would yield the outcome 1. The larger the amplitude, $\alpha$, the higher the probability, and the more likely it is to find the qubit in the associated state after measurement.[^fn-nth-4]
 
 [^fn-nth-4]: Note for the mathematicians: we refer to $mod(\alpha)$ here.
 
@@ -165,16 +165,18 @@ You can run this code in two ways:
 - Locally: you can [install Qiskit](https://qiskit.org/) and run the code on your local machine 
 
 
+
+
  ```python
 # Importing standard Qiskit libraries
-from qiskit import QuantumCircuit, transpile, Aer, IBMQ
-from qiskit.tools.jupyter import *
+from qiskit import QuantumCircuit, transpile
 from qiskit.visualization import *
-from ibm_quantum_widgets import *
-from qiskit.providers.aer import QasmSimulator
+from qiskit import BasicAer
+
+#Loading your IBM Quantum account(s)
+#provider = IBMQ.load_account()
 
 #Create Marble Circuit
-
 
 marble_circuit = QuantumCircuit(1, 1) # add one qubit (Whiskerton marble) and one classical bit (to store the measurement outcome)
 
@@ -194,12 +196,11 @@ marble_circuit.draw('mpl') # see how the circuit looks
 
 marble_state = {'1': 'red', '0': 'blue'}
 
-simulator = QasmSimulator() # Identify the quantum computer to run this on. In this case it's a simulator not a real device.
+simulator = BasicAer.get_backend("qasm_simulator") # Identify the quantum computer to run this on. In this case it's a simulator not a real device.
 
 compiled_circuit = transpile(marble_circuit, simulator) # Compile the circuit down to low-level QASM instructions.
 
 job = simulator.run(compiled_circuit, shots=1000) # Run the circuit on the simulator 1000 times to gather statistics.
-
 
 # fetch and print the outcome:
 
@@ -208,7 +209,9 @@ counts = result.get_counts(compiled_circuit)
 
 ans = str(max(counts, key=counts.get))
 
-print('The marble is ' + marble_state[ans]) # The outcome is the one associated with the highest count.
+print('The marble is ' + marble_state[ans] +'.') # The outcome is the one associated with the highest count.
+
+
 ```
 
  ```python
@@ -219,6 +222,10 @@ print("Your result in the form of counts:", counts)
 print("Thus, in 1000 shots, you get blue " + str(counts['0']) + " times, and red " + str(counts['1']) + " times.")
 
 plot_histogram(counts)
+
 ```
+
+The above code is also available as a jupyter notebook [here](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_2.ipynb).
+
 
 *Note: the Qiskit code provided is open source, and does not fall under the copyright of Quantum Kittens.*
