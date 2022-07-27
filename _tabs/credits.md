@@ -51,7 +51,6 @@ Soya and the others mentioned are all beloved cats connected to the author in so
 
 Editor: [Suzanne Musin](https://www.linkedin.com/in/suzannemusin/), technical editor and product content strategist for the high tech industry. The right person to ask about Ancient Greek literature clues in a crossword puzzle.
 
-Technical reviewer: James L. Weaver, quantum & classical developer, author and speaker.
+Technical reviewer: James L. Weaver, quantum & classical developer, author and speaker. [[Github]](https://github.com/javafxpert) [[Twitter]](https://twitter.com/javafxpert)
 
 The author would also like to extend deep thanks to Manon de Reeper and Preeti Sandhir for invaluable feedback and support, Cotes2020 and Vishal Bajpe for dev guidance, Neil Clarke for license guidance, Rana Prathap Singh for helpful remarks, and Yuri Kobayashi and the rest of the APAC community team at IBM Quantum for encouragement and support.
-
