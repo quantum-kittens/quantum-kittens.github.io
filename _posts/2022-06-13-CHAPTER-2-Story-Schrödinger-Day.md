@@ -16,7 +16,7 @@ There were only two snack options available: cheese ribbons or salmon shortcakes
 
 But with just these two options available for the single celebratory snack, Arya was faced with an unfortunate choice. The townscats were evenly divided in their love for these particular snacks; either choice would result in half of them being disappointed. And Arya always avoided disappointing anyone if she could help it.
 
-*Cheese ribbons. No, can’t choose that, poor Jinxy one street over will end up hiccuping for days. Okay, salmon shortcakes, then. No, I’ll never hear the end of it from Blade. Fine, cheese ribbons. Oh, but Bilito will box my ears at our next council meeting! But…if I choose salmon shortcakes,* Poh *will box my ears at our next council meeting!*
+*Cheese ribbons. No, can’t choose that, poor Jinxy one street over will end up hiccuping for days. Okay, salmon shortcakes, then. No, I’ll never hear the end of it from Blade. Fine, cheese ribbons. Oh, but Billito will box my ears at our next council meeting! But…if I choose salmon shortcakes,* Poh *will box my ears at our next council meeting!*
 
 ![](/assets/imgs/Arya_Full_Illustration.png){: style="max-width: 300px" .left}
 Arya’s thoughts raced hither and thither, threatening to implode, panic rearing its wretched head. She eventually realized she could either stay there, paralyzed by her thoughts, or she could cat up and make a decision. So, make a decision it was, but she would do so by consulting a marble. Marbles could be helpful when faced with a difficult choice between two equally weighted options.
