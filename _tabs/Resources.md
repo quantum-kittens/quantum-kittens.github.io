@@ -22,7 +22,7 @@ If you'd like to explore more, check out these resources!
 ### Books
 - [Introduction to Classical and Quantum Computing by Thomas G. Wong](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf)
 - [Qiskit Pocket Guide by James L. Weaver and Frank J. Harkins](https://www.amazon.com/Qiskit-Pocket-Guide-Quantum-Development/dp/1098112474/)
-- [Qiskit Textbook](https://qiskit.org/textbook/preface.html) - online and itneractable
+- [Qiskit Textbook](https://qiskit.org/textbook/preface.html) - online and interactable
 - [Quantum Computation and Quantum Information by Michael A. Nielsen and Isaac L. Chuang](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information)
 
 
