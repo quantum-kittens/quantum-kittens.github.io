@@ -7,4 +7,4 @@ Quantum concepts are portrayed through stories about curious cats who live in Wh
 
 Note: This is the Beta release of *Quantum Kittens*, consisting of only the first three chapters. This book will be completed and released in the near future.
 
-Website link: [quantum-kittens.github.io](http://quantum-kittens.github.io)
+Website link: [quantum-kittens.online](http://quantum-kittens.online)
