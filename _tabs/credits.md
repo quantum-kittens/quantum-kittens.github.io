@@ -56,7 +56,9 @@ Read the [Spanish Translation of Quantum Kittens (Beta)](https://quantum-kittens
 ![](/assets/imgs/yuri_kobayashi_portrait.png){: style="max-width: 200px" .left}
 Yuri Kobayashi is the Asia Pacific Community Lead at IBM Quantum. She has a background in condensed matter physics and joined IBM Research - Tokyo in 2014. She worked on various Accessibility Research projects with a focus on workforce enablement of persons with disabilities by utilizing cognitive AI solutions. In 2019, she joined IBM Quantum with a mission to grow the open-source Qiskit community in the Asia Pacific region. She is passionate about developing strategy and executing unique and scalable quantum education programs for all age groups and backgrounds. She designed and developed the first IBM Quantum Challenge, which is a global competitive programming contest using Qiskit and IBM Quantum systems and has worked with multiple universities and industry clients to promote education and open science in the field.
 
-Read the [Japanese Translation of Quantum Kittens (Beta)](https://quantum-kittens-ja.github.io/)
+Follow her on Twitter at [@YuriKobaya](https://twitter.com/YuriKobaya)
+
+Read the [Japanese Translation of Quantum Kittens (Beta), 日本語で読む](https://quantum-kittens-ja.github.io/)
 
 
 
