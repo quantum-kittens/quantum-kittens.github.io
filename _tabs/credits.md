@@ -4,7 +4,7 @@ icon: fas fa-users
 order: 2
 ---
 
-
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Want to support this project? Buy us a coffee on Ko-fi!', '#14a8a6', 'C0C0H2ZJF');kofiwidget2.draw();</script> 
 
 # About the Author
 ![](/assets/imgs/author_portrait.jpeg){: style="max-width: 200px" .left}
@@ -31,9 +31,9 @@ Follow her on Instagram: [@rashichan](https://www.instagram.com/rashichan/)
 
 And on Twitter at [@rashichandra](https://twitter.com/rashichandra)
 
-
-
 ### Support Illustration, Animation, and Art Direction: Radha Pyari Sandhir
+
+
 
 
 # The Cats
