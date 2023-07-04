@@ -159,11 +159,16 @@ This section is for programmers familiar with python who want to learn how to us
 
 You can simulate a Whiskerton marble using this code. This code walks you through creating and running a quantum circuit with a single qubit.
 
-You can run this code in two ways:
+You can run this code directly online in the <a href="https://learn.qiskit.org/problem-sets/quantumkittens/overview" target="_blank">Quantum Kittens Notepad</a>.
 
-- On the cloud: copy and paste into a jupyter notebook in the [IBM Quantum Lab](https://lab.quantum-computing.ibm.com/hub/user/61fd84d86d6fac71e735e60e/lab) 
-- Locally: you can [install Qiskit](https://qiskit.org/) and run the code on your local machine 
 
+<a href="https://learn.qiskit.org/problem-sets/quantumkittens/overview" target="_blank">
+  <img src="/assets/imgs/qk_notepad.png" width="400px"> 
+</a>
+
+<a href="https://learn.qiskit.org/problem-sets/quantumkittens/chapter-2-qiskit-code" target="_blank">
+  <img src="/assets/imgs/qk_notepad_2.png" width="400px"> 
+</a>
 
 
 
@@ -172,9 +177,6 @@ You can run this code in two ways:
 from qiskit import QuantumCircuit, transpile
 from qiskit.visualization import *
 from qiskit import BasicAer
-
-#Loading your IBM Quantum account(s)
-#provider = IBMQ.load_account()
 
 #Create Marble Circuit
 
@@ -225,7 +227,9 @@ plot_histogram(counts)
 
 ```
 
-The above code is also available as a jupyter notebook [here](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_2.ipynb).
+Or you can run this code in two ways:
 
+- On the cloud: copy and paste into a jupyter notebook in the [IBM Quantum Lab](https://lab.quantum-computing.ibm.com/hub/user/61fd84d86d6fac71e735e60e/lab) 
+- Locally: you can [install Qiskit](https://qiskit.org/) and run the code on your local machine 
 
 *Note: the Qiskit code provided is open source, and does not fall under the copyright of Quantum Kittens.*
