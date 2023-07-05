@@ -155,7 +155,7 @@ _____________________________
 
 ## Qiskit Code
 
-This section is for programmers familiar with python who want to learn how to use Qiskit, IBM Quantum’s open source python framework to program quantum computers.
+This section is for those of you who want to get started with Qiskit, IBM Quantum’s open source python framework to program quantum computers.
 
 You can simulate a Whiskerton marble using the supplementary Qiskit code. This code walks you through creating and running a quantum circuit with a single qubit.
 
@@ -171,7 +171,7 @@ You can run this code directly online in the <a href="https://learn.qiskit.org/p
 </a>
 
 
-You can also run the code privided in the Notepad in two ways:
+You can also run the code provided in the Notepad in two ways:
 
 - On the cloud: copy and paste into a jupyter notebook in the [IBM Quantum Lab](https://lab.quantum-computing.ibm.com/hub/user/61fd84d86d6fac71e735e60e/lab) 
 - Locally: you can [install Qiskit](https://qiskit.org/) and run the code on your local machine 
