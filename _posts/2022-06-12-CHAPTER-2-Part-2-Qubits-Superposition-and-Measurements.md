@@ -157,7 +157,7 @@ _____________________________
 
 This section is for those of you who want to get started with Qiskit, IBM Quantum’s open source python framework to program quantum computers.
 
-You can simulate a Whiskerton marble using the supplementary Qiskit code. This code walks you through creating and running a quantum circuit with a single qubit.
+You can simulate a Whiskerton marble using this supplementary Qiskit code. This code walks you through creating and running a quantum circuit with a single qubit.
 
 You can run this code in two ways:
 
@@ -168,12 +168,12 @@ You can run this code in two ways:
 
 
  ```python
-# Importing standard Qiskit libraries
+# Import necessary Qiskit libraries
 from qiskit import QuantumCircuit, transpile
 from qiskit.visualization import *
 from qiskit import BasicAer
 
-#Loading your IBM Quantum account(s)
+#Load your IBM Quantum account(s)
 #provider = IBMQ.load_account()
 
 #Create Marble Circuit
