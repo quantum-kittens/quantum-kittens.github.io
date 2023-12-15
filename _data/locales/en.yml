@@ -61,8 +61,8 @@ post:
   relate_posts: Further Reading
   share: Share
   button:
-    next: Next
-    previous: Previous
+    next: Previous
+    previous: Next
     copy_code:
       succeed: Copied!
     share_link:
