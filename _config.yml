@@ -178,8 +178,6 @@ compress_html:
     envs: [development]
 
 exclude:
-  - '*.gem'
-  - '*.gemspec'
   - tools
   - README.md
   - LICENSE
@@ -195,3 +193,9 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+languages: ["en", "es", "ja"]
+default_lang: "en"
+exclude_from_localization: ["assets"]
+parallel_localization: true
+lang_from_path: true
