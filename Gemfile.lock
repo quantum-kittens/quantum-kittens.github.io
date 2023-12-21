@@ -45,6 +45,8 @@ GEM
     jekyll-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
     jekyll-paginate (1.1.0)
+    jekyll-polyglot (1.7.0)
+      jekyll (>= 4.0, >= 3.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.0.0)
@@ -111,6 +113,7 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer (~> 3.18)
+  jekyll-polyglot
   jekyll-theme-chirpy (~> 5.2.0)
   tzinfo (~> 1.2)
   tzinfo-data
