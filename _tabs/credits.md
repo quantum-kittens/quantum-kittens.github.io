@@ -73,4 +73,4 @@ Editor: [Suzanne Musin](https://www.linkedin.com/in/suzannemusin/), technical ed
 
 Technical reviewer: James L. Weaver, quantum & classical developer, author and speaker. [[Github]](https://github.com/javafxpert) [[Twitter]](https://twitter.com/javafxpert)
 
-The author would also like to extend deep thanks to Manon de Reeper and Preeti Sandhir for invaluable feedback and support, Cotes2020 and Vishal Bajpe for dev guidance, Neil Clarke for license guidance, Rana Prathap Singh for helpful remarks, and Yuri Kobayashi (+ APAC community team at IBM Quantum), Josh Sippie, and a particular group called Weasels for encouragement and support.
+The author would also like to extend deep thanks to Manon de Reeper and Preeti Sandhir for invaluable feedback and support, Va Barbosa for invaluable dev contributions, Cotes2020 and Vishal Bajpe for dev guidance, Neil Clarke for license guidance, Rana Prathap Singh for helpful remarks, and Yuri Kobayashi (+ APAC community team at IBM Quantum), Josh Sippie, and a particular group called Weasels for encouragement and support.
