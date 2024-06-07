@@ -26,19 +26,33 @@ Au coeur de Whiskerton se trouvait la place du village, où l'on pouvait croiser
 
 ___The statue bore the likeness of Schrödinger, Founder of Whiskerton, gleaming face crinkled in thought as though he contemplated gravely important things, and waistcoat stretched a tad thin around the midriff, betraying a weakness for tuna biscuits with evening cream.___
 
+La statue représentait Schrödinger, le fondateur de Whiskerton, avec son visage lumineux plissé par la réflexion, comme s'il méditait sur des questions d'une grande importance. Sa veste s'étirait légèrement autour de son ventre, trahissant un faible pour les biscuits au thon accompagnés de crème.
+
 ___Schrödinger had been an enthusiastic pioneer in spite of his tuna biscuit addiction, prone to wander in the hopes of discovering something magnificent. And discover something magnificent he did! A land that was…peculiar, to say the least. Quite unlike any he’d seen before.___
+
+Malgré son addiction aux biscuits au thon, Schrödinger avait été un pionnier enthousiaste, enclin à errer dans l'espoir de découvrir quelque chose de magnifique. Et il découvrit effectivement quelque chose de magnifique ! Une terre qui était... particulière, pour le moins dire. Très différente de tout ce qu'il avait vu auparavant.
 
 ![](/assets/imgs/Feather_Animation.gif){: style="max-width: 150px" .left} 
 
 ___The grass was not only green, but also purple and blue, for one. For another, the hills and trees and ponds were prone to shift about every so often, as though they couldn’t quite pick their favorite spots. But the best part about this land? There were *toys*. Lots and lots of toys: marbles and feathers and felt mice and more, all as wondrous and peculiar as the land itself, shifting colors, periodically disappearing, moving in ways that were difficult to predict.___
 
+L'herbe n'était pas seulement verte, mais aussi violette et bleue. De plus, les collines, les arbres et les étangs avaient tendance à se déplacer de temps en temps, comme s'ils n'arrivaient pas réellement à choisir leurs endroits préférés. Mais le meilleur dans cette contrée ? Il y avait des *jouets*. Beaucoup, beaucoup de jouets : des billes, des plumes, des souris en feutrine et bien d'autres, tous aussi merveilleux et étranges que le lieu lui-même, changeant de couleurs, disparaissant périodiquement, bougeant de manières difficiles à prédire.
+
 ___*An extraordinary land; perfect for an extraordinary town*, Schrödinger is believed to have thought while munching on a tuna biscuit, eyes grazing the curious landscape.___
+
+*Une terre extraordinaire; parfaite pour une ville extraordinaire*, dit-on que Schrödinger pensait à ce moment alors qu'il machait un biscuit au thon, les yeux admirant ce curieux lieu.
 
 ___To establish this extraordinary new town, Schrödinger lured potential denizens with grand shows involving the toys native to the land. Hundreds of animals of all shapes, sizes, and ornamentations showed up to spectate. They hitched tents, bonded over campfires, oohed and aahed at the theatrics, and enjoyed (for the most part) waking up to their tents somehow unexpectedly having popped to a different location within the encampment overnight.___
 
+Pour établir cette nouvelle ville extraordinaire, Schrödinger attirait les habitants potentiels avec de grands spectacles mettant en scène les jouets indigènes de ces terres. Des centaines d'animaux de toutes formes, tailles et ornementations se présentèrent pour assister au spectacle. Ils dressèrent des tentes, se lièrent d'amitié autour de feux de camp, poussèrent des "oh" et des "ah" d'émerveillement devant les pitreries, et appréciaient (pour la plupart) de se réveiller le matin pour découvrir que leurs tentes avaient mystérieusement déménagé à un autre endroit du campement pendant la nuit.
+
 ___The animals were thoroughly entertained, but it was only the cats who expressed interest in taking up permanent residence in this shiny new land, curious creatures as they were. At the end of the day, non-felines much preferred to live in a place where they could clearly see where and how the toys they loved to toss around moved, thankyou*very*much.___
 
+Les animaux étaient complètement divertis, mais seuls les chats exprimèrent leur intérêt à s'installer de façon permanente dans ces nouvelles terres scintillantes, créatures curieuses qu'ils étaient. Au final, les non-félins préféraient largement vivre dans un endroit où ils pouvaient clairement voir où et comment bougeaient les jouets qu'ils aimaient lancer, merci*beaucoup*pourtout.
+
 ___And so it was that on the fourteenth of April that year, Whiskerton was not only pronounced a town, but declared homeland for all the cats in the world.___
+
+Et ainsi, le quatorze avril de cette année-là, Whiskerton fut non seulement proclamée ville, mais également déclarée patrie pour tous les chats du monde.
 
 _____________________________
 
