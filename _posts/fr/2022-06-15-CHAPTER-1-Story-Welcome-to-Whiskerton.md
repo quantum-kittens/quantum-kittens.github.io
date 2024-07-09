@@ -6,7 +6,7 @@ title: 'Chapitre 1 - Histoire - Bienvenue à Whiskerton'
 
 ___Once upon a time, in a land far from here (though closer than you may think), was a little town called Whiskerton. Though little, the town was far from ordinary. Not only was it home to a coterie of curious cats, Whiskerton abided by the laws of quantum physics.___
 
--Il était une fois, dans des terres très éloignées (quoique plus proche que ce que l'on pourrait penser), se trouvait le petit village de Whiskerton. Malgré sa petite taille, le village n'avait rien d'ordinaire. Non seulement habritait-il une clique de chats curieux, Whiskerton fonctionnait selon les lois de la physique quantique.
+Il était une fois, dans des terres très éloignées (quoique plus proche que ce que l'on pourrait penser), se trouvait le petit village de Whiskerton. Malgré sa petite taille, le village n'avait rien d'ordinaire. Non seulement habritait-il une clique de chats curieux, Whiskerton fonctionnait selon les lois de la physique quantique.
 
 ___That's why its feline residents loved it so dearly. Who wouldn't want to live in a place where feathers spontaneously appeared and disappeared? Or where marbles could be red and blue at the same time? Or where one could not tell with certainty where a felt mouse would land if one tossed it in the air; only where it *probably* might but *quite likely not* end up?___
 
@@ -63,7 +63,7 @@ _____________________________
 _____________________________
 
 
-**[Chapitre 1 Partie 2 - Description - Introduction](https://quantum-kittens-fr.github.io/posts/CHAPTER-1-Part-2-Introduction-to-Quantum-Computing/)**
+**[Chapitre 1 Partie 2 - Commentaire - Introduction à l'Informatique Quantique](https://quantum-kittens-fr.github.io/posts/CHAPTER-1-Part-2-Introduction-to-Quantum-Computing/)**
 
 
 **[Chapitre 2 - Histoire - La Fête de Schrödinger](https://quantum-kittens-fr.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/)**
