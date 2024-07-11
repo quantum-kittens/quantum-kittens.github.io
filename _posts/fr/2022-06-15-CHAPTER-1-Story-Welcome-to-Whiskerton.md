@@ -10,7 +10,7 @@ Il était une fois, dans des terres très éloignées (quoique plus proche que c
 
 ___That's why its feline residents loved it so dearly. Who wouldn't want to live in a place where feathers spontaneously appeared and disappeared? Or where marbles could be red and blue at the same time? Or where one could not tell with certainty where a felt mouse would land if one tossed it in the air; only where it *probably* might but *quite likely not* end up?___
 
-C'est la raison pour laquelle ses résidents félins l'adoraient autant. Qui ne voudrait pas vivre à un endroit où des plumes apparaissent et disparaissent spontanément ? Ou à un endroit où des billes pouvaient être rouges et bleus au même moment ? Ou encore où l'on ne pouvait pas prévoir avec certitude le lieu où un jouet allait retomber si on le lançait dans les airs; mais seulement où il pourrait *probablement* mais pas *tout à fait* atterrir ?
+C'est la raison pour laquelle ses résidents félins l'adoraient autant. Qui ne voudrait pas vivre à un endroit où des plumes apparaissent et disparaissent spontanément ? Ou à un endroit où des billes pouvaient être rouges et bleus au même moment ? Ou encore où l'on ne pouvait pas prévoir avec certitude le lieu où une souris en peluche allait retomber si on la lançait dans les airs; mais seulement où elle pourrait *probablement* mais pas *tout à fait* atterrir ?
 
 ___Whiskerton was a town governed by probabilities, monumentally different from its neighbor, Pawville. Pawville with its proud canine populace, where every outcome was easily predicted with certainty. The dogs were thrilled that nothing extraordinary ever happened there. The cats hated it for precisely that reason.___
 
