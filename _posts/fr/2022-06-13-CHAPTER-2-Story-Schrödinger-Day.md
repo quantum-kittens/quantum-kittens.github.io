@@ -66,7 +66,7 @@ Ils se dirigeaient droit vers la statue. Arya sauta par la fenêtre et se préci
 
 ___“No, no! Halt, kits!” Arya chastised, struggling to maintain the appearance of calm—at the end of the day she was a rather gentle cat, and it wouldn’t do to lose her temper on Schrödinger Day, now would it? “You were given strict instructions to stay aw…” But she trailed off when it was evident they were deaf to her admonishments; something else had captured their attention. She followed their collective gaze upward to the branches of the Great Scratching Tree. And then blew an exasperated huff between her teeth.___
 
-« Non, non ! Halte, chatons ! » gronda Arya, s'efforçant de maintenir une apparence de calme — au fond, elle était plutôt douce, et il ne convenait pas de perdre son sang-froid lors de la Fête de Schrödinger, n'est-ce pas ? « On vous a donné des instructions strictes pour rester à l'écar... » Mais elle s'interrompit quand il fut évident qu'ils étaient sourds à ses réprimandes ; quelque chose d'autre avait capté leur attention. Elle suivit leur regard collectif vers les branches du Grand Arbre à Gratter. Puis elle souffla un soupir exaspéré entre ses dents.
+"Non, non ! Halte, chatons !" gronda Arya, s'efforçant de maintenir une apparence de calme — au fond, elle était plutôt douce, et il ne convenait pas de perdre son sang-froid lors de la Fête de Schrödinger, n'est-ce pas ? "On vous a donné des instructions strictes pour rester à l'écar..." Mais elle s'interrompit quand il fut évident qu'ils étaient sourds à ses réprimandes ; quelque chose d'autre avait capté leur attention. Elle suivit leur regard collectif vers les branches du Grand Arbre à Gratter. Puis elle souffla un soupir exaspéré entre ses dents.
 
 Luna.
 
@@ -76,7 +76,7 @@ Luna, Luna, Luna. Bien que les chatons de la ville aient reçu pour instruction 
 
 ___Technically, Luna was a tad old to be called 'kitten', but she was small for her almost-ready-to-be-an-adult-cat age. Her expression was permanently that of raised eyebrows, had she eyebrows at all, which could be interpreted as wonder or concern, contingent upon the circumstances. Her fur was short and ginger, prone to a slight grunge since her insatiable curiosity left her easily distracted during a bath.___
 
-Techniquement, Luna était un peu trop âgée pour être appelée « chaton », mais elle était petite pour son âge de je-suis-presque-une-adulte-mais-pas-tout-à-fait. Son expression était en permanence celle de sourcils levés, si elle en avait, ce qui pouvait être interprété comme de l'émerveillement ou de l'inquiétude, selon les circonstances. Son pelage était court et roux, souvent légèrement sale car son insatiable curiosité la laissait facilement distraite pendant son bain.
+Techniquement, Luna était un peu trop âgée pour être appelée "chaton", mais elle était petite pour son âge de je-suis-presque-une-adulte-mais-pas-tout-à-fait. Son expression était en permanence celle de sourcils levés, si elle en avait, ce qui pouvait être interprété comme de l'émerveillement ou de l'inquiétude, selon les circonstances. Son pelage était court et roux, souvent légèrement sale car son insatiable curiosité la laissait facilement distraite pendant son bain.
 
 ___Luna teetered on the edge of a branch, hanging close to the statue. Hanging *precariously* close to the decorative contraption that was the most important part of the occasion, more so than the celebratory snack: a glitter machine atop Schrödinger’s hat.___
 
@@ -104,7 +104,7 @@ Ses yeux tombèrent sur un assortiment familier d'outils éparpillés autour d'u
 
 ___"Blade?" Arya called, hoping her best friend would hear her, wherever he was.___
 
-« Blade ? » appela Arya, espérant que son meilleur ami l'entendrait, où qu'il soit.
+"Blade ?" appela Arya, espérant que son meilleur ami l'entendrait, où qu'il soit.
 
 ![](/assets/imgs/Blade_Full_Illustration.png){: style="max-width: 300px" .right}
 ___Blade was an agile black cat with blazing yellow eyes, skilled with marbles and tools, and even more skilled at being easily startled. Unsurprisingly, the sudden echo of his name off the buildings that lined the square provoked a monumental leap into the air, back arched. Where had he been? Curled up, fast asleep, tucked under a bush, dreaming of pigeons.___
@@ -125,7 +125,7 @@ Les chats cherchèrent frénétiquement des idées, et même les chatons autour 
 
 ___"Do you think we can distract her with another feather?" Arya said.___
 
-"Arya proposa : « Pensez-vous que nous puissions la distraire avec une autre plume ? »
+"Arya proposa : "Pensez-vous que nous puissions la distraire avec une autre plume ?"
 
 ___"I haven't seen another pop up around here for a few hours," Blade said.___
 
@@ -133,15 +133,15 @@ ___"I haven't seen another pop up around here for a few hours," Blade said.___
 
 ___"How about tossing up a ball?" one of the kittens piped in.___
 
-« Et si on lançait une balle en l'air ? » suggéra l'un des chatons.
+"Et si on lançait une balle en l'air ?" suggéra l'un des chatons.
 
 ___“Or a felt mouse?” said another.___
 
-« Ou une souris en peluche ? » ajouta un autre.
+"Ou une souris en peluche ?" ajouta un autre.
 
 ___"We would not be able to guarantee that it would head in Luna's direction," Arya replied, not unkindly.___
 
-Arya répondit, pas méchamment : « Nous ne pourrions pas garantir qu'elle se dirigerait en direction de Luna. »
+Arya répondit, pas méchamment : "Nous ne pourrions pas garantir qu'elle se dirigerait en direction de Luna."
 
 ___But it turns out their ponderances were in vain, for a series of rather unfortunate events occured:___
 
@@ -205,7 +205,7 @@ Oh, elle le laisserait sortir éventuellement, bien sûr, et même lui glisserai
 
 ___“Listen up,” she called out. “I have a proposal for you, my dear cats. Let our celebratory snack be decided by the color of Blade’s coat. Green for cheese ribbons, purple for salmon shortcakes. What say?”___
 
-« Écoutez-moi, » appela-t-elle. « J'ai une proposition pour vous, mes chers chats. Que notre goûter de célébration soit décidé par la couleur du pelage de Blade. Vert pour les tranches de fromage, violet pour les petits gâteaux au saumon. Qu'en dites-vous ? »
+"Écoutez-moi," appela-t-elle. "J'ai une proposition pour vous, mes chers chats. Que notre goûter de célébration soit décidé par la couleur du pelage de Blade. Vert pour les tranches de fromage, violet pour les petits gâteaux au saumon. Qu'en dites-vous ?"
 
 ___And, to Arya’s delight, not a single cat objected.___
 

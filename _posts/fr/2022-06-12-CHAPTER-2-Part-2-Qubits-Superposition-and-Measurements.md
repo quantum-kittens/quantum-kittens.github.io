@@ -132,11 +132,11 @@ Voici comment un état de qubit est représenté arbitrairement[^fn-nth-2] :
 
 [^fn-nth-2]: ___Disclaimer: This equation is not the complete picture of a qubit; there's a degree of freedom called 'phase' that can be useful for computation but is beyond the scope of this text.___
 
-[^fn-nth-2]: Avertissement : Cette équation ne donne pas une image complète d'un qubit ; il existe une liberté appelée « phase » qui peut être utile pour le calcul mais qui dépasse le cadre de ce texte.
+[^fn-nth-2]: Avertissement : Cette équation ne donne pas une image complète d'un qubit ; il existe une liberté appelée "phase" qui peut être utile pour le calcul mais qui dépasse le cadre de ce texte.
 
 ___The Greek letter $\psi$, pronounced "sigh", is a symbolic representation of the state. The $\ket{}$ symbol is written, not spoken. When you refer to the qubit, you can voice, "I have a qubit in the state psi,” or write, “I have a qubit in the state  $\ket{\psi}$," after having defined $\ket{\psi}$ in an equation.___
 
-La lettre grecque $\psi$, prononcée "psi", est une représentation symbolique de l'état. Le symbole $\ket{}$ est écrit, mais non prononcé. Lorsque vous faites référence au qubit, vous pouvez dire : « J'ai un qubit dans l'état psi », ou écrire : « J'ai un qubit dans l'état $\ket{\psi}$ », après avoir défini $\ket{\psi}$ dans une équation.
+La lettre grecque $\psi$, prononcée "psi", est une représentation symbolique de l'état. Le symbole $\ket{}$ est écrit, mais non prononcé. Lorsque vous faites référence au qubit, vous pouvez dire : "J'ai un qubit dans l'état psi", ou écrire : "J'ai un qubit dans l'état $\ket{\psi}$", après avoir défini $\ket{\psi}$ dans une équation.
 
 ___Notice that $\psi$ isn't the only thing tucked within a ket. You have $\ket{0}$ and $\ket{1}$ in the equation as well, which are the 0 and 1 states. These are called the *basis states* of the qubits; that is, the possible states a qubit can reduce to after measurement, just as a Whiskertese marble can reduce to a red or a blue.  Since a qubit has *two* basis states, a qubit is a two-level system.___
 
@@ -257,7 +257,7 @@ Un chat est placé dans une boîte avec une substance radioactive liée à un fl
 
 ___Schrödinger argued that this is a 'ridiculous case' and that one can't really believe that before one opens the box the cat is in a superposition of dead and alive. He was right, of course. This scenario can't be considered *truly* quantum. The cat isn't a quantum particle, for one. So while the cat isn't actually in a superposition of dead and alive, the thought experiment at the very least demonstrates a probabilistic system.___
 
-Schrödinger a soutenu que c'était un « cas ridicule » et qu'on ne peut vraiment croire qu'avant d'ouvrir la boîte, le chat est dans une superposition de mort et vivant. Il avait raison, bien sûr. Ce scénario ne peut pas être considéré comme *vraiment* quantique. Le chat n'est pas une particule quantique, pour commencer. Donc, bien que le chat ne soit pas réellement dans une superposition de mort et vivant, l'expérience de pensée démontre au moins un système probabiliste.
+Schrödinger a soutenu que c'était un "cas ridicule" et qu'on ne peut vraiment croire qu'avant d'ouvrir la boîte, le chat est dans une superposition de mort et vivant. Il avait raison, bien sûr. Ce scénario ne peut pas être considéré comme *vraiment* quantique. Le chat n'est pas une particule quantique, pour commencer. Donc, bien que le chat ne soit pas réellement dans une superposition de mort et vivant, l'expérience de pensée démontre au moins un système probabiliste.
 
 ___This thought experiment has fast become one of the most recognized iconographies of quantum phenomenon in popular culture, and naturally had to make an appearance in Whiskerton. With glitter, of course, because there's no reason to get morbid in such a quaint little town. Note that Schrödinger didn't actually poison cats--he merely thought about it!___
 
