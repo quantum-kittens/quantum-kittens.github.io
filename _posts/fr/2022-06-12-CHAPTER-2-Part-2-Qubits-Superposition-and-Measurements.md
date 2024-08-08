@@ -4,9 +4,6 @@ math: true
 ---
 
 
-
-___You very likely know what classical computing is; it’s what most people mean when they say “computing”. This is the computing done by everyday electronic gadgets like the device you’re using to read this, and even the computing done by supercomputers tucked away in labs.___
-
 Vous savez très probablement ce qu'est l'informatique classique ; c'est ce que la plupart des gens entendent par "informatique". C'est le type de calcul effectué par les appareils électroniques quotidiens comme celui que vous utilisez pour lire ceci, et même les calculs effectués par les superordinateurs cachés dans les laboratoires.
 
 ___Deep down at the fundamental level of a classical computer, information is carried by *bits*: single units of information that can have only one of two values or *states*: 0 or 1.  In much the same way, quantum computers have a fundamental computing unit, called quantum bits or *qubits*. Here’s a fun fact: the marbles of Whiskerton actually represent qubits!___
