@@ -1,5 +1,5 @@
 ---
-title: 'Title Page'
+title: 'Page de Titre'
 math: true
 ---
 
