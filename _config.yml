@@ -194,7 +194,7 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-languages: ["en", "es", "ja"]
+languages: ["en", "es", "ja", "fr"]
 default_lang: "en"
 exclude_from_localization: ["assets"]
 parallel_localization: true
