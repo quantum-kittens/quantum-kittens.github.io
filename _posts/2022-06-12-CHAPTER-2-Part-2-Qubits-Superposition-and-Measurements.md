@@ -161,60 +161,86 @@ You can simulate a Whiskerton marble using this supplementary Qiskit code. This 
 
 You can run this code in two ways:
 
-- On the cloud: copy and paste the code into a jupyter notebook in the [IBM Quantum Lab](https://quantum-computing.ibm.com/lab) 
-- Locally: you can [install Qiskit](https://qiskit.org/) and run the code on your local machine 
+- On the cloud: you can choose use a cloud-based tool like [Google Colab](https://colab.research.google.com/) or [qBraid](https://www.qbraid.com/). 
+- Locally: you can [install Qiskit](https://qiskit.org/) and run the code on your local machine
+
+See this blog post for further setup details: [
+Explore newly recommended notebook environments for Qiskit](https://www.ibm.com/quantum/blog/qiskit-notebook-environments)
+
+The below code is also available as a jupyter notebook [here](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_2.ipynb).
+
+November 2024 note: this code has now been updated to Qiskit 1.0. If you've used an earlier version of Qiskit before, this blog post may be useful for you: [Best practices for transitioning to Qiskit SDK v1.0](https://www.ibm.com/quantum/blog/transition-to-1)
+
 
 
 
 
  ```python
-# Import necessary Qiskit libraries
-from qiskit import QuantumCircuit, transpile
-from qiskit.visualization import *
-from qiskit import BasicAer
+# Install Qiskit along with some optional dependencies useful for visualization 
+# by uncommenting the instruction below if you don't have Qiskit installed already
 
-#Load your IBM Quantum account(s)
-#provider = IBMQ.load_account()
+#pip install'qiskit[visualization]'
+
+# Install the Qiskit Runtime Service if you don't have it installed already by uncommenting the instruction below
+
+#pip install qiskit-ibm-runtime
+
+# Install the Qiskit Aer Simulator if you don't have it installed already by uncommenting the instruction below
+
+#pip install qiskit-aer
+
+# Import necessary Qiskit libraries
+
+from qiskit import QuantumCircuit
 
 #Create Marble Circuit
 
-marble_circuit = QuantumCircuit(1, 1) # Add one qubit (Whiskerton marble) and one classical bit (to store the measurement outcome)
+marble_circuit = QuantumCircuit(1, 1) # add one qubit (Whiskerton marble) and one classical bit (to store the measurement outcome)
 
-marble_circuit.h(0) # Add H-gate or Hadamard gate to the qubit (this is the quantum gate that puts the marble in superposition)
+marble_circuit.h(0) # add H-gate or Hadamard gate to the qubit (this is the quantum gate that puts the marble in superposition)
 
-marble_circuit.measure(0,0) # Add a measurement operator (this is equivalent to a cat looking directly at a marble)
+marble_circuit.measure(0,0) # add a measurement operator (this is equivalent to a cat looking directly at a marble)
 
-marble_circuit.draw('mpl') # See what the circuit looks like
+marble_circuit.draw('mpl') # see how the circuit looks
 ```
 
 
 
  ```python
+
+ # Import necessary Qiskit libraries for running the circuit on a simulator
+
+from qiskit.transpiler.preset_passmanagers import generate_preset_pass_manager
+from qiskit_ibm_runtime import QiskitRuntimeService
+from qiskit_aer import AerSimulator
+from qiskit_ibm_runtime import SamplerV2 as Sampler
+from qiskit.visualization import plot_histogram
+
 
 #Run Marble Circuit,
 #That is, see if the marble turns red or blue
 
 marble_state = {'1': 'red', '0': 'blue'}
 
-simulator = BasicAer.get_backend("qasm_simulator") # Identify the quantum computer to run this on. In this case it's a simulator not a real device.
+aer_sim = AerSimulator() # Identify the quantum computer to run this on. In this case it's a simulator not a real device.
+pm = generate_preset_pass_manager(backend=aer_sim, optimization_level=1) 
+isa_marble_circuit = pm.run(marble_circuit) # This line and the line above essentially prepare the circuit to be executed on the device you selected. For for more technical details, please see: https://docs.quantum.ibm.com/api/qiskit/transpiler#transpiler
 
-compiled_circuit = transpile(marble_circuit, simulator) # Compile the circuit down to low-level QASM instructions.
+# fetch and print the outcome:
+sampler = Sampler(mode=aer_sim)
 
-job = simulator.run(compiled_circuit, shots=1000) # Run the circuit on the simulator 1000 times to gather statistics.
-
-# Fetch and print the outcome:
-
-result = job.result() 
-counts = result.get_counts(compiled_circuit)
+result = sampler.run([isa_marble_circuit], shots=1000).result() # Run the circuit on the simulator 1000 times to gather statistics.
+counts = result[0].data.c.get_counts()
 
 ans = str(max(counts, key=counts.get))
 
-print('The marble is ' + marble_state[ans] +'.') # The outcome is the one associated with the highest count.
+print('The marble is ' + marble_state[ans] + '.') # The outcome is the one associated with the highest count.
+
 
 
 ```
 
- ```python
+```python
 
 # Examine the statistics and plot histogram
 
@@ -225,6 +251,14 @@ plot_histogram(counts)
 
 ```
 
-The above code is also available as a jupyter notebook [here](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_2.ipynb).
+```python
+# If you want to run the circuit on a real device then you can use the following 
+
+#from qiskit_ibm_runtime import QiskitRuntimeService
+ 
+#service = QiskitRuntimeService(channel="ibm_quantum", token="<insert your token here>")
+```
+
+
 
 *Note: the Qiskit code provided is open source, and does not fall under the copyright of Quantum Kittens.*
