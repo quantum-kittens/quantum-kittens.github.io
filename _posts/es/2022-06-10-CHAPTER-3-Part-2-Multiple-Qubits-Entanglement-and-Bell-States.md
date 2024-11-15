@@ -109,34 +109,38 @@ ________
 
 You can simulate a Whiskerton doorbell using the following code. By using this code, you will learn how to create the quantum circuit corresponding to the Bell state.
 
+The below code is also available as a jupyter notebook [here](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_3.ipynb).
+
  ```python
 # Import necessary Qiskit libraries
-from qiskit import QuantumCircuit, transpile
-from qiskit.visualization import *
-from qiskit import BasicAer
 
-#Load your IBM Quantum account(s)
-#provider = IBMQ.load_account()
-
+from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister
 
 #Create Doorbell Entangler Circuit
 
-doorbell_circuit = QuantumCircuit(2, 2) # Create a circuit with two qubits (Whiskerton marbles) and two classical bits (to store the measurement outcome).
+qubits = QuantumRegister(2, name='q') # Create a quantum register with 2 qubits (Whiskertese marbles) and name the register 'q'
 
-doorbell_circuit.h(0) # Add a Hadamard gate to the first qubit/ 
+classical_bits = ClassicalRegister(2, name='c') # Create a classical register with 2 bits and name the register 'c' (to eventually store the measurement outcome)
 
-doorbell_circuit.cx(0,1) # Add a CNOT gate with the first qubit as the control and the second qubit as the target. The target flips its state when the control is in the 1 state.
+q0, q1 = qubits # Label the two qubits in the register 'q0' and 'q1'
 
-doorbell_circuit.measure([0,1],[0,1]) # Add measurement operators (this is equivalent to a cat looking directly at the outer marble).
+c0, c1 = classical_bits
 
-doorbell_circuit.draw('mpl') # See what the circuit looks like.
+doorbell_circuit = QuantumCircuit(qubits, classical_bits) # Create a circuit with the quantum and classical registers.
 
+doorbell_circuit.h(q0) # Add a Hadamard gate to the first qubit 
+
+doorbell_circuit.cx(q0,q1) # Add a cnot gate with the first qubit as the control and the second qubit as the target. The target flips its state when the control is in the 1 state.
+
+doorbell_circuit.measure([q0,q1],[c0,c1]) # Add measurement operators (this is equivalent to a cat looking directly at the outer marble).
+
+doorbell_circuit.draw('mpl') # See how the circuit looks.
 
 ```
 
-The above code is also available as a jupyter notebook [here](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_3.ipynb).
 
-As an exercise, run this circuit in a similar way to the marble circuit in [Chapter 2](https://quantum-kittens-es.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)!
+As an exercise, run this circuit in a similar way to the marble circuit in [Chapter 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)!
 
 *Note: the Qiskit code provided is open source, and does not fall under the copyright of Quantum Kittens.*
+
 
