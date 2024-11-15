@@ -240,7 +240,7 @@ print('The marble is ' + marble_state[ans] + '.') # The outcome is the one assoc
 
 ```
 
- ```python
+```python
 
 # Examine the statistics and plot histogram
 
