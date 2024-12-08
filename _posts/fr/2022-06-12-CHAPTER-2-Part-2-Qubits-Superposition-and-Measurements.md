@@ -160,16 +160,35 @@ Vous pouvez simuler une bille de Whiskerton en utilisant ce code Qiskit complém
 
 Vous pouvez exécuter ce code de deux façons différentes :
 
-- Sur le cloud : copiez et collez le code dans un notebook Jupyter sur le [IBM Quantum Lab](https://quantum-computing.ibm.com/lab).
+- Sur le cloud : vous pouvez choisir d'utiliser un outil situé sur le cloud comme [Google Colab](https://colab.research.google.com/) ou [qBraid](https://www.qbraid.com/).
 - Localement : vous pouvez [installer Qiskit](https://qiskit.org/) et exécuter le code sur votre machine locale.
+
+Vous pouvez lire ce blog (*en anglais*) pour davantage de détails concernant l'installation : [
+Explore newly recommended notebook environments for Qiskit](https://www.ibm.com/quantum/blog/qiskit-notebook-environments).
+
+Le code qui suit est également disponible en tant que notebook jupyter [ici](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_2.ipynb) (*commentaires en anglais*).
+
+Note de Novembre 2024 : ce code a maintenant été mis à jour pour Qiskit 1.0. Si vous utilisiez une version antérieur de Qiskit auparavant, ce blog (*en anglais*) peut vous être utile : [Best practices for transitioning to Qiskit SDK v1.0](https://www.ibm.com/quantum/blog/transition-to-1).
 
 
 
  ```python
+# Installez Qiskit avec des dépendances optionnelles utiles pour la visualisation en
+# dé-commentant les lignes suivantes is vous n'avez pas encore Qiskit d'installé
+
+#pip install'qiskit[visualization]'
+
+# Installez 'Qiskit Runtime Service' si vous ne l'avez pas encore fait en dé-commentant la ligne suivante 
+
+#pip install qiskit-ibm-runtime
+
+# Installez 'Qiskit Aer Simulator' si vous ne l'avez pas encore fait en dé-commentant la ligne suivante
+
+#pip install qiskit-aer
+
+
 # Importation des modules Qiskit nécessaires
-from qiskit import QuantumCircuit, transpile
-from qiskit.visualization import *
-from qiskit import BasicAer
+from qiskit import QuantumCircuit
 
 #Charge votre(vos) compte(s) IBM Quantum
 #provider = IBMQ.load_account()
@@ -190,30 +209,38 @@ marble_circuit.draw('mpl') # Montre ce à quoi ressemble le circuit
 
  ```python
 
+# Importe les librairies nécessaires à Qiskit pour exécuter le circuit sur un simulateur
+
+from qiskit.transpiler.preset_passmanagers import generate_preset_pass_manager
+from qiskit_ibm_runtime import QiskitRuntimeService
+from qiskit_aer import AerSimulator
+from qiskit_ibm_runtime import SamplerV2 as Sampler
+from qiskit.visualization import plot_histogram
+
 # Exécute le circuit avec la bille de Whiskerton,
 # Ca signifie regarder si la bille devient rouge ou bleue
 
 marble_state = {'1': 'rouge', '0': 'bleue'}
 
-simulator = BasicAer.get_backend("qasm_simulator") # Identifie l'ordinateur quantique sur lequel exécuter ce code. Dans ce cas, il s'agit d'un simulateur, et non pas d'un appareil réel
-
-compiled_circuit = transpile(marble_circuit, simulator) # Compile le circuit pour des instructions de bas niveau QASM
-
-job = simulator.run(compiled_circuit, shots=1000) # Exécute le circuit sur le simulateur 1000 fois pour faire des statistiques
+aer_sim = AerSimulator() # Identifie l'ordinateur quantique sur lequel exécuter ce code. Dans ce cas, il s'agit d'un simulateur, et non pas d'un appareil réel
+pm = generate_preset_pass_manager(backend=aer_sim, optimization_level=1) 
+isa_marble_circuit = pm.run(marble_circuit) # Cette ligne ainsi que la ligne précédente prépare le circuit à être exécuté sur la machine que vous avez sélectionné. Pour plus de détails techniques, vous pouvez consulter : https://docs.quantum.ibm.com/api/qiskit/transpiler#transpiler
 
 # Récupère et affiche le résultat :
+sampler = Sampler(mode=aer_sim)
 
-result = job.result() 
-counts = result.get_counts(compiled_circuit)
+result = sampler.run([isa_marble_circuit], shots=1000).result() # Exécute le circuit sur le simulateur 1000 fois pour générer des statistiques.
+counts = result[0].data.c.get_counts()
 
 ans = str(max(counts, key=counts.get))
 
-print('La bille est ' + marble_state[ans] +'.') # Le résultat final est celui associé au plus grand cumul de points.
+print('La bille est ' + marble_state[ans] + '.') # Le résultat final est celui associé au plus grand cumul de points.
+
 
 
 ```
 
- ```python
+```python
 
 # Examine les statistiques et affiche l'histogramme
 
@@ -224,7 +251,14 @@ plot_histogram(counts)
 
 ```
 
-Le code ci-dessus est également disponible en notebook Jupyter [ici](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_2.ipynb).
+```python
+# Si vous voulez exécuter ce circuit sur une vrai machine, vous pouvez exécuter les lignes suivante :
+
+#from qiskit_ibm_runtime import QiskitRuntimeService
+ 
+#service = QiskitRuntimeService(channel="ibm_quantum", token="<insert your token here>")
+```
+
 
 
 *Note : Le code Qiskit fournit est open source, et n'est pas sous la license de Quantum Kittens.*
