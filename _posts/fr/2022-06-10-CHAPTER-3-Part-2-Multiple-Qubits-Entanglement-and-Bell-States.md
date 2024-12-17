@@ -106,32 +106,34 @@ ________
 
 Vous pouvez simuler une sonnette de Whiskerton en utilisant le code suivant. En utilisant ce code, vous apprendrez à créer le circuit quantique correspondant à l'état de Bell.
 
+Le code qui suit est également disponible en tant que notebook jupyter [ici](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_3.ipynb).
+
  ```python
 #Importation des librairies Qiskit nécessaires
-from qiskit import QuantumCircuit, transpile
-from qiskit.visualization import *
-from qiskit import BasicAer
-
-#Charge votre (vos) compte(s) IBM Quantum
-#provider = IBMQ.load_account()
-
+from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister
 
 #Crée un Circuit d'Intrication de Sonnettes
 
-doorbell_circuit = QuantumCircuit(2, 2) # Crée un circuit avec 2 qubits (des billes de Whiskerton) et deux bits classiques (pour enregistrer les résultats).
+qubits = QuantumRegister(2, name='q') # Crée un registre quantique avec 2 qubits (billes de Whiskerton) et nomme le registre 'q'
 
-doorbell_circuit.h(0) # Ajoute une porte d'Hadamard au premier qubit.
+classical_bits = ClassicalRegister(2, name='c') # Crée un registre classique avec 2 bits et nomme le registre 'c' (pour enregistrer les résultats des mesures)
 
-doorbell_circuit.cx(0,1) # Ajout d'une porte CNOT avec le premier qubit comme contrôle et le deuxième qubit comme cible. La cible change d'état lorsque le contrôle est dans l'état 1.
+q0, q1 = qubits # Nomme les deux qubits dans le registre 'q0' et 'q1'
 
-doorbell_circuit.measure([0,1],[0,1]) # Ajoute les opérateurs de mesure (c'est l'équivalent pour un chat de regarder directement la bille extérieur).
+c0, c1 = classical_bits
 
-doorbell_circuit.draw('mpl') # Affiche ce à quoi ressemble le circuit
+doorbell_circuit = QuantumCircuit(qubits, classical_bits) # Crée un circuit avec les registres quantique et classique
+
+doorbell_circuit.h(q0) # Ajoute une porte de Hadamard sur le premier qubit
+
+doorbell_circuit.cx(q0,q1) # Ajoute une porte cnot avec le premier qubit en tant que 'control' et le second en tant que 'target'. Le qubit 'target' inverse son état quand le bit 'control' et dans l'état 1.
+
+doorbell_circuit.measure([q0,q1],[c0,c1]) # Ajoute un opérateur de mesure (c'est l'équivalent d'un chat qui regarde directement l'une des billes)
+
+doorbell_circuit.draw('mpl') # Montre ce à quoi ressemble le circuit
 
 
 ```
-
-Le code ci-dessus est également disponible en tant que notebook jupyter [ici](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_3.ipynb).
 
 En tant qu'exercice, exécutez ce circuit de façon similaire au circuit de la bille dans le [Chapitre 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/) !
 
