@@ -63,6 +63,7 @@ v_\psi = \begin{bmatrix}
 \end{equation}
 
 This vector is called a *state vector*. Similarly, we can write any single-qubit quantum gate as a small grid of numbers (a $2 \times 2$ matrix):
+
 \begin{equation} 
 G = \begin{bmatrix} 
 a & b \\ 

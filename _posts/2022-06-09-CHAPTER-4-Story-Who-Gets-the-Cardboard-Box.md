@@ -47,9 +47,12 @@ Luna, the most enthusiastic of the onlookers, sprang forward, paws raised. "I wi
 Poh offered to escort Luna to the toy station where the townscats kept most of the town's marbles and other playthings. It was a squat building at the corner of the town square, one of the permanent locations that bordered the square despite the town's charming habit of rearranging itself every morning. Luna didn't particularly enjoy slowing down to walk with the councilcat—she yearned to zoom to the station and back—but the thought of playing an important role in the dispute between Arya and Poh kept her composed.
 
 "Do not forget to avoid looking directly at the marble," Poh instructed her when they reached the doors. If Luna looked at the marble, it would turn red or blue before it ever reached Arya and Poh. He gave her a meaningful nod and returned to the box.
+
 While they waited for Luna to fetch a marble, Arya and Poh settled themselves on opposite sides of the box, eyeing each other warily. The onlookers buzzed with fervor, and playful mini-arguments about whom the marble would choose rippled through the gathering.
 
-When Luna returned, she placed the marble—without looking at it—between the two contesting councilcats. The marble remained unaffected by the onlookers' gazes, for they were too distant to influence the marble; one's eyes must be within ten centimeters of a marble to affect it. The only exception to this rule was a special pair of binoculars that could affect marbles from afar, and was used for things like the glitter machine on Schrödinger Day where one cat could activate the machine by gazing at it from the ground.
+When Luna returned, she placed the marble—without looking at it—between the two contesting councilcats. The marble remained unaffected by the onlookers' gazes, for they were too distant to influence the marble; one's eyes must be within ten centimeters of a marble to affect it.[^fn-nth-1] The only exception to this rule was a special pair of binoculars that could affect marbles from afar, and was used for things like the glitter machine on Schrödinger Day where one cat could activate the machine by gazing at it from the ground.
+
+[^fn-nth-1]: This 10 cm rule is solely a whimsical storytelling device representing quantum measurements; in reality, quantum measurements occur through physical interactions that cause quantum states to settle into one of their definite basis states. Refer to Chapter 2 for a description of quantum measurements.
 
 "Are you ready?" Poh asked Arya. She offered a solemn salute.
 
@@ -106,4 +109,6 @@ _____________________________
 
 
 **[Chapter 4 Part 2 - Commentary - Quantum Gates and Circuits](https://quantum-kittens.github.io/posts/2022-06-08-CHAPTER-4-Part-2-Quantum-Gates-and-Circuits/)**
+
+
 
