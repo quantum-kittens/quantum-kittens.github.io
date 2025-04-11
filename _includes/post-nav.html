@@ -3,10 +3,32 @@
 -->
 
 <div class="post-navigation d-flex justify-content-between">
-  {% if page.next.url %}
-  <a href="{{ site.baseurl }}{{ page.next.url }}" class="btn btn-outline-primary"
+  {% if page.hidden != true %}
+    {% assign published_posts = site.posts | where_exp: "item", "item.pin != true and item.hidden != true" %}
+  {% else %}
+    {% assign published_posts = site.posts | where_exp: "item", "item.pin != true" %}
+  {% endif %}
+
+  {% for post in published_posts %}
+      {% if post.url == page.url %}
+        {% assign post_index0 = forloop.index0 %}
+        {% assign post_index1 = forloop.index %}
+      {% endif %}
+  {% endfor %}
+
+  {% for post in published_posts %}
+    {% if post_index0 == forloop.index %}
+        {% assign next_post = post %}
+    {% endif %}
+    {% if post_index1 == forloop.index0 %}
+        {% assign prev_post = post %}
+    {% endif %}
+  {% endfor %}
+
+  {% if next_post.url %}
+  <a href="{{ site.baseurl }}{{ next_post.url }}" class="btn btn-outline-primary"
     prompt="{{ site.data.locales[lang].post.button.previous }}">
-    <p>{{ page.next.title }}</p>
+    <p>{{ next_post.title }}</p>
   </a>
   {% else %}
   <div class="btn btn-outline-primary disabled"
@@ -15,10 +37,10 @@
   </div>
   {% endif %}
 
-  {% if page.previous.url %}
-  <a href="{{ site.baseurl }}{{page.previous.url}}" class="btn btn-outline-primary"
+  {% if prev_post.url %}
+  <a href="{{ site.baseurl }}{{prev_post.url}}" class="btn btn-outline-primary"
     prompt="{{ site.data.locales[lang].post.button.next }}">
-    <p>{{ page.previous.title }}</p>
+    <p>{{ prev_post.title }}</p>
   </a>
   {% else %}
   <div class="btn btn-outline-primary disabled"
