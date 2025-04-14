@@ -71,7 +71,7 @@ Follow him on Linkedin [here.](https://www.linkedin.com/in/anthony-delorme-73897
 
 # Further Acknowledgements
 
-Editor: [Suzanne Musin](https://www.linkedin.com/in/suzannemusin/), technical editor and product content strategist for the high tech industry. The right person to ask about Ancient Greek literature clues in a crossword puzzle.
+Editor: [Suzanne Musin](https://www.linkedin.com/in/suzannemusin/), technical editor for the software industry. The right person to ask about Ancient Greek literature clues in a crossword puzzle.
 
 Technical reviewer: James L. Weaver, quantum & classical developer, author and speaker. [[Github]](https://github.com/javafxpert) [[Twitter]](https://twitter.com/javafxpert)
 
