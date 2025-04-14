@@ -45,6 +45,7 @@ _______
 ## Mathematical Representation of Quantum Gates
 
 In chapter 2, you learned that we can represent an arbitrary qubit state using this equation:
+
 \begin{equation}
 \ket{\psi}=\alpha_{0}\ket{0}+\alpha_{1}\ket{1}
 \end{equation}
