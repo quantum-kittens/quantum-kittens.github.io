@@ -10,7 +10,7 @@ The cats of Whiskerton were no strangers to randomly appearing objects, in fact,
 The cats still spoke of the year Tes's favorite flower hat disappeared — whisked away by an errant breeze on her way to the sewing shop, vanishing in the instant she reached for it. Two weeks passed and she grew so distraught she offered to reward anyone who could find it with a month's supply of her famous oceanberry pies. The whole town was stirred into a frenetic, competitive search, as Tes's pies were not only the tastiest in all of Whiskerton, but also exceedingly rare: she scarcely had time to bake amidst her countless craft projects running in parallel, a privilege of being a retired Councilcat. This scarcity rendered her pies all the more coveted.
 
 
-![](/assets/imgs/Tes_Animation.gif){: style="max-width: 200px" .right} 
+![](/assets/imgs/Tes_Animation.gif){: style="max-width: 300px" .right} 
 
 Remarkably, the hat popped back onto Tes's own head one humid afternoon as she knitted by the river bordering the town to the east. A bewildered Tes demanded to know where the hat had been all the while, but the hat, naturally, offered no explanation. Always one to honor her word, Tes enjoyed a month of her own oceanberry pies, much to the collective dismay of the townscats.
 
@@ -108,7 +108,7 @@ _____________________________
 _____________________________
 
 
-**[Chapter 4 Part 2 - Commentary - Quantum Gates and Circuits](https://quantum-kittens.github.io/posts/2022-06-08-CHAPTER-4-Part-2-Quantum-Gates-and-Circuits/)**
+**[Chapter 4 Part 2 - Commentary - Quantum Gates and Circuits](https://quantum-kittens.github.io/posts/CHAPTER-4-Part-2-Quantum-Gates-and-Circuits/)**
 
 
 

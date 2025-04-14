@@ -100,8 +100,12 @@ The quantum NOT gate is similar to its classical cousin. In classical computing,
 
 Here's what the NOT gate does:
 \begin{equation} 
-\ket{0} \rightarrow \ket{1} \\
-\ket{1} \rightarrow \ket{0} \\
+\ket{0} \rightarrow \ket{1}
+\end{equation}
+\begin{equation} 
+\ket{1} \rightarrow \ket{0}
+\end{equation}
+\begin{equation} 
 \alpha_{0}\ket{0}+\alpha_{1}\ket{1} \rightarrow \alpha_{1}\ket{0}+\alpha_{0}\ket{1}
 \end{equation}
 
@@ -134,12 +138,18 @@ Sound familiar? It's just like the marbles of Whiskerton that are by default in 
 
 Here's what the Hadamard gate does: 
 
-\begin{align} 
-\ket{0} \rightarrow \frac{1}{\sqrt{2}}\ket{0}+\frac{1}{\sqrt{2}}\ket{1} \\
-\ket{1} \rightarrow \frac{1}{\sqrt{2}}\ket{0}-\frac{1}{\sqrt{2}}\ket{1} \\
-\frac{1}{\sqrt{2}}\ket{0}+\frac{1}{\sqrt{2}}\ket{1} \rightarrow \ket{0}  \\
+\begin{equation} 
+\ket{0} \rightarrow \frac{1}{\sqrt{2}}\ket{0}+\frac{1}{\sqrt{2}}\ket{1}
+\end{equation} 
+\begin{equation} 
+\ket{1} \rightarrow \frac{1}{\sqrt{2}}\ket{0}-\frac{1}{\sqrt{2}}\ket{1}
+\end{equation} 
+\begin{equation} 
+\frac{1}{\sqrt{2}}\ket{0}+\frac{1}{\sqrt{2}}\ket{1} \rightarrow \ket{0}
+\end{equation} 
+\begin{equation} 
 \frac{1}{\sqrt{2}}\ket{0}-\frac{1}{\sqrt{2}}\ket{1} \rightarrow  \ket{1}
-\end{align}
+\end{equation} 
 
 Those $\frac{1}{\sqrt{2}}$ values mean there's a 50-50 chance of measuring either 0 or 1. Notice that sometimes there's a minus sign. While this doesn't change the probabilities, it creates something called *phase* that we'll explore in a future chapter. It's like giving our marbles a special kind of spin.
 
