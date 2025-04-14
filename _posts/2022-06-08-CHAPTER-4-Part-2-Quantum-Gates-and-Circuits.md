@@ -219,7 +219,7 @@ Given how likely we are to get the result 1, if we associate blue with 0 and red
 
 
 
->Quick disclaimer about the Chapter 4 story: If you’re wondering about the 10 cm distance rule, this is solely a whimsical storytelling device representing quantum measurements. In reality, quantum measurements occur through physical interactions that cause quantum states to settle into one of their definite basis states. Refer to Chapter 2 for a description of quantum measurements.
+>Quick disclaimer about the Chapter 4 story: If you’re wondering about the 10 cm distance rule, this is solely a whimsical storytelling device representing quantum measurements. In reality, quantum measurements occur through physical interactions that cause quantum states to settle into one of their definite basis states. Refer to [Chapter 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/) for a description of quantum measurements.
 {: .prompt-info }
 
 
