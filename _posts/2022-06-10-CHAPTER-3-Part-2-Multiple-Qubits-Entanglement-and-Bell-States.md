@@ -31,7 +31,7 @@ Since we’re talking about two entities immediately influencing one another des
 
 The catch is that simply performing any old type of measurement won’t work—yes, there are different *types* of measurements! The varying types of measurements are beyond the scope of the current text, but suffice it to say that if you and a friend who lives far away share an entangled pair, then the type of measurement you perform on your part of the pair must be conveyed to your friend somehow. If your friend doesn’t know which type of measurement to perform on their part, they won’t be able to ‘see’ the expected result! So some sort of communication must take place, say, through a telephone call. Which…cannot happen faster than light.
 
->If you’d like to dive a little deeper into quantum entanglement, read on! Otherwise, head on over to the next page: [This is Not the End](https://quantum-kittens.github.io/posts/This-is-not-the-end/).
+>If you’d like to dive a little deeper into quantum entanglement, read on! Otherwise, head on over to the next page: [Who Gets the Cardboard Box?](https://quantum-kittens.github.io/posts/Who-Gets-the-Cardboard-Box/).
 {: .prompt-info }
 
 _______
@@ -101,7 +101,7 @@ _____________________________
 _____________________________
 
 
-**[Next: This is Not the End](https://quantum-kittens.github.io/posts/This-is-not-the-end/)**
+**[Next: Who Gets the Cardboard Box?](https://quantum-kittens.github.io/posts/Who-Gets-the-Cardboard-Box/).
  
 ________
 

@@ -71,8 +71,10 @@ Follow him on Linkedin [here.](https://www.linkedin.com/in/anthony-delorme-73897
 
 # Further Acknowledgements
 
-Editor: [Suzanne Musin](https://www.linkedin.com/in/suzannemusin/), technical editor and product content strategist for the high tech industry. The right person to ask about Ancient Greek literature clues in a crossword puzzle.
+Editor: [Suzanne Musin](https://www.linkedin.com/in/suzannemusin/), technical editor for the software industry. The right person to ask about Ancient Greek literature clues in a crossword puzzle.
 
 Technical reviewer: James L. Weaver, quantum & classical developer, author and speaker. [[Github]](https://github.com/javafxpert) [[Twitter]](https://twitter.com/javafxpert)
 
-The author would also like to extend deep thanks to Manon de Reeper and Preeti Sandhir for invaluable feedback and support, Va Barbosa for invaluable dev contributions, Cotes2020 and Vishal Bajpe for dev guidance, Neil Clarke for license guidance, Rana Prathap Singh for helpful remarks, and Yuri Kobayashi (+ APAC community team at IBM Quantum), Josh Sippie, and a particular group called Weasels for encouragement and support.
+Dev support: [Va Barbosa](https://vabarbosa.com/), software engineer and developer advocate fueled by a passion for learning & education and enthusiasm for open source technology
+
+The author would also like to extend deep thanks to Manon de Reeper and Preeti Sandhir for invaluable feedback and support, Cotes2020 and Vishal Bajpe for dev guidance, Neil Clarke for license guidance, Rana Prathap Singh for helpful remarks, and Yuri Kobayashi (+ APAC community team at IBM Quantum), Josh Sippie, and a particular group called Weasels for encouragement and support.
