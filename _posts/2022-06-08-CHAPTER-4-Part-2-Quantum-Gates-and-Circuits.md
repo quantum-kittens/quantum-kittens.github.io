@@ -1,7 +1,6 @@
 ---
 title: 'Chapter 4 Part 2 - Commentary - Quantum Gates and Circuits'
 math: true
-hidden: true
 ---
 
 

@@ -1,6 +1,5 @@
 ---
 title: 'Chapter 4 - Story - Who Gets the Cardboard Box?'
-hidden: true
 ---
 
 
