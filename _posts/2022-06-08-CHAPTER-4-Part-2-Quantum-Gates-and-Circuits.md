@@ -64,7 +64,7 @@ There's another helpful way to represent quantum states and gates if you know a 
 
 \begin{equation} 
 v_\psi = \begin{bmatrix} 
-\alpha_0 \\ 
+\alpha_0 \\\ 
 \alpha_1 
 \end{bmatrix} 
 \end{equation}
@@ -73,7 +73,7 @@ This vector is called a *state vector*. Similarly, we can write any single-qubit
 
 \begin{equation} 
 G = \begin{bmatrix} 
-a & b \\ 
+a & b \\\ 
 c & d 
 \end{bmatrix} 
 \end{equation}
@@ -81,13 +81,13 @@ c & d
 You can then use standard matrix multiplication to determine the resulting state:
 \begin{equation} 
 \begin{bmatrix} 
-a & b \\ 
+a & b \\\ 
 c & d 
 \end{bmatrix}  \begin{bmatrix} 
-\alpha_0 \\ 
+\alpha_0 \\\ 
 \alpha_1 
 \end{bmatrix}  =  \begin{bmatrix} 
-\beta_0 \\ 
+\beta_0 \\\ 
 \beta_1 
 \end{bmatrix} 
 \end{equation}
@@ -112,7 +112,7 @@ Here's what the NOT gate does:
 We can write the NOT gate as this matrix (also called the X gate or Pauli X gate):
 \begin{equation} 
 X = \begin{bmatrix} 
-0 & 1 \\ 
+0 & 1 \\\ 
 1 & 0 
 \end{bmatrix} 
 \end{equation}
@@ -120,13 +120,13 @@ X = \begin{bmatrix}
 Try multiplying this matrix yourself with these three different states to see how it works:
 \begin{equation} 
  \begin{bmatrix} 
-0 \\ 
+0 \\\ 
 1 
 \end{bmatrix} , \begin{bmatrix} 
-1 \\ 
+1 \\\ 
 0 
 \end{bmatrix} , \begin{bmatrix} 
-\alpha_0 \\ 
+\alpha_0 \\\ 
 \alpha_1 
 \end{bmatrix} 
 \end{equation}
@@ -156,7 +156,7 @@ Those $\frac{1}{\sqrt{2}}$ values mean there's a 50-50 chance of measuring eithe
 Here's the Hadamard gate as a matrix:
 \begin{equation} 
 H = \frac{1}{\sqrt{2}}\begin{bmatrix} 
-1 & 1 \\ 
+1 & 1 \\\ 
 1 & -1 
 \end{bmatrix} 
 \end{equation}
@@ -166,8 +166,8 @@ Try working through the matrix multiplication yourself to see how it creates the
 An important note: the equally weighted single-qubit superposition states are so significant in quantum computing they get their own special symbols:
 
 \begin{align}
-\ket{+}=\frac{1}{\sqrt{2}}\ket{0}+\frac{1}{\sqrt{2}}\ket{1}\\
-\ket{-}=\frac{1}{\sqrt{2}}\ket{0}-\frac{1}{\sqrt{2}}\ket{1}\\
+\ket{+}=\frac{1}{\sqrt{2}}\ket{0}+\frac{1}{\sqrt{2}}\ket{1}\\\
+\ket{-}=\frac{1}{\sqrt{2}}\ket{0}-\frac{1}{\sqrt{2}}\ket{1}\\\
 \end{align}
 
 
