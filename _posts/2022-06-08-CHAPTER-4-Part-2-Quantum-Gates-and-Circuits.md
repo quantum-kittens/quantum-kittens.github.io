@@ -238,6 +238,6 @@ _____________________________
 
 ## Qiskit Code
 
-If you weren't familiar with quantum gates and circuits prior to this chapter, and would like to try coding them with Qiskit, return to the Qiskit sections in [Chapter 2 Part 2]() and [Chapter 3 Part 3]() to try your hands at coding circuits. 
+If you weren't familiar with quantum gates and circuits prior to this chapter, and would like to try coding them with Qiskit, return to the Qiskit sections in [Chapter 2 Part 2]() and [Chapter 3 Part 2]() to try your hands at coding circuits. 
 
 Otherwise, try to code Luna's Happy Birthday circuit as an exercise!
