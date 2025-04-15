@@ -45,7 +45,7 @@ Poh sighed. "Fine. If the marble turns red, the box is mine. If it turns blue, t
 
 Luna, the most enthusiastic of the onlookers, sprang forward, paws raised. "I will get a marble! Can I get a marble? I will get a marble for you." She could hardly get the words out, she was wriggling so excitedly. When Arya and Poh nodded their agreement, she practically shook her fur off with her wriggles.
 
-Poh offered to escort Luna to the toy station where the townscats kept most of the town's marbles and other playthings. It was a squat building at the corner of the tTown sSquare, one of the permanent locations that bordered the square, despite the town's charming habit of rearranging itself every morning. Luna didn't particularly enjoy slowing down to walk with the councilcat (she yearned to zoom to the station and back) but the thought of playing an important role in the dispute between Arya and Poh kept her composed.
+Poh offered to escort Luna to the toy station where the townscats kept most of the town's marbles and other playthings. It was a squat building at the corner of the town square, one of the permanent locations that bordered the square, despite the town's charming habit of rearranging itself every morning. Luna didn't particularly enjoy slowing down to walk with the councilcat (she yearned to zoom to the station and back) but the thought of playing an important role in the dispute between Arya and Poh kept her composed.
 
 "Do not forget to avoid looking directly at the marble," Poh instructed her when they reached the doors. If Luna looked at the marble, it would turn red or blue before it ever reached Arya and Poh. He gave her a meaningful nod and returned to the box.
 

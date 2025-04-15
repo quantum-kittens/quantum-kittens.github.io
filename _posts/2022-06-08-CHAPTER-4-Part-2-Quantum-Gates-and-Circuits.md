@@ -176,10 +176,11 @@ If you prefer a more visual mathematical representation, perhaps a geometric rep
 \begin{equation}
 \ket{\psi}=\cos{\theta}\ket{0}+\sin{\theta}\ket{1}
 \end{equation}
-This is a valid representation—remember that the sum of probabilities must always add up to 1.
+This is a valid representation—remember that the sum of probabilities must always add up to 1[^fn-nth-1].
 \begin{equation}
 \alpha_{0}^2+\alpha_{1}^2=\cos^2{\theta}+\sin^2{\theta}=1
-\end{equation}[^fn-nth-1]
+\end{equation}
+
 [^fn-nth-1]: This is a fundamental trigonometric identity.
 
 As a result, the arbitrary state $\ket{\psi}$ can be visually represented on a unit circle (that is, a circle of radius 1) like so:
