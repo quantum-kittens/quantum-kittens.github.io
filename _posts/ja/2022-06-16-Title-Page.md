@@ -3,7 +3,7 @@ title: '標題紙'
 math: true
 ---
 
-![](/assets/imgs/cover_beta.png){: style="max-width: 700px" .center}
+![](/assets/imgs/Quantum_Kittens_Cover.png){: style="max-width: 700px" .center}
 
 
 これまで生きてきた、そしてこれからも生きていく、大小さまざまなすべての猫のために。
@@ -16,4 +16,4 @@ math: true
 - ストーリー（その1）は、ウィスカートンの猫たちの話です。
 - 解説（その2）では、物語に登場する量子の概念を解説しています。
 
-このベータ版には、「Quantum Kittens」の最初の3章が含まれています。
+
