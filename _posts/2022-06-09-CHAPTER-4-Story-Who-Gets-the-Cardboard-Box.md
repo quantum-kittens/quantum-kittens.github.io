@@ -16,6 +16,7 @@ Remarkably, the hat popped back onto Tes's own head one humid afternoon as she k
 The rarest item of all to appear spontaneously was an unclaimed cardboard box. Every cardboard box in Whiskerton was meticulously accounted for — cats take them very, very seriously indeed.
 
 So when an enormous unclaimed cardboard box materialized in the town square, haloed by the bright afternoon sunlight streaming through the branches of the Great Scratching Tree, tremendous excitement ensued.
+
 Two of the town's councilcats, Arya and Poh, were first to arrive in the square, and both immediately laid claim to the box. Naturally, this led to a bit of a scuffle.
 
 
@@ -38,6 +39,7 @@ She proposed they use a marble, which was her trusty method for choosing between
 Poh sighed. "Fine. If the marble turns red, the box is mine. If it turns blue, then the box is not yours."
 
 "Oh? Surely you meant if the marble turns blue the box is *mine*."
+
 "But of course!" Poh could not suppress a cheeky grin.
 
 
@@ -78,6 +80,7 @@ Luna nearly swooned with excitement and darted into the toy station with unbridl
 Once inside, she dutifully fetched a marble, then slowly and methodically serenaded it with the tune of Happy Birthday on the flute, taking care to remain farther than ten centimeters away. The marble glimmered with swirling and shifting colors, and it took all of her very limited self-restraint not to be distracted by the glorious chromatic display and stop playing.
 
 Now Luna wasn't much of a musician, but she could manage Happy Birthday to a reasonable standard; all denizens of Whiskerton are trained to play mini flutes as kittens because marbles respond to music.
+
 This was one of the most delightful aspects of living in Whiskerton: learning how to make colors dance within the marbles. The musiciancats would host spectacular concerts in the theater, often conducted by Bilito, the most senior of the councilcats and an accomplished organ player.
 
 The walls of the open theater were adorned with arrays of marbles positioned far enough away from the musicians on stage and the audience that they remained unaffected by observations. The cats reveled in how colors danced and rippled through the array under the music's influence, iridescent hues leaping high into the sky like a celestial aurora.
