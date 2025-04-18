@@ -1,66 +1,66 @@
 ---
-title: 'Chapter 4 Part 2 - Commentary - Quantum Gates and Circuits'
+title: 'Chapitre 4 Partie 2 - Commentaires - Portes Quantiques et Circuits'
 math: true
 ---
 
 
-You already know bits are the fundamental entities that classical computers use to store and process information, and that bits can take on only one value: 0 or 1. But how do the bits *know* which values to assume?
+Nous savons déjà que les bits sont les entités fondamentales que les ordinateurs classiques utilisent pour stocker et traiter l'information, et que les bits ne peuvent prendre qu'une seule valeur : 0 ou 1. Mais comment les bits *savent-ils* quelle valeur adopter ?
 
-You tell the bits what to do by providing instructions. When you use a computer, you're essentially issuing commands that cascade down to the fundamental computing components that control the bits and determine whether they're 0 or 1 at any given instant.
+Nous disons aux bits quoi faire en leur fournissant des instructions. Lorsque nous utilisons un ordinateur, nous émettons en réalité des commandes qui se répercutent jusqu’aux composants informatiques fondamentaux, lesquels contrôlent les bits et déterminent s’ils valent 0 ou 1 à un instant donné.
 
-Suppose you send a text, "Happy birthday!" to a friend. You open your messaging app, type out each letter, and hit send. Each step involves giving your device instructions. These are high-level instructions that you understand, like ‘type h’ or ‘press enter.’ But your computing device breaks down each of these instructions into machine-level commands, and at the most fundamental level, these instructions control and manipulate strings of bits.
+Supposons que nous envoyions un message, "Joyeux anniversaire !", à un ami. Nous ouvrons notre application de messagerie, nous tapons chaque lettre, puis nous appuyons sur envoyer. Chaque étape consiste à donner des instructions à notre appareil. Ce sont des instructions de haut niveau que nous comprenons, comme "taper h" ou "appuyer sur entrée". Mais notre appareil informatique décompose chacune de ces instructions en commandes au niveau machine, et à l’échelle la plus fondamentale, ces instructions contrôlent et manipulent des chaînes de bits.
 
-These instructions are carried out by *logic gates*, which perform operations on bits. Different gates can act on single or multiple bits at a time, each performing a specific operation. Combined, they produce the result you want.
+Ces instructions sont exécutées par des *portes logiques*, qui effectuent des opérations sur les bits. Différentes portes peuvent agir sur un ou plusieurs bits à la fois, chacune réalisant une opération spécifique. Combinées, elles produisent le résultat souhaité.
 
-Similarly, in quantum computing, there are *quantum gates* that act on qubits.
+De la même manière, en informatique quantique, il existe des *portes quantiques* qui agissent sur les qubits.
 
+## Portes Quantiques
 
-## Quantum Gates
-
-Quantum gates are how we control qubits – they manipulate the quantum states of qubits. This means changing the probabilities of what you'd get if you measured the qubits.
+Les portes quantiques sont le moyen par lequel nous contrôlons les qubits – elles manipulent les états quantiques des qubits. Cela signifie qu’elles modifient les probabilités des résultats que nous obtiendrions si nous mesurions les qubits.
 
 In the Whiskertese marble analogy, a quantum gate changes how likely you are to see red or blue when you directly observe the marble.
 
-## Quantum Circuits
+Dans l’analogie des billes de Whiskerton, une porte quantique modifie la probabilité de voir du rouge ou du bleu lorsque nous observons directement la bille.
 
-Instructions can be written out using *quantum circuits*. A quantum circuit is a model depicting a sequence of quantum gates, measurements, and other actions on your qubits. While it isn't an actual physical circuit, it represents how the qubits will be manipulated.
+## Circuits Quantiques
 
-Here's an example of what a quantum circuit looks like for three qubits:
+Les instructions peuvent être formulées à l’aide de *circuits quantiques*. Un circuit quantique est un modèle représentant une séquence de portes quantiques, de mesures et d’autres actions appliquées à des qubits. Bien qu’il ne s’agisse pas d’un circuit physique à proprement parler, il illustre la manière dont les qubits seront manipulés.
+
+Voici un exemple de ce à quoi ressemble un circuit quantique pour trois qubits :
 
 ![](/assets/imgs/ch4_3_qubit_circuit.png){: style="max-width: 500px"}
 
-It looks sort of like a musical score, doesn't it? Just like sheet music, you read the circuit from left to right. Each horizontal line represents one qubit. The boxes and symbols on those lines are quantum gates, and the gray box at the end of each line represents a measurement. Notice how some quantum gates span multiple lines – these are gates that act on multiple qubits at once.
+Ça ressemble un peu à une partition musicale, n’est-ce pas ? Tout comme une partition, on lit le circuit de gauche à droite. Chaque ligne horizontale représente un qubit. Les cases et symboles sur ces lignes sont des portes quantiques, et la case grise à la fin de chaque ligne représente une mesure. Remarquez que certaines portes quantiques s’étendent sur plusieurs lignes – ce sont des portes qui agissent sur plusieurs qubits en même temps.
 
-Remember, this quantum circuit is just a visual representation of instructions. Think of it as an abstraction of what will happen in the physical hardware; not a diagram of actual electronic circuits. These instructions make up a *quantum algorithm.*
+Souvenez-vous, ce circuit quantique n’est qu’une représentation visuelle des instructions. Pensez-y comme à une abstraction de ce qui se passe dans le matériel physique, et non comme un schéma de circuits électroniques réels. Ces instructions forment ce qu’on appelle un *algorithme quantique*.
 
-In Whiskerton, cats implement sequences of quantum gates through music, manipulating the states of their marbles. They know that specific musical notes create specific state changes in the marbles.
+À Whiskerton, les chats mettent en œuvre des séquences de portes quantiques à travers la musique, manipulant les états de leurs billes. Ils savent que certaines notes de musique produisent des changements d’état spécifiques avec les billes.
 
-
-> If you’d like to dive deeper into quantum gates and circuits from a mathematical perspective, read on! Otherwise, head on over to the next page: [This is Not the End.](https://quantum-kittens.github.io/posts/This-is-not-the-end/)
+> Si vous souhaitez plonger plus profondément dans les portes quantiques et les circuits d’un point de vue mathématique, continuez à lire ! Sinon, dirigez-vous vers la page suivante : [Ce n'est pas fini...](https://quantum-kittens.github.io/posts/This-is-not-the-end/)
 {: .prompt-info }
+
 
 _______
 
-## Mathematical Representation of Quantum Gates
+## Représentation Mathématique des Portes Quantiques
 
-In chapter 2, you learned that we can represent an arbitrary qubit state using this equation:
+Dans le chapitre 2, nous avons appris qu'il est possible de représenter un état qubit arbitraire à l'aide de cette équation :
 
 \begin{equation}
 \ket{\psi}=\alpha_{0}\ket{0}+\alpha_{1}\ket{1}
 \end{equation}
 
-where $\alpha_{0}$ and $\alpha_{1}$ are probability amplitudes. These probability amplitudes tell us everything about the state. When a quantum gate changes the state, it changes these $\alpha$ (pronounced ‘alpha’) values.
+où $\alpha_{0}$ et $\alpha_{1}$ sont des amplitudes de probabilité. Ces amplitudes de probabilité nous disent tout sur l'état du qubit. Lorsqu'une porte quantique modifie l'état, elle modifie ces valeurs de $\alpha$ (prononcées ‘alpha’).
 
-Let's call our quantum gate $G$. When we apply $G$ to our initial state $\ket{\psi}$, the state changes like this:
+Appelons notre porte quantique $G$. Lorsque nous appliquons $G$ à notre état initial $\ket{\psi}$, l'état change de la manière suivante :
 
 \begin{equation} 
 \alpha_{0}\ket{0}+\alpha_{1}\ket{1} \rightarrow \beta_{0}\ket{0}+\beta_{1}\ket{1}
 \end{equation}
 
-The new $\beta$ values (pronounced 'beta') are the probability amplitudes of our final state.
-
 There's another helpful way to represent quantum states and gates if you know a bit of linear algebra. We can write the probability amplitudes as a column of numbers, or a *column vector* like so:
 
+Il existe une autre façon bien utile de représenter les états et les portes quantiques si vous connaissez un peu d'algèbre linéaire. Nous pouvons écrire les amplitudes de probabilité sous forme de colonne de nombres, ou un *vecteur colonne* comme ceci :
 
 \begin{equation} 
 v_\psi = \begin{bmatrix} 
@@ -69,7 +69,7 @@ v_\psi = \begin{bmatrix}
 \end{bmatrix} 
 \end{equation}
 
-This vector is called a *state vector*. Similarly, we can write any single-qubit quantum gate as a small grid of numbers (a $2 \times 2$ matrix):
+Ce vecteur est appelé un *vecteur d'état*. De même, nous pouvons écrire n'importe quelle porte quantique à un seul qubit sous forme d'une petite grille de nombres (une matrice $2 \times 2$) :
 
 \begin{equation} 
 G = \begin{bmatrix} 
@@ -78,7 +78,8 @@ c & d
 \end{bmatrix} 
 \end{equation}
 
-You can then use standard matrix multiplication to determine the resulting state:
+Vous pouvez ensuite utiliser la multiplication matricielle standard pour déterminer l'état résultant :
+
 \begin{equation} 
 \begin{bmatrix} 
 a & b \\\ 
@@ -92,13 +93,15 @@ c & d
 \end{bmatrix} 
 \end{equation}
 
-Let’s look at two specific examples of commonly used gates!
+Examinons deux exemples spécifiques de portes couramment utilisées !
 
-### NOT Gate
-The quantum NOT gate is similar to its classical cousin. In classical computing, a NOT gate flips a bit from 0 to 1 or from 1 to 0. The quantum version does something similar – it swaps the probability amplitudes for $\ket{0}$ and $\ket{1}$. This means if your qubit was more likely to give you 0 when measured, after the NOT gate it becomes more likely to give you 1, and vice versa.
+### Porte NOT
+
+La porte quantique NOT est similaire à sa cousine classique. En informatique classique, une porte NOT inverse un bit, le passant de 0 à 1 ou de 1 à 0. La version quantique fait quelque chose de similaire : elle échange les amplitudes de probabilité pour $\ket{0}$ et $\ket{1}$. Cela signifie que si votre qubit avait plus de chances de donner 0 lorsqu'il était mesuré, après la porte NOT, il deviendra plus probable de donner 1, et inversement.
+
+Voici ce que fait une porte NOT :
 
 
-Here's what the NOT gate does:
 \begin{equation} 
 \ket{0} \rightarrow \ket{1}
 \end{equation}
@@ -109,7 +112,8 @@ Here's what the NOT gate does:
 \alpha_{0}\ket{0}+\alpha_{1}\ket{1} \rightarrow \alpha_{1}\ket{0}+\alpha_{0}\ket{1}
 \end{equation}
 
-We can write the NOT gate as this matrix (also called the X gate or Pauli X gate):
+Nous pouvons écrire la porte NOT sous cette forme de matrice (également appelée porte X ou porte Pauli X) :
+
 \begin{equation} 
 X = \begin{bmatrix} 
 0 & 1 \\\ 
@@ -117,7 +121,8 @@ X = \begin{bmatrix}
 \end{bmatrix} 
 \end{equation}
 
-Try multiplying this matrix yourself with these three different states to see how it works:
+Essayez de multiplier cette matrice vous-même avec ces trois états différents pour voir comment cela fonctionne :
+
 \begin{equation} 
  \begin{bmatrix} 
 0 \\\ 
@@ -131,12 +136,13 @@ Try multiplying this matrix yourself with these three different states to see ho
 \end{bmatrix} 
 \end{equation}
 
-### Hadamard Gate
-Not all quantum gates have classical analogs like the NOT gate – in fact, most do not. The Hadamard gate is one of these uniquely quantum gates, and it's arguably one of the most important in quantum computing. Many quantum algorithms rely on it for initializing qubit states. What makes it so special? When applied to either $\ket{0}$ or $\ket{1}$, it creates an equally weighted superposition. 
+### Porte Hadamard
 
-Sound familiar? It's just like the marbles of Whiskerton that are by default in an equally weighted superposition of red and blue!
+Toutes les portes quantiques n'ont pas d'analogues classiques comme la porte NOT – en fait, la plupart n'en ont pas. La porte Hadamard est l'une de ces portes spécifiquement quantiques, et on peut dire qu'elle est l'une des plus importantes en informatique quantique. De nombreux algorithmes quantiques en dépendent pour initialiser les états des qubits. Qu'est-ce qui la rend si spéciale ? Lorsqu'elle est appliquée à $\ket{0}$ ou $\ket{1}$, elle crée une superposition de poids égaux.
 
-Here's what the Hadamard gate does: 
+Cela vous semble familier ? C'est comme les billes de Whiskerton qui sont par défaut dans une superposition de poids égaux entre le rouge et le bleu !
+
+Voici ce que fait la porte Hadamard :
 
 \begin{equation} 
 \ket{0} \rightarrow \frac{1}{\sqrt{2}}\ket{0}+\frac{1}{\sqrt{2}}\ket{1}
@@ -151,9 +157,10 @@ Here's what the Hadamard gate does:
 \frac{1}{\sqrt{2}}\ket{0}-\frac{1}{\sqrt{2}}\ket{1} \rightarrow  \ket{1}
 \end{equation} 
 
-Those $\frac{1}{\sqrt{2}}$ values mean there's a 50-50 chance of measuring either 0 or 1. Notice that sometimes there's a minus sign. While this doesn't change the probabilities, it creates something called *phase* that we'll explore in a future chapter. It's like giving our marbles a special kind of spin.
+Ces valeurs $\frac{1}{\sqrt{2}}$ signifient qu'il y a une probabilité de 50-50 de mesurer soit 0, soit 1. Remarquez qu'il y a parfois un signe moins. Bien que cela ne change pas les probabilités, cela crée ce qu'on appelle la *phase*, que nous explorerons dans un futur chapitre. C'est comme donner à nos billes un type spécial de spin.
 
-Here's the Hadamard gate as a matrix:
+Voici la porte Hadamard sous forme de matrice :
+
 \begin{equation} 
 H = \frac{1}{\sqrt{2}}\begin{bmatrix} 
 1 & 1 \\\ 
@@ -161,9 +168,9 @@ H = \frac{1}{\sqrt{2}}\begin{bmatrix}
 \end{bmatrix} 
 \end{equation}
 
-Try working through the matrix multiplication yourself to see how it creates these transformations.
+Essayez de faire la multiplication matricielle vous-même pour voir comment elle crée ces transformations.
 
-An important note: the equally weighted single-qubit superposition states are so significant in quantum computing they get their own special symbols:
+Une note importante : les états de superposition à un seul qubit de poids égaux sont tellement significatifs en informatique quantique qu'ils ont leurs propres symboles spéciaux :
 
 \begin{align}
 \ket{+}=\frac{1}{\sqrt{2}}\ket{0}+\frac{1}{\sqrt{2}}\ket{1}\\\
@@ -171,8 +178,12 @@ An important note: the equally weighted single-qubit superposition states are so
 \end{align}
 
 
-## Geometric Representation of Qubits
+## Représentation Géométrique des Qubits
+
 If you prefer a more visual mathematical representation, perhaps a geometric representation of a qubit state would be helpful. An arbitrary state $\psi$ can be written in terms of sines and cosines, such that the probability amplitudes are $\alpha_{0} =\cos{\theta}$ and $\alpha_{1} =\sin{\theta}$:
+
+Si vous préférez une représentation mathématique plus visuelle, peut-être qu'une représentation géométrique de l'état d'un qubit serait utile. Un état arbitraire $\psi$ peut être écrit en termes de sinus et de cosinus, de sorte que les amplitudes de probabilité soient $\alpha_{0} = \cos{\theta}$ et $\alpha_{1} = \sin{\theta}$ :
+
 \begin{equation}
 \ket{\psi}=\cos{\theta}\ket{0}+\sin{\theta}\ket{1}
 \end{equation}
@@ -181,48 +192,50 @@ This is a valid representation—remember that the sum of probabilities must alw
 \alpha_{0}^2+\alpha_{1}^2=\cos^2{\theta}+\sin^2{\theta}=1
 \end{equation}
 
-[^fn-nth-1]: This is a fundamental trigonometric identity.
+[^fn-nth-1]: Il s'agit d'une identité trigonométrique fondamentale.
 
-As a result, the arbitrary state $\ket{\psi}$ can be visually represented on a unit circle (that is, a circle of radius 1) like so:
+En conséquence, l'état arbitraire $\ket{\psi}$ peut être représenté visuellement sur un cercle unité (c'est-à-dire un cercle de rayon 1) comme ceci :
 
 
 ![](/assets/imgs/ch4_2D_geo_rep_psi.png){: style="max-width: 500px"}
 
-The green vector is the arbitrary state and the two axes correspond to the basis states $\ket{0}$ and $\ket{1}$.
+Le vecteur vert est l'état arbitraire et les deux axes correspondent aux états de base $\ket{0}$ et $\ket{1}$.
 
-If the angle $\theta$ is 45 degrees, you get the $\ket{+}$ state:
+Si l'angle $\theta$ est de 45 degrés, vous obtenez l'état $\ket{+}$ :
 
 ![](/assets/imgs/ch4_2D_geo_rep_plus.png){: style="max-width: 500px"}
 
 
-With this representation, you can easily think of a quantum gate as acting on a qubit state, such that the corresponding vector moves around this circle according to changes in $\theta$. 
+Avec cette représentation, vous pouvez facilement penser à une porte quantique comme agissant sur un état de qubit, de sorte que le vecteur correspondant se déplace autour de ce cercle en fonction des changements dans $\theta$.
 
-It is important to note that this is *not* a complete representation of a qubit, because it doesn’t take into account that additional parameter I called ‘phase’ earlier. When we cover phase, you will encounter a more complete representation in three dimensions, called the *Bloch sphere*.
+Il est important de noter que ce n'est *pas* une représentation complète d'un qubit, car elle ne prend pas en compte ce paramètre supplémentaire que j'ai appelé "phase" plus tôt. Lorsque nous aborderons la phase, vous rencontrerez une représentation plus complète en trois dimensions, appelée la *sphère de Bloch*.
 
 
-## Running Quantum Circuits
-You now understand that quantum gates manipulate the probabilities within a quantum state. Thus a sequence of quantum gates in a quantum circuit or a *quantum algorithm* manipulates state probabilities. Or, to phrase it a different way, quantum algorithms manipulate the probabilities associated with each possible outcome.
+## Exécuter des Circuits Quantiques
 
-You may naturally wonder: if there are probabilities associated with the results, isn’t there a chance you may get an incorrect or undesirable result? And you’d be right! 
+Vous comprenez maintenant que les portes quantiques manipulent les probabilités au sein d'un état quantique. Ainsi, une séquence de portes quantiques dans un circuit quantique ou un *algorithme quantique* manipule les probabilités des états. Ou, pour le dire autrement, les algorithmes quantiques manipulent les probabilités associées à chaque résultat possible.
 
-This is why, unlike classical circuits, we run quantum circuits multiple times and gather the results as statistics. Each time you run a circuit is called a *shot* and the more shots you run, the more accurate your results will be. 
+Vous vous demandez peut-être : s'il y a des probabilités associées aux résultats, n'y a-t-il pas une chance d'obtenir un résultat incorrect ou indésirable ? Et vous avez raison !
 
-Let’s take a look at a circuit with a single qubit for which, after application of certain gates, it has a 4% chance of yielding 0 and a 96% chance of yielding 1 upon measurement. 
+C'est pourquoi, contrairement aux circuits classiques, nous exécutons des circuits quantiques plusieurs fois et recueillons les résultats sous forme de statistiques. Chaque fois que vous exécutez un circuit, cela s'appelle un *tir* et plus vous effectuez de tirages, plus vos résultats seront précis.
+
+Regardons un circuit avec un seul qubit pour lequel, après l'application de certaines portes, il y a 4 % de chances d'obtenir 0 et 96 % de chances d'obtenir 1 lors de la mesure.
 
 ![](/assets/imgs/ch4_Luna_circuit.png){: style="max-width: 500px"}
 
 
-This makes use of the X gate shown above, and another gate called the Rotation X ($R_X$) gate with an angle of: $\frac{\pi}{8}$ [^fn-nth-2] 
-
-[^fn-nth-2]: This $R_X$ gate rotates the qubit’s state around the x-axis by an angle of $\frac{\pi}{8}$. It also introduces a phase. We’ll see a visual representation of this rotation later.
-
-Given how likely we are to get the result 1, if we associate blue with 0 and red with 1, we have one of the possible quantum circuit representations of Luna playing Happy Birthday—remember that she manipulated the marble to be more likely to be red after observation.
-
-
-
->Quick disclaimer about the Chapter 4 story: If you’re wondering about the 10 cm distance rule, this is solely a whimsical storytelling device representing quantum measurements. In reality, quantum measurements occur through physical interactions that cause quantum states to settle into one of their definite basis states. Refer to [Chapter 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/) for a description of quantum measurements.
+> Quick disclaimer about the Chapter 4 story: If you’re wondering about the 10 cm distance rule, this is solely a whimsical storytelling device representing quantum measurements. In reality, quantum measurements occur through physical interactions that cause quantum states to settle into one of their definite basis states. Refer to [Chapter 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/) for a description of quantum measurements.
 {: .prompt-info }
 
+Cela utilise la porte X montrée ci-dessus, ainsi qu'une autre porte appelée la porte Rotation X ($R_X$) avec un angle de : $\frac{\pi}{8}$ [^fn-nth-2].
+
+[^fn-nth-2]: Cette porte $R_X$ fait tourner l'état du qubit autour de l'axe des x d'un angle de $\frac{\pi}{8}$. Elle introduit également une phase. Nous verrons plus tard une représentation visuelle de cette rotation.
+
+Étant donné la probabilité élevée d'obtenir le résultat 1, si nous associons le bleu à 0 et le rouge à 1, nous avons l'une des représentations possibles du circuit quantique de Luna jouant "Joyeux anniversaire". Rappelez-vous qu'elle a manipulé la bille pour la rendre plus susceptible de devenir rouge après l'observation.
+
+> Petite précision concernant l’histoire du Chapitre 4 : Si vous vous demandez à propos de la règle des 10 cm, il s'agit simplement d'un dispositif narratif fantaisiste représentant les mesures quantiques. En réalité, les mesures quantiques se produisent par des interactions physiques qui provoquent l'effondrement des états quantiques dans l’un de leurs états de base définis. Référez-vous au [Chapitre 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/) pour une description des mesures quantiques.
+
+
 
 _____________________________
 
@@ -233,11 +246,11 @@ _____________________________
 _____________________________
 
 
-**[Next: This is Not the End](https://quantum-kittens.github.io/posts/This-is-not-the-end/)**
+**[A Suivre : Ce N'est Pas Fini...](https://quantum-kittens.github.io/posts/This-is-not-the-end/)**
 
 
-## Qiskit Code
+## Code Qiskit
 
-If you weren't familiar with quantum gates and circuits prior to this chapter, and would like to try coding them with Qiskit, return to the Qiskit sections in [Chapter 2 Part 2]() and [Chapter 3 Part 2]() to try your hands at coding circuits. 
+Si vous n'étiez pas familier avec les portes quantiques et les circuits avant ce chapitre, et que vous souhaitez essayer de les coder avec Qiskit, revenez aux sections Qiskit dans [Chapitre 2 Partie 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/) et [Chapitre 3 Partie 2](https://quantum-kittens.github.io/posts/CHAPTER-3-Part-2-Multiple-Qubits-Entanglement-and-Bell-States/) pour vous essayer à la programmation de circuits.
 
-Otherwise, try to code Luna's Happy Birthday circuit as an exercise!
+Sinon, essayez de coder le circuit "Joyeux anniversaire" de Luna comme un exercice !
