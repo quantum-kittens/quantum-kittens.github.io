@@ -62,7 +62,7 @@ Follow her on Twitter at [@YuriKobaya](https://twitter.com/YuriKobaya)
 
 ## Community Translators
 
-French: Anthony holds a degree in Programming Engineering. From a young age, Anthony has been passionate about science and technology, which led him to pursue a career in software development. His curiosity and drive for innovation led him to explore emerging fields, particularly quantum computing. This interest was sparked when he came across Quantum Kittens. In addition to his academic background, Anthony has worked on various software development projects, where he honed his skills in coding, debugging, and team collaboration. Currently, Anthony has been actively involved in Quantum Kittens translation. Anthony is passionate about the future of quantum technologies and watches closely the growing of this cutting-edge field.
+French: [Anthony Delorme](https://www.linkedin.com/in/anthony-delorme-738976151) holds a degree in Programming Engineering. From a young age, Anthony has been passionate about science and technology, which led him to pursue a career in software development. His curiosity and drive for innovation led him to explore emerging fields, particularly quantum computing. This interest was sparked when he came across Quantum Kittens. In addition to his academic background, Anthony has worked on various software development projects, where he honed his skills in coding, debugging, and team collaboration. Currently, Anthony has been actively involved in Quantum Kittens translation. Anthony is passionate about the future of quantum technologies and watches closely the growing of this cutting-edge field.
 
 
 
