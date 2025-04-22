@@ -101,7 +101,7 @@ _____________________________
 _____________________________
 
 
-**[Next: Who Gets the Cardboard Box?](https://quantum-kittens.github.io/posts/Who-Gets-the-Cardboard-Box/).
+**[Next: Who Gets the Cardboard Box?](https://quantum-kittens.github.io/posts/Who-Gets-the-Cardboard-Box/)**
  
 ________
 
