@@ -1,5 +1,5 @@
 ---
-title: Contact & Support
+title: Bugs/Contact/Support
 icon: fas fa-bug
 order: 4
 ---
