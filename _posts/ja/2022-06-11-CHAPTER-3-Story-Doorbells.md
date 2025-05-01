@@ -96,5 +96,5 @@ _____________________________
 _____________________________
 
 
-**[第３章 - 解説 - 複数量子ビット, もつれ, ベル状態について](https://quantum-kittens-ja.github.io/posts/CHAPTER-3-Part-2-Multiple-Qubits-Entanglement-and-Bell-States/)**
+**[第３章 - 解説 - 複数量子ビット, もつれ, ベル状態について](https://quantum-kittens.github.io/posts/CHAPTER-3-Part-2-Multiple-Qubits-Entanglement-and-Bell-States/)**
 

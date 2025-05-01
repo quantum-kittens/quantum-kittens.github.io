@@ -42,5 +42,5 @@ _____________________________
 
 
 
-**[第2章 - 物語 - シュレーディンガーの日](https://quantum-kittens-ja.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/)**
+**[第2章 - 物語 - シュレーディンガーの日](https://quantum-kittens.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/)**
 

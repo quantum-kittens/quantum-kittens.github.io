@@ -55,7 +55,7 @@ Un algoritmo es básicamente una serie de operaciones que realizas para obtener 
 Así que ahí lo tienes. Ahora que tienes una descripción general de los qubits, la superposición cuántica y las mediciones, conoces la física detrás de las canicas en Whiskerton. 
 
 >Si deseas profundizar en estos conceptos y ver cómo el predicamento de Blade se relaciona con lo que se conoce como el gato de Schrödinger, ¡sigue leyendo! De lo contrario, dirígete a la siguiente historia:
-[Capítulo 3 - Historia - Timbres](https://quantum-kittens-es.github.io/posts/CHAPTER-3-Story-Doorbells/)
+[Capítulo 3 - Historia - Timbres](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)
 {: .prompt-info }
 
 _______
@@ -143,7 +143,7 @@ Este experimento mental se ha convertido rápidamente en una de las iconografía
 
 Ahora, hay otro aspecto curioso de este experimento mental: se podría decir que el estado del gato está *entrelazado* con el de la sustancia radiactiva. 
 
-¡El entrelazamiento cuántico es en realidad nuestra próxima parada! Saltemos a ello: [Siguiente: Capítulo 3 - Historia - Timbres](https://quantum-kittens-es.github.io/posts/CHAPTER-3-Story-Doorbells/)
+¡El entrelazamiento cuántico es en realidad nuestra próxima parada! Saltemos a ello: [Siguiente: Capítulo 3 - Historia - Timbres](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)
 
 _____________________________
 

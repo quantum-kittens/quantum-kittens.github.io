@@ -126,7 +126,7 @@ _____________________________
 _____________________________
 
 
-**[第2章 - 解説 - 量子ビット, 重ね合わせ, 測定](https://quantum-kittens-ja.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)**
+**[第2章 - 解説 - 量子ビット, 重ね合わせ, 測定](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)**
 
 
-**[第3章 - 物語 - 呼び鈴](https://quantum-kittens-ja.github.io/posts/CHAPTER-3-Story-Doorbells/)**
+**[第3章 - 物語 - 呼び鈴](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)**

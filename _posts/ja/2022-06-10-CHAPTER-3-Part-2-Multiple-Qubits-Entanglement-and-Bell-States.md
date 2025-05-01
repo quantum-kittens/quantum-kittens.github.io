@@ -43,7 +43,7 @@ _______
 
 複数量子ビットの状態は、単一量子ビットの状態と同様の方法で表現されます。ウイスカートンの呼び鈴は2つの量子ビットを持つので、2量子ビットの状態に焦点を当てますが、ここで習う表現はより多くの量子ビットにも拡張できます。 
 
-[第2章 - 解説 - 量子ビット, 重ね合わせ, 測定](https://quantum-kittens-ja.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)の任意の1量子ビットの状態に関する方程式を思い出してください。 :
+[第2章 - 解説 - 量子ビット, 重ね合わせ, 測定](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)の任意の1量子ビットの状態に関する方程式を思い出してください。 :
 
 
 \begin{equation}

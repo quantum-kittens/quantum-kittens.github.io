@@ -124,7 +124,7 @@ _____________________________
 _____________________________
 
 
-**[Capítulo 2 Parte 2 - Comentario - Qubits, Superposición y Medición](https://quantum-kittens-es.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)**
+**[Capítulo 2 Parte 2 - Comentario - Qubits, Superposición y Medición](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)**
 
 
-**[Capítulo 3 - Historia - Timbres](https://quantum-kittens-es.github.io/posts/CHAPTER-3-Story-Doorbells/)**
+**[Capítulo 3 - Historia - Timbres](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)**

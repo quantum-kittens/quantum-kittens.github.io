@@ -110,7 +110,7 @@ _____________________________
 _____________________________
 
 
-**[Capítulo 4 Parte 2 - Comentario - Compuertas y Circuitos Cuánticos](https://quantum-kittens-es.github.io/posts/CHAPTER-4-Part-2-Quantum-Gates-and-Circuits/)**
+**[Capítulo 4 Parte 2 - Comentario - Compuertas y Circuitos Cuánticos](https://quantum-kittens.github.io/posts/CHAPTER-4-Part-2-Quantum-Gates-and-Circuits/)**
 
 
 

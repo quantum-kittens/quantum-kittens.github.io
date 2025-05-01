@@ -96,5 +96,5 @@ _____________________________
 _____________________________
 
 
-**[Capítulo 3 Parte 2 - Comentario - Múltiples Qubits, Entrelazamiento y Estados de Bell](https://quantum-kittens-es.github.io/posts/CHAPTER-3-Part-2-Multiple-Qubits-Entanglement-and-Bell-States/)**
+**[Capítulo 3 Parte 2 - Comentario - Múltiples Qubits, Entrelazamiento y Estados de Bell](https://quantum-kittens.github.io/posts/CHAPTER-3-Part-2-Multiple-Qubits-Entanglement-and-Bell-States/)**
 

@@ -42,5 +42,5 @@ _____________________________
 
 
 
-**[Capítulo 2 - Historia - Día de Schrödinger](https://quantum-kittens-es.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/)**
+**[Capítulo 2 - Historia - Día de Schrödinger](https://quantum-kittens.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/)**
 

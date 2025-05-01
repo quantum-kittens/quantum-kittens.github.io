@@ -42,7 +42,7 @@ _______
 Los estados de varios qubits se representan de manera similar a los estados de un solo qubit. Nos centraremos en los estados de dos qubits, ya que los timbres de Whiskerton tienen dos qubits, pero la representación es válida incluso para cantidades más altas.
 
 
-Recuerda la ecuación para un estado de qubit único arbitrario del [Capítulo 2](https://quantum-kittens-es.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/):
+Recuerda la ecuación para un estado de qubit único arbitrario del [Capítulo 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/):
 
 \begin{equation}
 \ket{\psi}=\alpha_{0}\ket{0}+\alpha_{1}\ket{1}
@@ -101,7 +101,7 @@ _____________________________
 _____________________________
 
 
-**[Next: This is Not the End](https://quantum-kittens-es.github.io/posts/This-is-not-the-end/)**
+**[Next: This is Not the End](https://quantum-kittens.github.io/posts/This-is-not-the-end/)**
  
 ________
 

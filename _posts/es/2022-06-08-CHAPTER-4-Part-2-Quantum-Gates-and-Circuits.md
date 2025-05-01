@@ -238,6 +238,6 @@ _____________________________
 
 ## Código Qiskit
 
-Si no estabas familiarizado con las compuertas y circuitos cuánticos antes de este capítulo, y te gustaría intentar codificarlos con Qiskit, regresa a las secciones de Qiskit en el [Capítulo 2 Parte 2](https://quantum-kittens-es.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/) y en el [Capítulo 3 Parte 2](https://quantum-kittens-es.github.io/posts/CHAPTER-3-Part-2-Multiple-Qubits-Entanglement-and-Bell-States/) para probar tus habilidades codificando circuitos. 
+Si no estabas familiarizado con las compuertas y circuitos cuánticos antes de este capítulo, y te gustaría intentar codificarlos con Qiskit, regresa a las secciones de Qiskit en el [Capítulo 2 Parte 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/) y en el [Capítulo 3 Parte 2](https://quantum-kittens.github.io/posts/CHAPTER-3-Part-2-Multiple-Qubits-Entanglement-and-Bell-States/) para probar tus habilidades codificando circuitos. 
 
 Por otra parte, ¡intenta codificar el circuito de Feliz Cumpleaños de Luna como ejercicio!
