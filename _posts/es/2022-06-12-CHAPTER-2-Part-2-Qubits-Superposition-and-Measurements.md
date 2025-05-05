@@ -156,62 +156,62 @@ _____________________________
 
 
 
-## Qiskit Code
+## Código Qiskit
 
-This section is for those of you who want to get started with Qiskit, IBM Quantum’s open source python framework to program quantum computers.
+Esta sección es para aquellos que quieran comenzar a utilizar Qiskit, el paquete de Python de código abierto de IBM Quantum para programar computadoras cuánticas.
 
-You can simulate a Whiskerton marble using this supplementary Qiskit code. This code walks you through creating and running a quantum circuit with a single qubit.
+Puedes simular una canica de Whiskerton con este código complementario de Qiskit. Este código te guía en la creación y el funcionamiento de un circuito cuántico con un solo qubit.
 
-You can run this code in two ways:
+Puedes ejecutar este código de dos maneras:
 
-- On the cloud: you can choose use a cloud-based tool like [Google Colab](https://colab.research.google.com/) or [qBraid](https://www.qbraid.com/). 
-- Locally: you can [install Qiskit](https://qiskit.org/) and run the code on your local machine
+- En la nube: puedes elegir utilizar una herramienta basada en la nube como [Google Colab](https://colab.research.google.com/) o [qBraid](https://www.qbraid.com/). 
+- Localmente: puedes [instalar Qiskit](https://qiskit.org/) y ejecutar el código en tu máquina local
 
-See this blog post for further setup details: [
+Consulta esta publicación del blog para obtener más detalles de configuración: [
 Explore newly recommended notebook environments for Qiskit](https://www.ibm.com/quantum/blog/qiskit-notebook-environments)
 
-The below code is also available as a jupyter notebook [here](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_2.ipynb).
+El siguiente código también está disponible como cuaderno de Jupyter [aquí](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_2.ipynb).
 
-November 2024 note: this code has now been updated to Qiskit 1.0. If you've used an earlier version of Qiskit before, this blog post may be useful for you: [Best practices for transitioning to Qiskit SDK v1.0](https://www.ibm.com/quantum/blog/transition-to-1)
+Nota de noviembre de 2024: Este código se ha actualizado a Qiskit 1.0. Si ya has usado una versión anterior de Qiskit, esta entrada del blog podría serte útil: [Best practices for transitioning to Qiskit SDK v1.0](https://www.ibm.com/quantum/blog/transition-to-1)
 
 
 
 
 
  ```python
-# Install Qiskit along with some optional dependencies useful for visualization 
-# by uncommenting the instruction below if you don't have Qiskit installed already
+# Instalar Qiskit junto con algunas dependencias opcionales útiles para la visualización 
+# descomentando las instrucciones a continuación si aún no se tiene Qiskit instalado
 
 #pip install'qiskit[visualization]'
 
-# Install the Qiskit Runtime Service if you don't have it installed already by uncommenting the instruction below
+# Instalar el servicio de Qiskit Runtime si aún no se tiene instalado descomentando la siguiente instrucción
 
 #pip install qiskit-ibm-runtime
 
-# Install the Qiskit Aer Simulator if you don't have it installed already by uncommenting the instruction below
+# Instalar el simulador Qiskit Aer si aún no se tiene instalado descomentando la siguiente instrucción
 
 #pip install qiskit-aer
 
-# Import necessary Qiskit libraries
+# Importar las bibliotecas de Qiskit necesarias
 
 from qiskit import QuantumCircuit
 
-#Create Marble Circuit
+# Crear un circuito con la canica
 
-marble_circuit = QuantumCircuit(1, 1) # add one qubit (Whiskerton marble) and one classical bit (to store the measurement outcome)
+marble_circuit = QuantumCircuit(1, 1) # agregar un qubit (canica de Whiskerton) y un bit clásico (para almacenar el resultado de la medición)
 
-marble_circuit.h(0) # add H-gate or Hadamard gate to the qubit (this is the quantum gate that puts the marble in superposition)
+marble_circuit.h(0) # agregar la compuerta H o Hadamard al qubit (esta es la compuerta cuántica que coloca la canica en superposición)
 
-marble_circuit.measure(0,0) # add a measurement operator (this is equivalent to a cat looking directly at a marble)
+marble_circuit.measure(0,0) # agregar un operador de medición (esto es equivalente a un gato mirando directamente una canica)
 
-marble_circuit.draw('mpl') # see how the circuit looks
+marble_circuit.draw('mpl') # observar cómo se ve el circuito
 ```
 
 
 
  ```python
 
- # Import necessary Qiskit libraries for running the circuit on a simulator
+ # Importar las bibliotecas de Qiskit necesarias para ejecutar el circuito en un simulador
 
 from qiskit.transpiler.preset_passmanagers import generate_preset_pass_manager
 from qiskit_ibm_runtime import QiskitRuntimeService
@@ -220,24 +220,24 @@ from qiskit_ibm_runtime import SamplerV2 as Sampler
 from qiskit.visualization import plot_histogram
 
 
-#Run Marble Circuit,
-#That is, see if the marble turns red or blue
+# Ejecutar el circuito con la canica,
+# Es decir, ver si la canica se vuelve roja o azul.
 
 marble_state = {'1': 'red', '0': 'blue'}
 
-aer_sim = AerSimulator() # Identify the quantum computer to run this on. In this case it's a simulator not a real device.
+aer_sim = AerSimulator() # Identificar la computadora cuántica donde se ejecutará esto. En este caso, se trata de un simulador, no de un dispositivo real.
 pm = generate_preset_pass_manager(backend=aer_sim, optimization_level=1) 
-isa_marble_circuit = pm.run(marble_circuit) # This line and the line above essentially prepare the circuit to be executed on the device you selected. For for more technical details, please see: https://docs.quantum.ibm.com/api/qiskit/transpiler#transpiler
+isa_marble_circuit = pm.run(marble_circuit) # Esta línea y la anterior preparan el circuito para su ejecución en el dispositivo seleccionado. Para más detalles técnicos, consulta: https://docs.quantum.ibm.com/api/qiskit/transpiler#transpiler
 
-# fetch and print the outcome:
+# obtener e imprimir el resultado:
 sampler = Sampler(mode=aer_sim)
 
-result = sampler.run([isa_marble_circuit], shots=1000).result() # Run the circuit on the simulator 1000 times to gather statistics.
+result = sampler.run([isa_marble_circuit], shots=1000).result() # Ejecutar el circuito en el simulador 1000 veces para recopilar estadísticas.
 counts = result[0].data.c.get_counts()
 
 ans = str(max(counts, key=counts.get))
 
-print('The marble is ' + marble_state[ans] + '.') # The outcome is the one associated with the highest count.
+print('La canica es ' + marble_state[ans] + '.') # El resultado es el asociado con el recuento más alto.
 
 
 
@@ -245,23 +245,23 @@ print('The marble is ' + marble_state[ans] + '.') # The outcome is the one assoc
 
 ```python
 
-# Examine the statistics and plot histogram
+# Examinar las estadísticas y graficar el histograma
 
-print("Your result in the form of counts:", counts)
-print("Thus, in 1000 shots, you get blue " + str(counts['0']) + " times, and red " + str(counts['1']) + " times.")
+print("Tu resultado en forma de recuentos:", counts)
+print("Así, en 1000 disparos, obtienes azul " + str(counts['0']) + " veces y rojo " + str(counts['1']) + " veces.")
 
 plot_histogram(counts)
 
 ```
 
 ```python
-# If you want to run the circuit on a real device then you can use the following 
+# Si deseas ejecutar el circuito en un dispositivo real, puedes utilizar lo siguiente
 
 #from qiskit_ibm_runtime import QiskitRuntimeService
  
-#service = QiskitRuntimeService(channel="ibm_quantum", token="<insert your token here>")
+#service = QiskitRuntimeService(channel="ibm_quantum", token="<inserta tu token aquí>")
 ```
 
 
 
-*Note: the Qiskit code provided is open source, and does not fall under the copyright of Quantum Kittens.*
+*Nota: el código Qiskit proporcionado es de código abierto y no está bajo derechos de autor de Quantum Kittens.*
