@@ -105,42 +105,42 @@ _____________________________
  
 ________
 
-## Qiskit Code
+## Código Qiskit
 
-You can simulate a Whiskerton doorbell using the following code. By using this code, you will learn how to create the quantum circuit corresponding to the Bell state.
+Puedes simular un timbre de Whiskerton con el siguiente código. Con este, aprenderás a crear el circuito cuántico correspondiente al estado de Bell.
 
-The below code is also available as a jupyter notebook [here](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_3.ipynb).
+El siguiente código también está disponible como cuaderno de Jupyter [aquí](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_3.ipynb).
 
  ```python
-# Import necessary Qiskit libraries
+# Importar las bibliotecas de Qiskit necesarias
 
 from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister
 
-#Create Doorbell Entangler Circuit
+# Crear un circuito que entrelace el timbre
 
-qubits = QuantumRegister(2, name='q') # Create a quantum register with 2 qubits (Whiskertese marbles) and name the register 'q'
+qubits = QuantumRegister(2, name='q') # Crear un registro cuántico con 2 qubits (canicas Whiskertesas) y nombrar el registro 'q'
 
-classical_bits = ClassicalRegister(2, name='c') # Create a classical register with 2 bits and name the register 'c' (to eventually store the measurement outcome)
+classical_bits = ClassicalRegister(2, name='c') # Crear un registro clásico con 2 bits y nombrar el registro 'c' (para almacenar eventualmente el resultado de la medición)
 
-q0, q1 = qubits # Label the two qubits in the register 'q0' and 'q1'
+q0, q1 = qubits # Etiquetar los dos qubits en el registro 'q0' y 'q1'
 
 c0, c1 = classical_bits
 
-doorbell_circuit = QuantumCircuit(qubits, classical_bits) # Create a circuit with the quantum and classical registers.
+doorbell_circuit = QuantumCircuit(qubits, classical_bits) # Crear un circuito con los registros cuántico y clásico.
 
-doorbell_circuit.h(q0) # Add a Hadamard gate to the first qubit 
+doorbell_circuit.h(q0) # Agregar una compuerta Hadamard al primer qubit 
 
-doorbell_circuit.cx(q0,q1) # Add a cnot gate with the first qubit as the control and the second qubit as the target. The target flips its state when the control is in the 1 state.
+doorbell_circuit.cx(q0,q1) # Agregar una compuerta cnot con el primer qubit como control y el segundo como objetivo. El objetivo cambia su estado cuando el control está en el estado 1.
 
-doorbell_circuit.measure([q0,q1],[c0,c1]) # Add measurement operators (this is equivalent to a cat looking directly at the outer marble).
+doorbell_circuit.measure([q0,q1],[c0,c1]) # Agregar operadores de medición (esto es equivalente a un gato mirando directamente la canica exterior).
 
-doorbell_circuit.draw('mpl') # See how the circuit looks.
+doorbell_circuit.draw('mpl') # Observar cómo se ve el circuito.
 
 ```
 
 
-As an exercise, run this circuit in a similar way to the marble circuit in [Chapter 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)!
+Como ejercicio, ejecuta este circuito de manera similar al circuito con una canica del [Capítulo 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)!
 
-*Note: the Qiskit code provided is open source, and does not fall under the copyright of Quantum Kittens.*
+*Nota: el código Qiskit proporcionado es de código abierto y no está bajo derechos de autor de Quantum Kittens.*
 
 
