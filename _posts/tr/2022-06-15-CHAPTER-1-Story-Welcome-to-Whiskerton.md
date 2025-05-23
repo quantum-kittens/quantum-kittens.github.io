@@ -4,14 +4,13 @@ title: 'Chapter 1 - Story - Welcome to Whiskerton'
 
 ![](/assets/imgs/cover_beta.png){: style="max-width: 700px" .center}
 
-Bir zamanlar, buradan çok uzakta (ama sandığınızdan daha yakın), adına Bıyıkköy denilen küçük bir köy vardı. Küçük olmasına rağmen, bu köy sıradanlıktan çok uzaktı. Bıyıkköy yalnızca meraklı kedilere ev sahipliği yapmakla kalmaz, kuantum fiziğinin yasalarına göre hareket ederdi.
+Bir zamanlar, buradan çok uzakta (ama sandığınızdan daha yakın), adına Bıyıkkent denilen küçük bir yer vardı. Küçük olmasına rağmen, burası sıradanlıktan çok uzaktı. Bıyıkkent yalnızca meraklı kedilere ev sahipliği yapmakla kalmaz, kuantum fiziğinin yasalarına göre hareket ederdi.
 
-That's why its feline residents loved it so dearly. Who wouldn't want to live in a place where feathers spontaneously appeared and disappeared? Or where marbles could be red and blue at the same time? Or where one could not tell with certainty where a felt mouse would land if one tossed it in the air; only where it *probably* might but *quite likely not* end up?
-İşte bu yüzden köyün tüylü sakinleri burayı öylesine severdi. Kim tüylerin birden görünüp ve kaybolduğu bir yerde yaşamak istemezdi ki?
+İşte bu yüzden kentin tüylü sakinleri burayı öylesine severdi. Kim, tüylerin birden belirip kaybolduğu bir yerde yaşamak istemezdi ki? Bilyelerin aynı anda mavi ve kırmızı olabileceği bir yerde? Ya da bir keçe farenin havaya atıldığında nereye düşeceğini kesin olarak bilemeyeceğin; sadece *muhtemelen* nereye düşebileceğini ama *büyük ihtimalle* düşmeyeceğini söyleyebileceğin bir yerde?
 
-Whiskerton was a town governed by probabilities, monumentally different from its neighbor, Pawville. Pawville with its proud canine populace, where every outcome was easily predicted with certainty. The dogs were thrilled that nothing extraordinary ever happened there. The cats hated it for precisely that reason.
+Bıyıkkent, komşusu Patiköy'den son derece farklı şekilde, olasılıklarla yönetilen bir yerdi. Gururlu köpek sakinleriyle Patiköy, her sonucun kesin olarak tahmin edilebildiği bir yerdi. Orada olağanüstü hiçbir şeyin olmamasından köpekler gayet memnunlardı. Kediler tam da bu yüzden oradan nefret ediyorlardı.
 
-No, Whiskerton was where they belonged, with its impossibilities and improbabilities and counterintuitivities. Oh: and tuna biscuits, of course.
+Hayır, imkansızlıkları ve olasılık dışılılıkları ve sezgiye aykırılılıklarıyla birlikte Bıyıkkent, onların ait oldukları yerdi. Ah, tabii bir de ton balıklı bisküvileri.
 
 At the heart of Whiskerton lay its town square, wherein sat a striking feline statue of copper, brass, and gold. While it was positioned under the Great Scratching Tree—a considerable oak with more scratch than bark—the warm shadows cast by branches did not diminish the statue’s strikingness but rather enhanced its tender detailing. 
 
