@@ -4,9 +4,10 @@ title: 'Chapter 1 - Story - Welcome to Whiskerton'
 
 ![](/assets/imgs/cover_beta.png){: style="max-width: 700px" .center}
 
-Once upon a time, in a land far from here (though closer than you may think), was a little town called Whiskerton. Though little, the town was far from ordinary. Not only was it home to a coterie of curious cats, Whiskerton abided by the laws of quantum physics. 
+Bir zamanlar, buradan çok uzakta (ama sandığınızdan daha yakın), adına Bıyıkköy denilen küçük bir köy vardı. Küçük olmasına rağmen, bu köy sıradanlıktan çok uzaktı. Bıyıkköy yalnızca meraklı kedilere ev sahipliği yapmakla kalmaz, kuantum fiziğinin yasalarına göre hareket ederdi.
 
 That's why its feline residents loved it so dearly. Who wouldn't want to live in a place where feathers spontaneously appeared and disappeared? Or where marbles could be red and blue at the same time? Or where one could not tell with certainty where a felt mouse would land if one tossed it in the air; only where it *probably* might but *quite likely not* end up?
+İşte bu yüzden köyün tüylü sakinleri burayı öylesine severdi. Kim tüylerin birden görünüp ve kaybolduğu bir yerde yaşamak istemezdi ki?
 
 Whiskerton was a town governed by probabilities, monumentally different from its neighbor, Pawville. Pawville with its proud canine populace, where every outcome was easily predicted with certainty. The dogs were thrilled that nothing extraordinary ever happened there. The cats hated it for precisely that reason.
 
