@@ -12,7 +12,7 @@ Bıyıkkent, komşusu Patiköy'den son derece farklı şekilde, olasılıklarla 
 
 Hayır, imkansızlıkları ve olasılık dışılılıkları ve sezgiye aykırılılıklarıyla birlikte Bıyıkkent, onların ait oldukları yerdi. Ah, tabii bir de ton balıklı bisküvileri.
 
-At the heart of Whiskerton lay its town square, wherein sat a striking feline statue of copper, brass, and gold. While it was positioned under the Great Scratching Tree—a considerable oak with more scratch than bark—the warm shadows cast by branches did not diminish the statue’s strikingness but rather enhanced its tender detailing. 
+Bıyıkkent'in kalbinde, bakır, pirinç ve altından yapılma çarpıcı bir kedi heykelinin bulunduğu kent meydanı yer alıyordu. Büyük Tırmalama Ağacı'nın-üzerinde kabuğundan çok tırmalama izinin bulunduğu hatırı sayılır bir meşe ağacı-altına konumlandırıldığında, dalların oluşturduğu sıcak gölgeler heykelin çarpıcılığını azaltmamış aksine müşfik detaylarını daha da belirginleştirmişti.
 
 The statue bore the likeness of Schrödinger, Founder of Whiskerton, gleaming face crinkled in thought as though he contemplated gravely important things, and waistcoat stretched a tad thin around the midriff, betraying a weakness for tuna biscuits with evening cream.
 
