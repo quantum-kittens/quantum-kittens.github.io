@@ -14,5 +14,5 @@ math: true
 
 Her bölüm iki kısımdan oluşuyor: 
 - Hikaye (kısım 1) Bıyıkkent'teki kediler hakkında
-- Yorumlama (kısım 2) hikayede bulunan kuantum kavramlarını açıklıyor
+- Yorumlama (kısım 2) hikayedeki kuantum kavramları açıklanıyor
 
