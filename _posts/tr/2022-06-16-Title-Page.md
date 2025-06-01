@@ -6,13 +6,13 @@ math: true
 ![](/assets/imgs/Quantum_Kittens_Cover.png){: style="max-width: 700px" .center}
 
 
-*For all cats, big and small, who have ever lived, and will ever live.*
+*Yaşamış ve yaşayacak, büyük küçük, tüm kediler için.*
 
 
 
-## How to Read
+## Nasıl okumalı
 
-Each chapter has two parts to it: 
-- Story (part 1) is about cats in Whiskerton
-- Commentary (part 2) explains the quantum concepts demonstrated in the story
+Her bölüm iki kısımdan oluşuyor: 
+- Hikaye (kısım 1) Bıyıkkent'teki kediler hakkında
+- Yorumlama (kısım 2) hikayede bulunan kuantum kavramlarını açıklıyor
 
