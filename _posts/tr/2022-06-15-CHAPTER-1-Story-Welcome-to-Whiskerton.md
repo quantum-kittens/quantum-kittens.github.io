@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 1 - Story - Welcome to Whiskerton'
+title: 'Bölüm 1 - Hikaye - Bıyıkkent'e Hoşgeldin'
 ---
 
 ![](/assets/imgs/cover_beta.png){: style="max-width: 700px" .center}
@@ -14,15 +14,15 @@ Hayır, imkansızlıkları ve olasılık dışılılıkları ve sezgiye aykırı
 
 Bıyıkkent'in kalbinde, bakır, pirinç ve altından yapılma çarpıcı bir kedi heykelinin bulunduğu kent meydanı yer alıyordu. Büyük Tırmalama Ağacı'nın-üzerinde kabuğundan çok tırmalama izinin bulunduğu hatırı sayılır bir meşe ağacı-altına konumlandırıldığında, dalların oluşturduğu yumuşak gölgeler heykelin çarpıcılığını azaltmamış aksine müşfik detaylarını daha da belirginleştirmişti.
 
-The statue bore the likeness of Schrödinger, Founder of Whiskerton, gleaming face crinkled in thought as though he contemplated gravely important things, and waistcoat stretched a tad thin around the midriff, betraying a weakness for tuna biscuits with evening cream.
+Heykel, Bıyıkkent'in kurucusu Schrödinger'in suretini taşıyordu; ciddi bir ifadeyle önemli şeyler düşünüyormuşçasına parlak yüzü kırışmış, bel çevresinde gerginleşen yeleği ise akşamları ton balıklı kremalı bisküvilere olan zaafını ele veriyordu.  
 
-Schrödinger had been an enthusiastic pioneer in spite of his tuna biscuit addiction, prone to wander in the hopes of discovering something magnificent. And discover something magnificent he did! A land that was…peculiar, to say the least. Quite unlike any he’d seen before. 
+Schrödinger, ton balıklı bisküvi bağımlılığına rağmen, muhteşem bir keşif yapma ümidiyle gezinme eğiliminde, meraklı bir önderdi. Ve gerçekten muhteşem bir şey keşfetti de! Bir diyar ki... en mütevazı tabirle, garip. Daha önce gördüklerine hiç benzemeyen bir yer.
 
 ![](/assets/imgs/Feather_Animation.gif){: style="max-width: 150px" .left} 
 
-The grass was not only green, but also purple and blue, for one. For another, the hills and trees and ponds were prone to shift about every so often, as though they couldn’t quite pick their favorite spots. But the best part about this land? There were *toys*. Lots and lots of toys: marbles and feathers and felt mice and more, all as wondrous and peculiar as the land itself, shifting colors, periodically disappearing, moving in ways that were difficult to predict.
+En basitinden çimenler sadece yeşil değil, mor ve maviydi de. Bir diğeri de, tepeler, ağaçlar ve göletler zaman zaman yer değiştiriyordu, sanki nerede durmak istediklerine karar veremiyorlardı. Ancak bu toprakların en iyi yanı? Orada *oyuncaklar* vardı. Çok ama çok fazla oyuncak: bilyeler, tüyler, keçe fareler ve birçoğu, her biri değişen renkleri, düzenli aralıklarla kaybolmaları, tahmin etmesi zor bir şekilde hareket etmeleriyle bu toprakların kendisi kadar harika ve tuhaftı.
 
-*An extraordinary land; perfect for an extraordinary town*, Schrödinger is believed to have thought while munching on a tuna biscuit, eyes grazing the curious landscape.
+*Olağanüstü bir diyar; olağanüstü bir kent için mükemmel*, diye düşünmüş olmalı Schrödinger ton balıklı bisküvisini afiyetle yerken, meraklı gözlerini manzara üzerinde gezdirerek.
 
 To establish this extraordinary new town, Schrödinger lured potential denizens with grand shows involving the toys native to the land. Hundreds of animals of all shapes, sizes, and ornamentations showed up to spectate. They hitched tents, bonded over campfires, oohed and aahed at the theatrics, and enjoyed (for the most part) waking up to their tents somehow unexpectedly having popped to a different location within the encampment overnight. 
 
@@ -39,7 +39,7 @@ _____________________________
 _____________________________
 
 
-**[Chapter 1 Part 2 - Commentary - Introduction](https://quantum-kittens.github.io/posts/CHAPTER-1-Part-2-Introduction-to-Quantum-Computing/)**
+**[Bölüm 1 Kısım 2 - Yorumlama - Giriş](https://quantum-kittens.github.io/posts/CHAPTER-1-Part-2-Introduction-to-Quantum-Computing/)**
 
 
-**[Chapter 2 - Story - Schrödinger Day](https://quantum-kittens.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/)**
+**[Bölüm 2 - Hikaye - Schrödinger Günü](https://quantum-kittens.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/)**
