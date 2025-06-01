@@ -28,7 +28,6 @@ Schrödinger bu olağanüstü yeni kasabayı kurmak için, olası sakinleri bu t
 
 Hayvanlar iyice eğlendirildi, fakat yalnızca kediler meraklı yaratılışlarından dolayı bu parlak yeni diyarda kalıcı olarak yerleşmeye ilgi gösterdiler. Günün sonunda, çokama*çok*teşekkür, kedi olmayanlar fırlatıp atmayı sevdikleri oyuncaklarının nereye ve nasıl hareket ettiklerini açıkça görebilecekleri bir yerde yaşamayı tercih ediyorlardı.
 
-And so it was that on the fourteenth of April that year, Whiskerton was not only pronounced a town, but declared homeland for all the cats in the world. 
 Böylece o yıl Nisan'ın on dördüncü günü, Bıyıkkent yalnızca bir kent olarak bildirilmekle kalmadı, aynı zamanda dünyadaki tüm kediler için vatan olarak ilan edildi.
 
 _____________________________
