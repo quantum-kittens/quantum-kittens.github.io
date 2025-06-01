@@ -24,11 +24,12 @@ En basitinden çimenler sadece yeşil değil, mor ve maviydi de. Bir diğeri de,
 
 *Olağanüstü bir diyar; olağanüstü bir kent için mükemmel*, diye düşünmüş olmalı Schrödinger ton balıklı bisküvisini afiyetle yerken, meraklı gözlerini manzara üzerinde gezdirerek.
 
-To establish this extraordinary new town, Schrödinger lured potential denizens with grand shows involving the toys native to the land. Hundreds of animals of all shapes, sizes, and ornamentations showed up to spectate. They hitched tents, bonded over campfires, oohed and aahed at the theatrics, and enjoyed (for the most part) waking up to their tents somehow unexpectedly having popped to a different location within the encampment overnight. 
+Schrödinger bu olağanüstü yeni kasabayı kurmak için, olası sakinleri bu topraklara özgü oyuncakları içeren büyük gösterilerle cezbetti. Her biçimden, ebattan ve süslemelerle bezenmiş yüzlerce hayvan etkinliği seyretmeye geldi. Çadırlar kurdular, kamp ateşinin etrafında kaynaştılar, sahnede olup bitene uhlayıp ahladılar ve gece boyunca çadırlarının kampın farklı bir yerine uğramasından (büyük ölçüde) keyif aldılar.
 
-The animals were thoroughly entertained, but it was only the cats who expressed interest in taking up permanent residence in this shiny new land, curious creatures as they were. At the end of the day, non-felines much preferred to live in a place where they could clearly see where and how the toys they loved to toss around moved, thankyou*very*much.
+Hayvanlar iyice eğlendirildi, fakat yalnızca kediler meraklı yaratılışlarından dolayı bu parlak yeni diyarda kalıcı olarak yerleşmeye ilgi gösterdiler. Günün sonunda, çokama*çok*teşekkür, kedi olmayanlar fırlatıp atmayı sevdikleri oyuncaklarının nereye ve nasıl hareket ettiklerini açıkça görebilecekleri bir yerde yaşamayı tercih ediyorlardı.
 
 And so it was that on the fourteenth of April that year, Whiskerton was not only pronounced a town, but declared homeland for all the cats in the world. 
+Böylece o yıl Nisan'ın on dördüncü günü, Bıyıkkent yalnızca bir kent olarak bildirilmekle kalmadı, aynı zamanda dünyadaki tüm kediler için vatan olarak ilan edildi.
 
 _____________________________
 
@@ -39,7 +40,7 @@ _____________________________
 _____________________________
 
 
-**[Bölüm 1 Kısım 2 - Yorumlama - Giriş](https://quantum-kittens.github.io/posts/CHAPTER-1-Part-2-Introduction-to-Quantum-Computing/)**
+**[Chapter 1 Part 2 - Commentary - Introduction](https://quantum-kittens.github.io/posts/CHAPTER-1-Part-2-Introduction-to-Quantum-Computing/)**
 
 
-**[Bölüm 2 - Hikaye - Schrödinger Günü](https://quantum-kittens.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/)**
+**[Chapter 2 - Story - Schrödinger Day](https://quantum-kittens.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/)**
