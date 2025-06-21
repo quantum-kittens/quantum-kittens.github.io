@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 1 - Story - Welcome to Whiskerton'
+title: 'Bölüm 1 - Hikaye - Bıyıkkent'e Hoşgeldiniz'
 ---
 
 ![](/assets/imgs/cover_beta.png){: style="max-width: 700px" .center}
