@@ -2,7 +2,7 @@
 title: '第1章 -  物語 - ウィスカートンへようこそ'
 ---
 
-![](/assets/imgs/cover_beta.png){: style="max-width: 700px" .center}
+![](/assets/imgs/Quantum_Kittens_Cover.png){: style="max-width: 700px" .center}
 
 むかしむかし、はるか遠く（でもあなたの思うよりずっと近く）のあるところに、ウィスカートンという町がありました。小さな町ながらも、大きくふつうと異なるその町は、好奇心旺盛な猫たちのすみかであるだけでなく、量子物理の法則の支配するところでした。
 

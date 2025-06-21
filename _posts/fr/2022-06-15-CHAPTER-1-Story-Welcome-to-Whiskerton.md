@@ -2,7 +2,7 @@
 title: 'Chapitre 1 - Histoire - Bienvenue à Whiskerton'
 ---
 
-![](/assets/imgs/cover_beta.png){: style="max-width: 700px" .center}
+![](/assets/imgs/Quantum_Kittens_Cover.png){: style="max-width: 700px" .center}
 
 
 Il était une fois, dans des terres très éloignées (quoique plus proche que ce que l'on pourrait penser), se trouvait le petit village de Whiskerton. Malgré sa petite taille, le village n'avait rien d'ordinaire. Non seulement habritait-il une clique de chats curieux, Whiskerton fonctionnait selon les lois de la physique quantique.

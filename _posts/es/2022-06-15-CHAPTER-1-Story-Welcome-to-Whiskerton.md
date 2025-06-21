@@ -2,7 +2,7 @@
 title: 'Capítulo 1 - Historia - Bienvenido a Whiskerton'
 ---
 
-![](/assets/imgs/cover_beta.png){: style="max-width: 700px" .center}
+![](/assets/imgs/Quantum_Kittens_Cover.png){: style="max-width: 700px" .center}
 
 Érase una vez, en una tierra lejos de aquí (aunque más cerca de lo que piensas), había un pequeño pueblo llamado Whiskerton. Aunque pequeño, el pueblo estaba lejos de ser ordinario. No solo era el hogar de un grupo de gatos curiosos, Whiskerton se atenía a las leyes de la física cuántica.
 

@@ -2,7 +2,7 @@
 title: 'Chapter 1 - Story - Welcome to Whiskerton'
 ---
 
-![](/assets/imgs/cover_beta.png){: style="max-width: 700px" .center}
+![](/assets/imgs/Quantum_Kittens_Cover.png){: style="max-width: 700px" .center}
 
 Bir zamanlar, buradan çok uzakta (ama sandığınızdan daha yakın), adına Bıyıkkent denilen küçük bir yer vardı. Küçük olmasına rağmen, burası sıradanlıktan çok uzaktı. Bıyıkkent yalnızca meraklı kedilere ev sahipliği yapmakla kalmaz, kuantum fiziğinin yasalarına göre hareket ederdi.
 

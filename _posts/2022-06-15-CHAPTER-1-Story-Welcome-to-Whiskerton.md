@@ -2,7 +2,7 @@
 title: 'Chapter 1 - Story - Welcome to Whiskerton'
 ---
 
-![](/assets/imgs/cover_beta.png){: style="max-width: 700px" .center}
+![](/assets/imgs/Quantum_Kittens_Cover.png){: style="max-width: 700px" .center}
 
 Once upon a time, in a land far from here (though closer than you may think), was a little town called Whiskerton. Though little, the town was far from ordinary. Not only was it home to a coterie of curious cats, Whiskerton abided by the laws of quantum physics. 
 
