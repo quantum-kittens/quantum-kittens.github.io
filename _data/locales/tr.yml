@@ -1,0 +1,79 @@
+# Turkish locale file for Chirpy theme
+# File: _data/locales/tr.yml
+
+# Language Name
+language_name: Türkçe
+
+# The layout text of site
+# ----- Commons label -----
+layout:
+  post: Post
+  category: Kategori
+  tag: Etiket
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Ana Sayfa
+  categories: Kategoriler
+  tags: Etiketler
+  archives: Arşiv
+  about: Hakkında
+
+# the text displayed in the search bar & search results
+search:
+  hint: ara
+  cancel: İptal
+  no_results: Ups! Sonuç bulunamadı.
+
+panel:
+  lastmod: Son güncelleme
+  trending_tags: Popüler Etiketler
+  toc: İçindekiler
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: Bu yazı :LICENSE_NAME lisansı altında lisanslanmıştır.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+  # Displayed in the footer
+  brief: Tüm hakları saklıdır.
+  verbose: >-
+    Yazar tarafından lisanslanmıştır.
+
+meta: :PLATFORM ile :THEME temasıyla güçlendirilmiştir.
+
+not_found:
+  statment: Üzgünüz, bu URL'yi yanlış yerleştirdik veya bir şeylerin bağlantısını kesmiş olabilir.
+  hint_template: :HEAD_BAK tekrar bulmaya çalışmak için, veya :ARCHIVES_PAGE sayfasında arayın.
+  head_back: Ana Sayfaya Dön
+  archives_page: Arşiv sayfası
+
+# ----- Posts related labels -----
+post:
+  written_by: Yazan
+  posted: Yayınlandı
+  updated: Güncellendi
+  words: kelime
+  pageview_measure: görüntülenme
+  read_time:
+    unit: dk
+    prompt: okuma
+  relate_posts: İlgili Yazılar
+  share: Paylaş
+  button:
+    next: Sonraki
+    previous: Önceki
+    copy_code:
+      succeed: Kopyalandı!
+    share_link:
+      title: Bağlantıyı kopyala
+      succeed: Bağlantı başarıyla kopyalandı!
+  # pinned prompt of posts list on homepage
+  pin_prompt: Sabitlenmiş
+
+# categories page
+categories:
+  category_measure: kategori
+  post_measure: yazı
