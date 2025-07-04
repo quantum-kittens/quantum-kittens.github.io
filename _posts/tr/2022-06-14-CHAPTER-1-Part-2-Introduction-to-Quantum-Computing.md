@@ -1,11 +1,15 @@
 ---
-title: 'Chapter 1 Part 2 - Commentary - Introduction to Quantum Computing'
+title: 'Bölüm 1 Kısım 2 - Açıklama - Kuantum Hesaplamaya Giriş'
 math: true
 ---
 
 Ours is a world governed by classical physics, in which a film is either playing or paused, a coin lands on either heads or tails, and a cat is either alive or dead. Classical physics is what we experience in our everyday lives. Based on the trajectory and velocity of a ball you've thrown, it's pretty easy to predict with reasonable certainty where the ball will land--depending on your aiming skills, it may not land where you intended it to, of course, but once it's left your hand, you can deduce where it is headed. There's zero chance of it landing at your feet, say, if you've thrown it with enough force.
 
+Bizimkisi klasik fizik tarafından yönetilen, bir filmin devam etmesi ya da duraklatılması, madeni bir paranın yazı ya da tura düşmesi ve bir kedinin hayatta ya da ölü olduğu bir dünya. Klasik fizik, günlük yaşantımızda deneyimlediğimiz şeydir. Atılan bir topun yörüngesine ve hızına göre, nişan alma becerinize de bağlı olarak değişebilecek bir şekilde topun nereye düşeceğini akla yatkın bir kesinlik ile tahmin etmek oldukça kolay, tabii ki istediğiniz yere düşmeyebilir de ancak top bir kez elinizden çıktığında nereye gideceğini tahmin edebilirsiniz. Eğer yeterince güçlü bir şekilde fırlattıysanız, topun ayağınıza düşme ihtimali sıfırdır.
+
 However, if you were to shrink down--and I mean *really* shrink down--you'll fast discover that the laws that govern the subatomic world are much different from what we experience on a macroscopic scale. Down there, throwing a ball would look very different.
+
+Ancak, küçülürseniz--*ciddi manada* küçülürseniz--atom altı dünyanın bizim makroskopik ölçekte deneyimlediğimizden çok daha farklı olduğunu hızlıca keşfedersiniz. Orada, top atmak bambaşka görünürdü.
 
 The subatomic world is the domain of quantum physics, where results are governed by probabilities.[^fn-nth-1] Outcomes that wouldn't have been likely in the classical context would suddenly be possible. The ball could very well land at your feet no matter how hard you throw it! You and the ball would be subatomic particles, like electrons, and hence governed by the laws of quantum physics.
 
