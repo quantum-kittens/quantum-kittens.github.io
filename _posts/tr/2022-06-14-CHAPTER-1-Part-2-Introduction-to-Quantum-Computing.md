@@ -3,37 +3,33 @@ title: 'Bölüm 1 Kısım 2 - Açıklama - Kuantum Hesaplamaya Giriş'
 math: true
 ---
 
-Ours is a world governed by classical physics, in which a film is either playing or paused, a coin lands on either heads or tails, and a cat is either alive or dead. Classical physics is what we experience in our everyday lives. Based on the trajectory and velocity of a ball you've thrown, it's pretty easy to predict with reasonable certainty where the ball will land--depending on your aiming skills, it may not land where you intended it to, of course, but once it's left your hand, you can deduce where it is headed. There's zero chance of it landing at your feet, say, if you've thrown it with enough force.
-
 Bizimkisi klasik fizik tarafından yönetilen, bir filmin devam etmesi ya da duraklatılması, madeni bir paranın yazı ya da tura düşmesi ve bir kedinin hayatta ya da ölü olduğu bir dünya. Klasik fizik, günlük yaşantımızda deneyimlediğimiz şeydir. Atılan bir topun yörüngesine ve hızına göre, nişan alma becerinize de bağlı olarak değişebilecek bir şekilde topun nereye düşeceğini akla yatkın bir kesinlik ile tahmin etmek oldukça kolay, tabii ki istediğiniz yere düşmeyebilir de ancak top bir kez elinizden çıktığında nereye gideceğini tahmin edebilirsiniz. Eğer yeterince güçlü bir şekilde fırlattıysanız, topun ayağınıza düşme ihtimali sıfırdır.
-
-However, if you were to shrink down--and I mean *really* shrink down--you'll fast discover that the laws that govern the subatomic world are much different from what we experience on a macroscopic scale. Down there, throwing a ball would look very different.
 
 Ancak, küçülürseniz--*ciddi manada* küçülürseniz--atom altı dünyanın bizim makroskopik ölçekte deneyimlediğimizden çok daha farklı olduğunu hızlıca keşfedersiniz. Orada, top atmak bambaşka görünürdü.
 
-The subatomic world is the domain of quantum physics, where results are governed by probabilities.[^fn-nth-1] Outcomes that wouldn't have been likely in the classical context would suddenly be possible. The ball could very well land at your feet no matter how hard you throw it! You and the ball would be subatomic particles, like electrons, and hence governed by the laws of quantum physics.
+Sonuçların olasılıklarla yönetildiği atom altı dünya, kuantum fiziğinin alanıdır.[^fn-nth-1] Klasik bağlamda gerçekleşmesi mümkün olmayan sonuçlar birdenbire mümkün hale gelebilir. Ne kadar sert atarsanız atın top ayağınıza düşebilir! Sen ve top, elektronlar gibi atom altı parçacıklar haline gelir ve dolayısıyla kuantum fiziğinin yasalarına tabi olursunuz.
 
-[^fn-nth-1]: While quantum physics is prevalent at the subatomic, microscopic level, there are some processes that display quantum effects even at the macroscopic level. But not really things we encounter as we go about our daily lives.
+[^fn-nth-1]: Kuantum fiziği atom altı, mikroskobik düzeye egemen olsa da, makroskobik düzeyde bile kuantum etkileri gösteren bazı süreçler vardır. Ancak bunlar tam olarak günlük yaşantımızda karşılaştığımız şeyler sayılmaz.
 
-What makes quantum physics so bizarre and, in a way, counterintuitive, is that there are certain quantum phenomena that have no counterpart in classical physics. Quantum particles can be in a superposition of more than one state, they can be entangled, and there are uncertainties associated with their behaviors. There is nothing that we experience in our classical world that is analogous to any of these properties!
+Kuantum fiziğini bu denli tuhaf ve bir bakıma sezgiye aykırı yapan şey, klasik fizikte hiçbir karşılığı olmayan bazı kuantum olgulardır. Kuantum parçacıkları birden fazla durumda süperpozisyonda bulunabilir, dolanık hale gelebilir ve davranışlarıyla ilgili belirsizlikler taşıyabilirler. Klasik dünyamızda deneyimlediğimiz hiçbir şey bu özelliklerle eşdeğer değildir.
 
-The extraordinary, counterintuitive properties of quantum particles can be harnessed for computing in ways that the digital devices we use every day, or “classical computers”, simply cannot. Quantum computing, we call it. 
+Kuantum parçacıklarının bu olağanüstü, sezgiye aykırı özellikleri, günlük yaşantımızda kullandığımız dijital cihazlar veya "klasik bilgisayarların" yapamayacakları şekilde hesaplamada yararlanılabilir. Buna kuantum hesaplama diyoruz.
 
->Quantum computing differs as a computing system from classical computing because of the way it employs the fundamental laws of nature.
+>Kuantum hesaplama, bir hesaplama sistemi olarak doğanın temel yasalarını kullanma yönüyle klasik hesaplamadan ayrılır.
 {: .prompt-tip }
 
-And the difference has enormous potential: it is widely believed that near future quantum computers that work perfectly may be able to solve certain problems that even today’s most powerful supercomputers cannot. Problems like handling monumental amounts of data, simulating complex molecules to discover new drugs, materials, and chemical processes, and prime factorization of very large numbers.
+Ve bu farklılık muazzam bir potensiyel taşır: genel anlamdaki inanış, yakın gelecekte kusursuz bir şekilde çalışan kuantum bilgisayarların, günümüzün en güçlü süper bilgisayarlarının bile çözemeyeceği bazı problemleri çözeceği yönündedir.
 
-We still are a ways away from reaching this ideal quantum computer that works perfectly and seeing this potential realized; there are a number of hardware obstacles to overcome. But imperfect quantum computers already exist today, some even publicly accessible through the cloud, and researchers and industry professionals alike are working to identify near-term useful applications and evolve the hardware.
+Kusursuz bir şekilde çalışan bu ideal kuantum bilgisayarına ulaşmak ve bu potansiyelin gerçekleştiğine şahit olmak için hâlâ çok yolumuz; aşmamız gereken bir dizi donanım engeli var. Ancak kusurlu yani hatalı kuantum bilgisayarlar bugün mevcut, hatta bazıları bulut ile genel kullanıma açık olmakla birlikte, araştırmacılar ve endüstri profesyonelleri yakın vadede faydalı kullanımları belirlemek ve donanımı geliştirmek için çalışıyorlar.
 
-At this point, it is important to note that quantum computers won’t replace our classical computers; only complement them by extending the realm of computing possibilities. 
+Bulunduğumuz noktada, kuantum bilgisayarların klasik bilgisayarlarımızın yerini almayacağını, sadece hesaplama olanaklarını genişleterek tamamlayıcı bir görev üstleneceklerini belirtmemiz önemli.
 
->We don’t need quantum computers to binge-watch tv shows when we can do so perfectly with our own devices. We need them for things classical computers aren’t very good at!
+>Kendi bilgisayarlarımızla harika bir şekilde yapabilecekken, art arda televizyon dizisi izlemek için kuantum bilgisayarlara ihtiyacımız yok. Klasik bilgisayarların iyi olmadığı şeyler için onlara ihtiyacımız var!
 {: .prompt-tip }
 
-Illustrated in the stories ahead are various important quantum phenomena and how they are used for quantum computing.
+İlerideki hikayelerde çeşitli önemli kuantum olguları ve bunların kuantum hesaplamada nasıl kullanıldığı gösterilmektedir.
 
-Let's venture together to Whiskerton, now, shall we?
+Hadi şimdi gelin hep birlikte Whiskerton'a gidelim, ne dersiniz?
 
 _____________________________
 
