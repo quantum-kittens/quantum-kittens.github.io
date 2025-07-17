@@ -39,7 +39,7 @@ _____________________________
 _____________________________
 
 
-**[Chapter 1 Part 2 - Commentary - Introduction](https://quantum-kittens.github.io/posts/CHAPTER-1-Part-2-Introduction-to-Quantum-Computing/)**
+**[Bölüm 1 Kısım 2 - Açıklama - Giriş](https://quantum-kittens.github.io/posts/CHAPTER-1-Part-2-Introduction-to-Quantum-Computing/)**
 
 
-**[Chapter 2 - Story - Schrödinger Day](https://quantum-kittens.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/)**
+**[Bölüm 2 - Hikaye - Schrödinger Günü](https://quantum-kittens.github.io/posts/CHAPTER-2-Story-Schr%C3%B6dinger-Day/)**
