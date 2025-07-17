@@ -1,10 +1,10 @@
 ---
-title: 'Chapter 2 - Story - Schrödinger Day'
+title: 'Bölüm 2 - Hikaye - Schrödinger Günü'
 ---
 
-“Twisted yarn,” Arya cursed as she examined the Town Hall’s pantry. It was Schrödinger Day, Whiskerton’s most joyous festival, and the councilcat—with pristine ginger coat, green eyes, and a penchant for sunbathing—found herself in somewhat of a quandary.
+"Karışmış iplik," diye söylendi Arya belediye binasının erzak dolabını incelerken. O gün Schrödinger Günüydü, Bıyıkkent'in en neşeli festivali, ve konsey kedisi-kusursuz kızıl tüyleri, yeşil gözleri ve güneş banyosuna olan düşkünlüğüyle- kendini bir çeşit çıkmazda buldu.
 
-Schrödinger Day was the anniversary of Whiskerton becoming a town. The townscats always celebrated their Foundation Day with much pomp and grandeur, even umpteen generations later when Arya, the councilcat in charge of planning, found herself staring at the pantry’s contents.
+Schrödinger Günü Bıyıkkent'in kuruluşunun yıl dönümüydü. Kasaba kedileri üzerinden nice nesiller geçmiş olsa bile her zaman Kuruluş Gününü ihtişam ve görkemle kutlardı, tıpkı planlamadan sorumlu konsey kedisi Arya'nın kendini erzak dolabının içindekilere bakarken bulduğu anda olduğu gibi.
 
 You see, she had diligently instructed the Town Hall’s chefcat to bake tuna biscuits, which were the obvious choice of celebratory snack for this occasion’s evening cream. But that morning, a frantic chefcat reported that all the tuna biscuits she'd spent the entire night preparing had vanished. And no, it wasn't the town’s mischievous kittens who ate them. The tuna biscuits disappeared before her very eyes!
 
