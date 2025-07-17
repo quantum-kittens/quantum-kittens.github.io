@@ -1,5 +1,5 @@
 ---
-title: 'Bölüm 1 - Hikaye - Bıyıkkent'e Hoşgeldiniz'
+title: "Bölüm 1 - Hikaye - Bıyıkkent'e Hoşgeldiniz"
 ---
 
 ![](/assets/imgs/cover_beta.png){: style="max-width: 700px" .center}
