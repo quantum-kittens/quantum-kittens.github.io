@@ -23,7 +23,7 @@ Arya'nın düşünceleri oradan oraya koşuyor, çökme tehlikesiyle karşı kar
 
 Belediye binasındaki ofisine gitti, bol miktarda kitap, taze mürekkep ve parşömen kokuları ve güneşlenme noktaları bulunan rahat bir odaydı. Ve bir iki bilye.
 
-Bıyıkkent bilyelerinin merak uyandıran bir özelliği vardı: aynı anda kırmızı ve maviydiler, birisi gözlemleyene kadar iki rengin bir süperpozisyonuydular (üst üste binmiş hali). Doğrudan gözlemlendiğinde, bir Bıyıkkent bilyesi, her renk için yüzde elli ihtimalle ya kırmızıya ya da maviye dönerdi. Bir odayı yüz adet Bıyıkkent bilyesiyle doldurup her bir bilyeye doğrudan bakıldığında, bilyelerin yarısı kadarının kırmızıya ve yarısı kadarının da maviye döneceğini görülür. Bir bilyenin renginin bu renklerden hangisine döneceğini önceden söylemek mümkün değildi. 
+Bıyıkkent bilyelerinin merak uyandıran bir özelliği vardı: aynı anda kırmızı ve maviydiler, birisi gözlemleyene kadar iki rengin bir üst üste binmiş haliydiler (süperpozisyonu). Doğrudan gözlemlendiğinde, bir Bıyıkkent bilyesi, her renk için yüzde elli ihtimalle ya kırmızıya ya da maviye dönerdi. Bir odayı yüz adet Bıyıkkent bilyesiyle doldurup her bir bilyeye doğrudan bakıldığında, bilyelerin yarısı kadarının kırmızıya ve yarısı kadarının da maviye döneceğini görülür. Bir bilyenin renginin bu renklerden hangisine döneceğini önceden söylemek mümkün değildi. 
 
 ![](/assets/imgs/Marble_Animation.png){: style="max-width: 150px" .right} 
 Arya pawed one of the marbles out of a storage box, careful to avoid looking at it directly.
