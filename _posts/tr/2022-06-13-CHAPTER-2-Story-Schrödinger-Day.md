@@ -2,28 +2,28 @@
 title: 'Bölüm 2 - Hikaye - Schrödinger Günü'
 ---
 
-"Karışmış iplik," diye söylendi Arya belediye binasının erzak dolabını incelerken. O gün Schrödinger Günüydü, Bıyıkkent'in en neşeli festivali, ve konsey kedisi-kusursuz kızıl tüyleri, yeşil gözleri ve güneş banyosuna olan düşkünlüğüyle- kendini bir çeşit çıkmazda buldu.
+"Karışmış iplik," diye söylendi Arya belediye binasının erzak dolabını incelerken. O gün Schrödinger Günü'ydü, Bıyıkkent'in en neşeli festivali, ve konsey kedisi-kusursuz kızıl tüyleri, yeşil gözleri ve güneş banyosuna olan düşkünlüğüyle- kendini bir çeşit çıkmazda buldu.
 
 Schrödinger Günü Bıyıkkent'in kuruluşunun yıl dönümüydü. Kasaba kedileri üzerinden nice nesiller geçmiş olsa bile her zaman Kuruluş Gününü ihtişam ve görkemle kutlardı, tıpkı planlamadan sorumlu konsey kedisi Arya'nın kendini erzak dolabının içindekilere bakarken bulduğu anda olduğu gibi.
 
-You see, she had diligently instructed the Town Hall’s chefcat to bake tuna biscuits, which were the obvious choice of celebratory snack for this occasion’s evening cream. But that morning, a frantic chefcat reported that all the tuna biscuits she'd spent the entire night preparing had vanished. And no, it wasn't the town’s mischievous kittens who ate them. The tuna biscuits disappeared before her very eyes!
+Şöyle ki, bu akşamki kutlamanın kreması için en bariz atıştırmalık olan ton balıklı bisküvileri pişirmesi için belediye binasının şef kedisine titizlikle talimat vermişti. Ancak o sabah, şef kedi hummalı bir şekilde tüm gece hazırlamak için uğraştığı ton balıklı bisküvilerin ortadan kaybolduğu bildirdi. Ve hayır, bisküvileri yiyenler kasabanın yaramaz kedileri değildi. Bisküviler onun gözünün önünde kaybolmuştu!
 
-Vanishing items weren't an uncommon occurrence in Whiskerton--though, to be fair, food hardly ever disappeared--and Arya figured the tuna biscuits would turn up again sooner or later. But she couldn't count on them returning in time. 
+Kaybolan öğeler Bıyıkkent için alışagelmedik bir olay değildi,--tabii dürüst olmalı, yiyecekler binde bir kez kaybolurdu-- ve Arya ton balıklı bisküvilerin er ya da geç ortaya çıkacağını düşünüyordu. Ancak zamanında geri döneceklerinden emin değildi.
 
-And so, after shoving her panic to the back of her mind where she commanded it to ‘stay' pending further instruction, Arya took the matter of celebratory snack into her own paws by examining the pantry for other options. But when she saw its contents, the panic threatened to break free. *No, no, Schrödinger Day cannot be ruined!* 
+Ve bu yüzden, telaşını aklının ücra bir köşesine iterek ona daha fazla talimat gelene kadar orada kalmasını söyledi, Arya kutlama atıştırmalığı meselesini erzak dolabını farklı seçenekler için inceleyerek kendi patileri arasına aldı. Ancak içindekileri görünce sakladığı telaşı neredeyse kontrolden çıkıyordu. *Hayır, hayır, Schrödinger Günü bu şekilde mahvolamaz!* 
 
-There were only two snack options available: cheese ribbons or salmon shortcakes. And herein lay the problem: while cats were curious and enterprising creatures, they were also awful sticklers for tradition, especially when it came to Schrödinger. And on Schrödinger ’s Day, only ever one snack was served with evening cream. 
+Yalnızca iki atıştırmalık seçeneği bulunuyordu: peynir şeritleri ya da somonlu kekçikler. Ve problemin kaynağı da buradaydı: kediler meraklı ve girişken canlılarken aynı zamanda da geleneklere karşı oldukça tutucuydular, özellikle konu Schrödinger olunca. Ve Schrödinger Günü'nde akşam kremasında ancak tek bir atıştırmalık servis edilebilirdi.
 
-But with just these two options available for the single celebratory snack, Arya was faced with an unfortunate choice. The townscats were evenly divided in their love for these particular snacks; either choice would result in half of them being disappointed. And Arya always avoided disappointing anyone if she could help it.
+Ancak kutlama atıştırmalığı için iki seçenek mevcuttu, Arya bahtsız bir seçimle karşı karşıyaydı. Kasaba kedileri bu atıştırmalıklara olan sevgileri açısından ikiye bölünmüşlerdi; her iki seçenek de yarısının hayal kırıklığına uğramasına sebep olacaktı. Ve Arya eğer elinden geldiğince kimseyi hayal kırıklığına uğratmamaya çalışırdı.
 
-*Cheese ribbons. No, can’t choose that, poor Jinxy one street over will end up hiccuping for days. Okay, salmon shortcakes, then. No, I’ll never hear the end of it from Blade. Fine, cheese ribbons. Oh, but Billito will box my ears at our next council meeting! But…if I choose salmon shortcakes,* Poh *will box my ears at our next council meeting!*
+*Peynir şeritleri. Hayır, bunu seçemem, bir sokak ötedeki zavallı Jinxy'i günlerce hıçkırık tutar. Tamam, somonlu kekçikler o zaman. Hayır, Blade'den bu konuyu asla kapamaz. Peki, peynir şeritleri. Of, ama Bullito bir sonraki meclis toplantısında kulaklarımı çınlatacak! Ancak... eğer somonlu kekçikleri seçersem, * Poh *bir sonraki meclis toplantısında kulaklarımı çınlatacak!*
 
 ![](/assets/imgs/Arya_Full_Illustration.png){: style="max-width: 300px" .left}
-Arya’s thoughts raced hither and thither, threatening to implode, panic rearing its wretched head. She eventually realized she could either stay there, paralyzed by her thoughts, or she could cat up and make a decision. So, make a decision it was, but she would do so by consulting a marble. Marbles could be helpful when faced with a difficult choice between two equally weighted options.
+Arya'nın düşünceleri oradan oraya koşuyor, çökme tehlikesiyle karşı karşıya kalıyor, panik baş gösteriyordu. Neticede ya orada düşünceleri tarafından ele geçirilmiş bir şekilde dikileceğini ya da kedi olup bir karar vermesi gerektiğini anladı. Yani bir karar verecekti, ancak bunu bir bilyeye danışarak yapacaktı. Bilyeler iki eşit ağırlıktaki seçenek arasında verilecek zor bir karar için faydalı olabilir.
 
-She went to her office within Town Hall, a cozy room that bore an abundance of books, smells of fresh ink and parchment, and sunbathing spots. And a marble or two.
+Belediye binasındaki ofisine gitti, bol miktarda kitap, taze mürekkep ve parşömen kokuları ve güneşlenme noktaları bulunan rahat bir odaydı. Ve bir iki bilye.
 
-Whiskertese marbles had a curious property: they were red and blue at the same time, a superposition of two colors, until someone looked directly at them. When directly observed, a Whiskertese marble would either turn red or turn blue, with a fifty percent chance of either color. Should one pack a room with a hundred Whiskertese marbles, and thereafter look directly at each individual marble, close to half would turn red and close to half would turn blue. There was no way to tell beforehand which of the two colors a marble would become. 
+Bıyıkkent bilyelerinin merak uyandıran bir özelliği vardı: aynı anda kırmızı ve maviydiler, birisi gözlemleyene kadar iki rengin bir süperpozisyonuydular (üst üste binmiş hali). Doğrudan gözlemlendiğinde, bir Bıyıkkent bilyesi, her renk için yüzde elli ihtimalle ya kırmızıya ya da maviye dönerdi. Bir odayı yüz adet Bıyıkkent bilyesiyle doldurup her bir bilyeye doğrudan bakıldığında, bilyelerin yarısı kadarının kırmızıya ve yarısı kadarının da maviye döneceğini görülür. Bir bilyenin renginin bu renklerden hangisine döneceğini önceden söylemek mümkün değildi. 
 
 ![](/assets/imgs/Marble_Animation.png){: style="max-width: 150px" .right} 
 Arya pawed one of the marbles out of a storage box, careful to avoid looking at it directly.
