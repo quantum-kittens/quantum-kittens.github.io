@@ -16,7 +16,7 @@ Yalnızca iki atıştırmalık seçeneği bulunuyordu: peynir şeritleri ya da s
 
 Ancak kutlama atıştırmalığı için iki seçenek mevcuttu, Arya bahtsız bir seçimle karşı karşıyaydı. Kasaba kedileri bu atıştırmalıklara olan sevgileri açısından ikiye bölünmüşlerdi; her iki seçenek de yarısının hayal kırıklığına uğramasına sebep olacaktı. Ve Arya eğer elinden geldiğince kimseyi hayal kırıklığına uğratmamaya çalışırdı.
 
-*Peynir şeritleri. Hayır, bunu seçemem, bir sokak ötedeki zavallı Jinxy'i günlerce hıçkırık tutar. Tamam, somonlu kekçikler o zaman. Hayır, Blade'den bu konuyu asla kapamaz. Peki, peynir şeritleri. Of, ama Bullito bir sonraki meclis toplantısında kulaklarımı çınlatacak! Ancak... eğer somonlu kekçikleri seçersem, * Poh * bir sonraki meclis toplantısında kulaklarımı çınlatacak!*
+*Peynir şeritleri. Hayır, bunu seçemem, bir sokak ötedeki zavallı Jinxy'i günlerce hıçkırık tutar. Tamam, somonlu kekçikler o zaman. Hayır, Blade'den bu konuyu asla kapamaz. Peki, peynir şeritleri. Of, ama Bullito bir sonraki meclis toplantısında kulaklarımı çınlatacak! Ancak... eğer somonlu kekçikleri seçersem,* Poh *bir sonraki meclis toplantısında kulaklarımı çınlatacak!*
 
 ![](/assets/imgs/Arya_Full_Illustration.png){: style="max-width: 300px" .left}
 Arya'nın düşünceleri oradan oraya koşuyor, çökme tehlikesiyle karşı karşıya kalıyor, panik baş gösteriyordu. Neticede ya orada düşünceleri tarafından ele geçirilmiş bir şekilde dikileceğini ya da kedi olup bir karar vermesi gerektiğini anladı. Yani bir karar verecekti, ancak bunu bir bilyeye danışarak yapacaktı. Bilyeler iki eşit ağırlıktaki seçenek arasında verilecek zor bir karar için faydalı olabilir.
