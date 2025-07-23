@@ -26,23 +26,23 @@ Belediye binasındaki ofisine gitti, bol miktarda kitap, taze mürekkep ve parş
 Bıyıkkent bilyelerinin merak uyandıran bir özelliği vardı: aynı anda kırmızı ve maviydiler, birisi gözlemleyene kadar iki rengin bir üst üste binmiş haliydiler (süperpozisyonu). Doğrudan gözlemlendiğinde, bir Bıyıkkent bilyesi, her renk için yüzde elli ihtimalle ya kırmızıya ya da maviye dönerdi. Bir odayı yüz adet Bıyıkkent bilyesiyle doldurup her bir bilyeye doğrudan bakıldığında, bilyelerin yarısı kadarının kırmızıya ve yarısı kadarının da maviye döneceğini görülür. Bir bilyenin renginin bu renklerden hangisine döneceğini önceden söylemek mümkün değildi. 
 
 ![](/assets/imgs/Marble_Animation.png){: style="max-width: 150px" .right} 
-Arya pawed one of the marbles out of a storage box, careful to avoid looking at it directly.
+Arya, doğrudan bakmaktan kaçınarak bir bilyeyi kutusundan çıkardı.
 
-"If it turns blue, I will choose cheese ribbons. If it turns red, I will choose salmon shortcakes," she declared aloud to her office’s occupants: giant piles of books and paper, half very important bureaucratic documents, half napping perches.
+"Eğer mavi gelirse peynir şeritlerini, eğer kırmızı gelirse somonlu kekçikleri seçeceğim," diye ofis sakinlerine: yarısı önemli bürokratik dökümanlar yarısı da şekerleme için tüneme yeri olan devasa kitap ve kağıt yığınlarına yüksek sesle ilan etti.
 
-But, alas, Arya never got her answer, for just as she was about to observe the marble, a commotion outside her window snatched her attention. And what she saw when she bounded over to the window unleashed her panic in all its glory. For in clear view was the town square, the statue of Schrödinger, all the props, tables, and decorations the adult townscats had meticulously assembled for the festivities, and: a band of excitable kittens tearing through *everything*.
+Ancak, ne yazık ki Arya hiç bir zaman cevabını alamadı, tam bilyeyi gözlemleyeceği sırada penceresinin dışındaki hareketlilik dikkatini çekti. Ve pencereye atıldığında gördüğü şey panik duygusu tüm görkemiyle iplerini çözdü. Kent meydanı açıkça görünüyordu, Schrödinger'in heykeli, yetişkin kedi sakinlerinin titizlikle hazırladığı tüm sahne eşyaları, masalar ve dekorasyonlar, ve: *her şeyi* yırtmak için heyecanlanan bir grup kedi yavrusu.
 
-They headed straight for the statue. Arya leaped out the window and hastened after them.
+Doğruca heykele yöneldiler. Arya, pencereden dışarı fırlayarak aceleyle peşlerinden koştu.
 
-“No, no! Halt, kits!” Arya chastised, struggling to maintain the appearance of calm—at the end of the day she was a rather gentle cat, and it wouldn’t do to lose her temper on Schrödinger Day, now would it? “You were given strict instructions to stay aw…” But she trailed off when it was evident they were deaf to her admonishments; something else had captured their attention. She followed their collective gaze upward to the branches of the Great Scratching Tree. And then blew an exasperated huff between her teeth. 
+"Hayır, hayır! Ufaklıklar durun!" diye  azarladı Arya, sakinliğini korumaya çalışarak-günün sonunda oldukça nazik bir kediydi, ve Schrödinger Günü'nde sinirlerine hakim olamaması ona hiç yakışık almazdı, değil mi? "Sana uzak durman hakkında kesin talimatlar veril.." Ancak uyarılarına kulak asılmadığını görünce durdu; ilgisini başka bir şey yakaladı. Kalabalığın bakışını izleyerek bakışlarını yukarıya doğru Büyük Tırmalama Ağacı'nın dallarına yönlendirdi. Ve ardından dişlerinin arasından sabırsız bir sıkıntı üfledi. 
 
 Luna. 
 
-Luna, Luna, Luna. While the townskittens had been instructed to steer clear of the preparations until just before the celebration, she should have known to keep Luna in particular occupied far away from the square. For up in the now-shredded streamers of the Tree, extending a raring paw toward a purple feather that had popped into existence right above the statue, was the town's most mischievous, excitable, and destructive kitten of all: Luna.
+Luna, Luna, Luna. Kentin ufaklıklarına kutlamadan önce hazırlıklardan uzak durmaları açıkça bildirilmiş olsa da, Luna'yı özel olarak meydandan uzak tutması gerektiğini bilmeliydi. Ağaçtaki parçalanmış süs şeritlerinin arasında, heykelin tam üstünde beliren mor tüyü yakalamak için can atarak pençesini uzatan, kentin en yaramaz, heyecanlı ve yıkıcı yavru kedisi, Luna duruyordu.
 
-Technically, Luna was a tad old to be called 'kitten', but she was small for her almost-ready-to-be-an-adult-cat age. Her expression was permanently that of raised eyebrows, had she eyebrows at all, which could be interpreted as wonder or concern, contingent upon the circumstances. Her fur was short and ginger, prone to a slight grunge since her insatiable curiosity left her easily distracted during a bath.
+Teknik olarak, Luna 'yavru kedi' demek için biraz büyük sayılırdı, ama neredeyse yetişkin olmaya hazır yaşıyına göre küçük kalmıştı. Kalkık kaşlı bir yüz ifadesine sahipti, eğer kaşları olsaydı duruma bağlı olarak merak veyahut endişe uyandırıyor olarak yorumlanabilirdi. Kürkü kısa ve kızıldı, banyo sırasında dikkati onu kolayca terk edebildiğinden kire meyilliydi. 
 
-Luna teetered on the edge of a branch, hanging close to the statue. Hanging *precariously* close to the decorative contraption that was the most important part of the occasion, more so than the celebratory snack: a glitter machine atop Schrödinger’s hat.
+Luna heykele yakın bir dalın kenarında asılı bir şekilde sallanmaya başladı. Kutlama için bir hayli önemli, hatta kutlama atıştırmalığından bile önemli bir dekoratif mekanizma olan, Schrödinger’in şapkasının üzerindeki sim makinesine *tehlikeli* bir yakınlıkta asılmıştı.
 
 You see, the townscats of Whiskerton enjoyed uncertainty. They also enjoyed shiny things. Each year, as a signal to commence the Foundation Day celebrations, a flurry of glitter was released over the statue.
 
