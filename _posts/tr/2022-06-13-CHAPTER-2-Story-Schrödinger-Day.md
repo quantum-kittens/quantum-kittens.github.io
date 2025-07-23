@@ -42,7 +42,7 @@ Luna, Luna, Luna. Kentin ufaklıklarına kutlamadan önce hazırlıklardan uzak 
 
 Teknik olarak, Luna 'yavru kedi' demek için biraz büyük sayılırdı, ama neredeyse yetişkin olmaya hazır yaşıyına göre küçük kalmıştı. Kalkık kaşlı bir yüz ifadesine sahipti, eğer kaşları olsaydı duruma bağlı olarak merak veyahut endişe uyandırıyor olarak yorumlanabilirdi. Kürkü kısa ve kızıldı, banyo sırasında dikkati onu kolayca terk edebildiğinden kire meyilliydi. 
 
-Luna heykele yakın bir dalın kenarında asılı bir şekilde sallanmaya başladı. Kutlama için bir hayli önemli, hatta kutlama atıştırmalığından bile önemli bir dekoratif mekanizma olan, Schrödinger’in şapkasının üzerindeki sim makinesine *tehlikeli* bir yakınlıkta asılmıştı.
+Luna heykele yakın bir dalın kenarında asılı bir şekilde sallanmaya başladı. Kutlama için bir hayli önemli, hatta kutlama atıştırmalığından bile önemli bir dekoratif mekanizma olan, Schrödinger’in şapkasının üzerindeki sim makinesine *tehlikeli* bir yakınlıkta asılı duruyordu.
 
 You see, the townscats of Whiskerton enjoyed uncertainty. They also enjoyed shiny things. Each year, as a signal to commence the Foundation Day celebrations, a flurry of glitter was released over the statue.
 
