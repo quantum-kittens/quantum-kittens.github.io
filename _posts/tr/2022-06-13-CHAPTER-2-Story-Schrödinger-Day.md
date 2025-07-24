@@ -44,56 +44,56 @@ Teknik olarak, Luna 'yavru kedi' demek için biraz büyük sayılırdı, ama ner
 
 Luna heykele yakın bir dalın kenarında asılı bir şekilde sallanmaya başladı. Kutlama için bir hayli önemli, hatta kutlama atıştırmalığından bile önemli bir dekoratif mekanizma olan, Schrödinger’in şapkasının üzerindeki sim makinesine *tehlikeli* bir yakınlıkta asılı duruyordu.
 
-You see, the townscats of Whiskerton enjoyed uncertainty. They also enjoyed shiny things. Each year, as a signal to commence the Foundation Day celebrations, a flurry of glitter was released over the statue.
+Bıyıkkent'in kedileri belirsizlikten hoşlanırdı. Aynı zamanda parlak şeylerden de keyif alırlardı. Her yıl, Kuruluş Günü kutlamalarının başlama sinyali olarak, heykelin üzerine simler saçılırdı.
 
-The glitter machine consisted of a single marble connected to two glitter vials. During the opening ceremony, a designated councilcat looked directly at the marble. The marble turned either red or blue, and one of the vials would pop open depending on the marble's color, showering colored glitter on their town's beloved founder. In the days leading up to the holiday, the townscats greatly enjoyed debating which of the two colors would be released. This year, a green glitter vial was linked to the marble's red, and a purple glitter vial was linked to the marble's blue. 
+Sim makinesi, bir bilyenin iki sim şişesine bağlanmasından oluşuyordu. Açılış töreninde, seçilmiş bir konsey kedisi bilyeye doğrudan bakardı. Bilye, kırmızı ya da mavi renge dönerdi, ve şişelerin biri bilyenin rengine göre açılarak kentin sevgili kurucusuna renkli simler yağdırırdı. Bayrama yakın günlerde, kentin kedileri hangi rengin çıkacağı konusunu tartışmaktan büyük keyif alırlardı. Bu yıl, kırmızı bilyeye bir yeşil sim şişesi ve mavi bilyeye mor bir sim şişesi bağlanmıştı.
 
-Forget the evening snack; if Luna damaged the glitter machine, the celebrations would be ruined. Arya shouted to Luna, but of course, at that moment, Luna's whole world consisted solely of the purple feather. There was no room for admonishments, glitter machines, or even other cats.
+Atıştırmalığı unutun; eğer Luna sim makinesine hasar verirse, kutlamalar mahvolurdu. Arya, Lun'ya seslendi, ancak tabii ki o anda Luna'nın tüm dünyası, yalnızca mor tüyden oluşmaktaydı. Uyarılara, sim makinesine ve hatta diğer kedilere bile yer yoktu.
 
-Arya scanned the area for something to lure Luna away, for she feared tipping the kitten off the branch if she attempted to climb the tree herself.
+Arya, Luna'yı uzaklaştırabilecek bir şey için etrafı taradı, eğer kendi ağaca tırmanırsa ufaklığı daldan düşürmekten korkuyordu.
 
-Her eyes fell on a familiar assortment of tools scattered around an open toolbox by the statue's pedestal. It was as if a buildercat had abruptly abandoned his task for a nap or a bath. She knew exactly to whom that toolbox belonged.
+Gözleri heykelin kaidesinin yanındaki açık alet kutusunun etrafına dağılmış tanıdık alet edevatları yakaladı. Sanki tamirci kedi birdenbire görevini bırakıp şekerleme yapmaya ya da duş almaya gitmiş gibiydi. Alet kutusunun tam olarak kime ait olduğunu biliyordu.
 
-"Blade?" Arya called, hoping her best friend would hear her, wherever he was.
+Arya, artık her neredeyse en yakın arkadaşının duyacağını ümit ederek, "Blade?" diye seslendi.
 
 ![](/assets/imgs/Blade_Full_Illustration.png){: style="max-width: 300px" .right}
-Blade was an agile black cat with blazing yellow eyes, skilled with marbles and tools, and even more skilled at being easily startled. Unsurprisingly, the sudden echo of his name off the buildings that lined the square provoked a monumental leap into the air, back arched. Where had he been? Curled up, fast asleep, tucked under a bush, dreaming of pigeons.
+Blade, alev sarısı gözlere sahip çevik bir siyah kediydi; misketler ve aletler konusunda yetenekliydi, fakat en çok da kolayca irkilmekte iyiydi. Şaşırtıcı olmayacak bir şekilde, meydanı çevreleyen binaların üzerinde isminin aniden yankılanması, sırtını kamburlaştırarak havaya doğru anıtsal bir sıçrama yapmasına neden oldu. Nerelerdeydi? Kıvrılmış, derin uykuda, bir çalının altına gizlenmiş, rüyasında güvercinleri görüyordu.
 
-Blade’s protests at his nap’s interruption ceased instantly when he spotted Luna. He scampered to join Arya and the kittens at the foot of the tree, calling to the maddening rascal about how hard he worked on that glitter machine and that she should come down if she knew what was good for her. 
+Blade’in uykusunun bölünmesine yönelik inadı, Luna’yı gördüğü anda anında sona erdi. Ağacın altındaki Arya ve kedilere katılmak için koşturdu, çıldırtıcı haylaza, sim makinesine ne kadar çok uğraştığını ve eğer aşağı inmezse neler olacağını söylüyordu.
 
-It didn’t work, of course.
+İşe yaramadı tabii ki.
 
-The cats scrambled for ideas, and even the kittens around them chimed in excitedly.
+Kediler fikirlerini sunuyorlar, ve yavru kediler de heyecanla araya giriyorlardı.
 
-"Do you think we can distract her with another feather?" Arya said.
+"Sizce dikkatini başka bir tüyle dağıtabilir miyiz?" dedi Arya.
 
-"I haven't seen another pop up around here for a few hours," Blade said.
+"Bir kaç saattir başka bir tanesinin ortaya çıktığını görmedim," dedi Blade.
 
-"How about tossing up a ball?" one of the kittens piped in.
+"Bir top atmaya ne dersiniz?" diye araya girdi yavru kedilerden biri.
 
-“Or a felt mouse?” said another.
+"Ya da bir keçe fare?" dedi diğeri.
 
-"We would not be able to guarantee that it would head in Luna's direction," Arya replied, not unkindly.
+"Luna'nın olduğu yöne gideceklerini garanti edemeyiz," diye cevap verdi Arya, kibar bir şekilde.
 
-But it turns out their ponderances were in vain, for a series of rather unfortunate events occured: 
+Ancak bu çabalarının boşa çıktığı ortaya çıktı; zira bir dizi talihsiz olay yaşandı:
 
-First, Luna lost her balance, tumbling head-first towards the feather. 
+Önce Luna dengesini kaybederek baş aşağı tüye doğru yuvarlandı.
 
-Then, her tail whipped around, headed straight for the glitter machine.
+Sonrasında kuyruğu sim makinesinin olduğu yöne doğru çevrildi.
 
-Blade noticed Luna losing balance and jumped, hoping to intercept her before she hit the glitter machine. Unfortunately, Blade cannot jump very high unless he is startled, and thus, did not make it even remotely close to the kitten. 
+Blade, Luna'nın dengesini kaybettiğini fark etti ve sim makinesine çarpmadan önce engelleyebileceğini umarak zıpladı. Ne yazık ki, Blade irkilmediği sürece çok yükseğe zıplayamıyordu, ve bu yüzden ufaklığın yakınına bile ulaşamadı.
 
-Luna's tail hit the machine. 
+Luna'nın kuyruğu makineye çarptı.
 
-Machine, kitten, feather plummeted as one, snapping up the cat on the way down.
+Makine, yavru kedi, tüy hep birlikte yere doğru çakılırken, kediyi düşmeye yakın yakaladılar.
 
-Luna landed on her feet, feather proudly clamped between her teeth. One look at Arya's face set her darting away to inspect her prize. 
+Luna ayaklarının üstüne düştü, tüy gururla dişlerinin arasında sıkıştırılmıştı. Arya'nın yüzüne tek bir bakışı, ödülünü incelemek için uzağa fırlamasına yetti.
 
-But Blade?
+Ama Blade?
 
-Poor Blade had landed in his own toolbox, along with the glitter machine. The lid of the box clapped shut over his head.
+Zavallı Blade, sim makinesiyle birlikte kendi alet kutusunun içerisine düşmüştü. Kutunun kapağı, başının üzerine kapanmıştı.
 
-Arya blinked. The kittens blinked.
+Arya gözlerini kırptı. Yavru kediler gözlerini kırptı.
 
 Even though dread about ruined celebrations coursed through Arya, reflexive excitement began to stir in her gut, and it was evident that she wasn't alone: the kittens whispered and shuffled their feet buoyantly.
 
