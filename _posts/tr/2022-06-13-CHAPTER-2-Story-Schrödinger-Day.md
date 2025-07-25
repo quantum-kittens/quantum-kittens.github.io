@@ -95,21 +95,21 @@ Zavallı Blade, sim makinesiyle birlikte kendi alet kutusunun içerisine düşm�
 
 Arya gözlerini kırptı. Yavru kediler gözlerini kırptı.
 
-Even though dread about ruined celebrations coursed through Arya, reflexive excitement began to stir in her gut, and it was evident that she wasn't alone: the kittens whispered and shuffled their feet buoyantly.
+Kutlamaların mahvolmasıyla ilgili Arya'nın içini korku sarsa da, içgüdüsel bir heyecan midesini bulandırıyordu ve bu konuda yalnız olmadığı da açıktı ki yavru kediler aralarında fısıldaşıp neşeli bir şekilde ayaklarını yere sürtüyorlardı.
 
-For what they had before them was a glorious *uncertainty*. A cat inside a box, and with him the glitter machine! The machine had likely been set off by the fall, which meant Blade could be swathed in purple glitter. Or he could be green. No one could be sure until they looked. Just like a Whiskertese marble. What a magnificent conundrum!
+Çünkü önlerine sunulan muhteşem bir *belirsizlikti*. Bir kutunun içerisindeki kedi, ve onunla birlikte bir sim makinesi! Makine muhtemelen düşüş sırasında devreye girmişti, bu da Blade'in mor simle sarmalanabileceği anlamında gelebilirdi. Ya da yeşil de olabilirdi. Bakana kadar kimse bundan emin olamayacaktı. Tıpkı Bıyıkkent'in bilyesi gibi. Ne kadar büyük bir muamma! 
 
-Whispers turned to impassioned shouts of color guesses, and an enlivened crowd coalesced in the square as word spread through the town like wildfire. Arya could hear Blade's muffled mutterings about interrupted naps and useless kittens and inconsequential feathers as he attempted to push open the lid, but she couldn't have any of that, now, could she? For as she gazed at the enthused gathering cats, she realized Schrödinger Day wasn’t ruined at all! This novel uncertainty was too captivating. 
+Fısıltılar, tutkulu renk tahminlerine döndü ve kasabada orman yangını gibi yayılan haberle birlikte meydanda coşkulu bir kalabalık toplandı. Arya, Blade'in kapağı açarkenki bölünmüş uykular, işe yaramaz kediler ve önemsiz tüyler hakkındaki boğuk söylenmelerini duyabiliyordu, ancak şimdi kapağın açılmasına izin veremezdi, değil mi? Çünkü coşkuyla toplanan kedilere bakarken, Schrödinger Günü'nün hiç de mahvolmadığını fark etti! Bu yeni belirsizlik çok etkileyiciydi.
 
-She hopped lightly onto the lid so that Blade couldn't leave. His mutterings grew louder, and this time "obnoxious best friends" were added to his list.
+Blade kutudan çıkamasın diye yavaşça kapağın üstüne atladı. Söylenmelerinin sesi yükselmişti, ve bu sefer "itici en yakın arkadaşlar" da listesine eklenmişti.
 
-Oh, she would let him out eventually, of course, and even slip him extra snack portions for being such a good sport, but she'd let the townscats have their fun first. 
+Nihayetinde çıkmasına izin verecekti tabii ki, ve hatta iyi bir arkadaş olduğu için ona fazladan atıştırmalıklar bile verecekti, ama önce kasabadaki kedilerin eğlenmesine izin vermesi gerekti.
 
-“Listen up,” she called out. “I have a proposal for you, my dear cats. Let our celebratory snack be decided by the color of Blade’s coat. Green for cheese ribbons, purple for salmon shortcakes. What say?”
+"Dinleyin," diye seslendi. "Sevgili kedilerim, sizin için bir teklifim var. Hadi kutlama atıştırmalığımızın ne olacağına Blade'in kürkünün rengine göre karar verelim. Peynir şeritleri için yeşil, somonlu kekçikler için de mor. Ne diyorsunuz?"
 
-And, to Arya’s delight, not a single cat objected. 
+Ve Arya'nın neşeli teklifine tek bir kedi bile itiraz etmedi.
 
-(Well, except for Blade.)
+(Tabii Blade hariç.)
 
 ![](/assets/imgs/Box_Animation.png){: style="max-width: 500px" .center}
 
@@ -123,7 +123,7 @@ _____________________________
 _____________________________
 
 
-**[Chapter 2 Part 2 - Commentary - Qubits, Superposition, and Measurement](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)**
+**[Bölüm 2 Kısım 2 - Açıklama - Kübitler, Süperpozisyon ve Ölçüm](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)**
 
 
-**[Chapter 3 - Story - Doorbells](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)**
+**[Bölüm 3 - Hikaye - Kapı Zilleri](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)**
