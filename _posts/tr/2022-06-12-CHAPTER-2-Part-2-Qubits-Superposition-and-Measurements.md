@@ -1,22 +1,22 @@
 ---
-title: 'Chapter 2 Part 2 - Commentary - Qubits, Superposition, and Measurement'
+title: 'Bölüm 2 Kısım 2 - Açıklama - Kübitler, Süperpozisyon ve Ölçüm'
 math: true
 ---
 
 
 
-You very likely know what classical computing is; it’s what most people mean when they say “computing”. This is the computing done by everyday electronic gadgets like the device you’re using to read this, and even the computing done by supercomputers tucked away in labs.
+Klasik hesaplamanın ne olduğuna muhtemelen aşinasınızdır; neticede "hesaplama" denildiğinde çoğu insanın aklına bu gelir. Bahsedilen, bunu okumak için kullandığınız cihaz ve hatta laboratuvarlarda tutulan süper bilgisayarlar gibi elektronik aletler tarafından yapılan hesaplamalardır.
 
-Deep down at the fundamental level of a classical computer, information is carried by *bits*: single units of information that can have only one of two values or *states*: 0 or 1.  In much the same way, quantum computers have a fundamental computing unit, called quantum bits or *qubits*. Here’s a fun fact: the marbles of Whiskerton actually represent qubits!
+Derinlerde, klasik bilgisayarların temelinde bilgi, *bitler* tarafından taşınır: yalnızca iki değer veya *durumlardan* (0 veya 1) birine sahip olabilen tekil bilgi birimleri. Aynı şekilde, kuantum bilgisayarlar da kuantum bitleri ya da *kübitler* denilen temel hesaplama birimlerine sahiptirler. İlginç bir nokta: Bıyıkkent'in bilyeleri aslında kübitleri temsil ediyor!
 
-## What is a Qubit?
+## Kübit nedir?
 
-A qubit is the simplest system in quantum computing, the fundamental building block for quantum computation. Physically, qubits can take a number of different forms, depending on the hardware a quantum computer uses. But, behaviorally, they act the same way. So you can consider a ‘qubit’ to be an abstract mathematical object that behaves in a curious manner different from a classical bit. Classical bits can take on one of two values, 0 and 1, but a qubit can do that and more:
+Bir kübit kuantum hesaplamadaki en basit sistemdir, kuantum hesaplama için temel bileşendir. Fiziksel olarak, kuantum bilgisayarın kullandığı donanıma bağlı olarak kübitler, çeşitli farklı biçimlerde bulunabilirler. Ancak davranışsal olarak, aynı hareket ederler. Yani bir 'kübit'i, klasik bir bitten farklı olarak ilginç bir şekilde davranan soyut bir matematiksel nesne olarak düşünebilirsiniz. Klasik bitler iki değerden birini alabilir, 0 ve 1, ancak bir kübit bunu ve daha fazlasını yapabilir:
 
-> Qubits are abstract mathematical objects that have the ability to not only be in the states 0 or 1, but in a *superposition* of the two. 
+> Kübitler, yalnızca 0 veya 1 durumlarında değil, aynı zamanda ikisinin *süperpozisyonunda* olma yeteneğine sahip soyut matematiksel nesnelerdir.
 {: .prompt-tip }
 
-## Quantum Superposition
+## Kuantum Süperpozisyonu
 
 Quantum superposition is a neat quantum physics phenomenon that doesn’t really have an analog in classical physics. You can think of it as a combination. 
 
