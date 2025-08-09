@@ -25,7 +25,7 @@ Belediye binasındaki ofisine gitti, bol miktarda kitap, taze mürekkep ve parş
 
 Bıyıkkent bilyelerinin merak uyandıran bir özelliği vardı: aynı anda kırmızı ve maviydiler, birisi gözlemleyene kadar iki rengin bir üst üste binmiş haliydiler (süperpozisyonu). Doğrudan gözlemlendiğinde, bir Bıyıkkent bilyesi, her renk için yüzde elli ihtimalle ya kırmızıya ya da maviye dönerdi. Bir odayı yüz adet Bıyıkkent bilyesiyle doldurup her bir bilyeye doğrudan bakıldığında, bilyelerin yarısı kadarının kırmızıya ve yarısı kadarının da maviye döneceğini görülür. Bir bilyenin renginin bu renklerden hangisine döneceğini önceden söylemek mümkün değildi. 
 
-![](/assets/imgs/Marble_Animation.png){: style="max-width: 150px" .right} 
+![](/assets/imgs/Marble_Animation.png){: style="max-width: 150px" .right}
 Arya, doğrudan bakmaktan kaçınarak bir bilyeyi kutusundan çıkardı.
 
 "Eğer mavi gelirse peynir şeritlerini, eğer kırmızı gelirse somonlu kekçikleri seçeceğim," diye ofis sakinlerine: yarısı önemli bürokratik dökümanlar yarısı da şekerleme için tüneme yeri olan devasa kitap ve kağıt yığınlarına yüksek sesle ilan etti.
