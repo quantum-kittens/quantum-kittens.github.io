@@ -6,9 +6,9 @@ title: "Bölüm 1 - Hikaye - Bıyıkkent'e Hoşgeldiniz"
 
 Bir zamanlar, buradan çok uzakta (ama sandığınızdan daha yakın), adına Bıyıkkent denilen küçük bir yer vardı. Küçük olmasına rağmen, burası sıradanlıktan çok uzaktı. Bıyıkkent yalnızca meraklı kedilere ev sahipliği yapmakla kalmaz, kuantum fiziğinin yasalarına göre hareket ederdi.
 
-İşte bu yüzden kentin tüylü sakinleri burayı öylesine severdi. Kim, tüylerin birden belirip kaybolduğu bir yerde yaşamak istemezdi ki? Bilyelerin aynı anda mavi ve kırmızı olabileceği bir yerde? Ya da bir keçe farenin havaya atıldığında nereye düşeceğini kesin olarak bilemeyeceğin; sadece *muhtemelen* nereye düşebileceğini ama *büyük ihtimalle* düşmeyeceğini söyleyebileceğin bir yerde?
+İşte bu yüzden kentin tüylü sakinleri buraya bayılırdı. Kim, tüylerin birden belirip kaybolduğu bir yerde yaşamak istemezdi ki? Bilyelerin aynı anda mavi ve kırmızı olabileceği bir yerde? Ya da bir keçe farenin havaya atıldığında nereye düşeceğinin kesin olarak bilinemeyeceği; sadece *muhtemelen* nereye düşebileceğini ama *büyük ihtimalle* düşmeyeceğinin söylenebileceği bir yerde?
 
-Bıyıkkent, komşusu Patiköy'den son derece farklı şekilde, olasılıklarla yönetilen bir yerdi. Gururlu köpek sakinleriyle Patiköy, her sonucun kesin olarak tahmin edilebildiği bir yerdi. Orada olağanüstü hiçbir şeyin olmamasından köpekler gayet memnunlardı. Kediler tam da bu yüzden oradan nefret ediyorlardı.
+Bıyıkkent, komşusu Patiköy'den son derece farklı şekilde, olasılıklarla yönetilen bir yerdi. Gururlu köpek sakinleriyle Patiköy'de her sonuç kesin olarak tahmin edilebilirdi. Orada olağanüstü hiçbir şeyin olmamasından köpekler gayet memnunlardı. Kediler tam da bu yüzden oradan nefret ediyorlardı.
 
 Hayır, imkansızlıkları ve olasılık dışılılıkları ve sezgiye aykırılılıklarıyla birlikte Bıyıkkent, onların ait oldukları yerdi. Ah, tabii bir de ton balıklı bisküvileri.
 
@@ -22,11 +22,11 @@ Schrödinger, ton balıklı bisküvi bağımlılığına rağmen, muhteşem bir 
 
 En basitinden çimenler sadece yeşil değil, mor ve maviydi de. Bir diğeri de, tepeler, ağaçlar ve göletler zaman zaman yer değiştiriyordu, sanki nerede durmak istediklerine karar veremiyorlardı. Ancak bu toprakların en iyi yanı? Orada *oyuncaklar* vardı. Çok ama çok fazla oyuncak: bilyeler, tüyler, keçe fareler ve birçoğu, her biri değişen renkleri, düzenli aralıklarla kaybolmaları, tahmin etmesi zor bir şekilde hareket etmeleriyle bu toprakların kendisi kadar harika ve tuhaftı.
 
-*Olağanüstü bir diyar; olağanüstü bir kent için mükemmel*, diye düşünmüş olmalı Schrödinger ton balıklı bisküvisini afiyetle yerken, meraklı gözlerini manzara üzerinde gezdirerek.
+*Olağanüstü bir diyar; olağanüstü bir kent için mükemmel*, diye düşünmüş olmalı Schrödinger, meraklı gözlerini manzara üzerinde gezdirirken ton balıklı bisküvisini afiyetle yiyerek,.
 
-Schrödinger bu olağanüstü yeni kasabayı kurmak için, olası sakinleri bu topraklara özgü oyuncakları içeren büyük gösterilerle cezbetti. Her biçimden, ebattan ve süslemelerle bezenmiş yüzlerce hayvan etkinliği seyretmeye geldi. Çadırlar kurdular, kamp ateşinin etrafında kaynaştılar, sahnede olup bitene uhlayıp ahladılar ve gece boyunca çadırlarının kampın farklı bir yerine uğramasından (büyük ölçüde) keyif aldılar.
+Schrödinger, bu olağanüstü yeni kasabayı kurmak için, olası sakinleri bu topraklara özgü oyuncakları içeren büyük gösterilerle cezbetti. Her biçimden, ebattan ve süslemelerle bezenmiş yüzlerce hayvan etkinliği seyretmeye geldi. Çadırlar kurdular, kamp ateşinin etrafında kaynaştılar, sahnede olup bitene uhlayıp ahladılar ve gece boyunca çadırlarının kampın farklı bir yerine uğramasından (büyük ölçüde) keyif aldılar.
 
-Hayvanlar iyice eğlendirildi, fakat yalnızca kediler meraklı yaratılışlarından dolayı bu parlak yeni diyarda kalıcı olarak yerleşmeye ilgi gösterdiler. Günün sonunda, çokama*çok*teşekkür, kedi olmayanlar fırlatıp atmayı sevdikleri oyuncaklarının nereye ve nasıl hareket ettiklerini açıkça görebilecekleri bir yerde yaşamayı tercih ediyorlardı.
+Hayvanlar iyice eğlendirildi, fakat yalnızca kediler meraklı yaratılışlarından dolayı bu parlak yeni diyarda kalıcı olarak yerleşmeye ilgi gösterdiler. Günün sonunda, çokama*çok*teşekkür, kedi olmayanlar fırlatıp atmayı sevdikleri oyuncaklarının nereye ve nasıl hareket ettiklerini açıkça görebilecekleri bir yerde yaşamayı tercih ettiler.
 
 Böylece o yıl Nisan'ın on dördüncü günü, Bıyıkkent yalnızca bir kent olarak bildirilmekle kalmadı, aynı zamanda dünyadaki tüm kediler için vatan olarak ilan edildi.
 
