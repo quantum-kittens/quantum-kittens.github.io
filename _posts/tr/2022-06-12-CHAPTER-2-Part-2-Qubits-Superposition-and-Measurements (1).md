@@ -18,9 +18,9 @@ Bir kübit kuantum hesaplamadaki en basit sistemdir, kuantum hesaplama için tem
 
 ## Kuantum Süperpozisyonu
 
-Quantum superposition is a neat quantum physics phenomenon that doesn’t really have an analog in classical physics. You can think of it as a combination. 
+Kuantum süperpozisyonu, klasik fizikte benzeri olmayan, muntazam bir kuantum fiziği olgusudur. Bunu bir kombinasyon olarak düşünebilirsiniz.
 
-Where classical bits can only ever be in state 0 or 1 and never a combination of the two, quantum states can be combined and still be valid states. So the state of a qubit can be a combination of 0 *and* 1.
+Klasik bitler yalnızca 0 veya 1 durumunda olabilir ve asla ikisinin bir kombinasyonu olamazken, kuantum durumları birleştirilebilir ve yine de geçerli durumlar olabilir. Dolayısıyla bir kübitin durumu 0 *ve* 1'in bir kombinasyonu olabilir.
 
 ![](/assets/imgs/Marble_Animation.png){: style="max-width: 150px" .left} In Whiskerton, the marbles are by default in such a superposition state: an equally weighted combination of the colors red and blue. It would be incorrect to think of these colors as paint colors. In your everyday, classical experience, if you combine red and blue paint, you would get purple paint. But Whiskertese marbles aren’t actually purple; after a cat directly observes a marble, the color can turn either red or blue, with a fifty percent chance for each. You definitely cannot get the colors red or blue back if you have purple paint!
 
