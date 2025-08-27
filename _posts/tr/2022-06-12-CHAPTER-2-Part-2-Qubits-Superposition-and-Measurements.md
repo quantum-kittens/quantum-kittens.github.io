@@ -13,8 +13,8 @@ Derinlerde, klasik bilgisayarların temelinde bilgi, *bitler* tarafından taşı
 
 Bir kübit kuantum hesaplamadaki en basit sistemdir, kuantum hesaplama için temel bileşendir. Fiziksel olarak, kuantum bilgisayarın kullandığı donanıma bağlı olarak kübitler, çeşitli farklı biçimlerde bulunabilirler. Ancak davranışsal olarak, aynı hareket ederler. Yani bir 'kübit'i, klasik bir bitten farklı olarak ilginç bir şekilde davranan soyut bir matematiksel nesne olarak düşünebilirsiniz. Klasik bitler iki değerden birini alabilir, 0 ve 1, ancak bir kübit bunu ve daha fazlasını yapabilir:
 
-> Kübitler, yalnızca 0 veya 1 durumlarında değil, aynı zamanda ikisinin *süperpozisyonunda* olma yeteneğine sahip soyut matematiksel nesnelerdir.
-{: .prompt-tip }
+> Kübitler, yalnızca 0 veya 1 durumlarında değil, aynı zamanda ikisinin *süperpozisyonunda1* olma yeteneğine sahip soyut matematiksel nesnelerdir.
+{: .prompt-tip MK}
 
 ## Kuantum Süperpozisyonu
 
@@ -22,81 +22,81 @@ Kuantum süperpozisyonu, klasik fizikte benzeri olmayan, muntazam bir kuantum fi
 
 Klasik bitler yalnızca 0 veya 1 durumunda olabilir ve asla ikisinin bir kombinasyonu olamazken, kuantum durumları birleştirilebilir ve yine de geçerli durumlar olabilir. Dolayısıyla bir kübitin durumu 0 *ve* 1'in bir kombinasyonu olabilir.
 
-![](/assets/imgs/Marble_Animation.png){: style="max-width: 150px" .left} In Whiskerton, the marbles are by default in such a superposition state: an equally weighted combination of the colors red and blue. It would be incorrect to think of these colors as paint colors. In your everyday, classical experience, if you combine red and blue paint, you would get purple paint. But Whiskertese marbles aren’t actually purple; after a cat directly observes a marble, the color can turn either red or blue, with a fifty percent chance for each. You definitely cannot get the colors red or blue back if you have purple paint!
+![](/assets/imgs/Marble_Animation.png){: style="max-width: 150px" .left} Bıyıkkent'te bilyeler, varsayılan olarak böyle bir süperpozisyon (üst üste binme) durumundadır: kırmızı ve mavi renklerin eşit ağırlıkta bir kombinasyonu şeklinde. Bu renkleri boya renkleri olarak düşünmek yanlış olur. Günlük hayatında, klasik deneyimde, eğer kırmızı ve mavi renk boyayı birleştirirsen, mor renk boya elde edersin. Ancak Bıyıkkent bilyeleri mor renk değildir; bir kedi bilyeyi gözlemledikten sonra bilye, her biri için yüzde elli ihtimalle ya kırmızı renge ya da mavi renge dönüşür. Eğer mor renk boyanız varsa kırmızı ve mavi renkleri geri elde etme şansınız yoktur!
 
-Being able to make use of this wondrous phenomenon is one of the ways quantum computing differs from classical computing. In a classical computer, if you perform an operation on a bit, you’re essentially performing that operation on either a 0 or 1, one at a time. If you need to perform an operation on both, you’d have to do so in two shots, consecutively. 
+Bu harika olgudan yararlanabilmek, kuantum hesaplamanın klasik hesaplamadan farklılaştığı noktalardan biridir. Klasik bir bilgisayarda, eğer bir bit üzerinde bir işlem gerçekleştirirseniz, tek seferde 0 ya da 1 üzerinde bir işlem gerçekleştirmiş olursunuz. Eğer ikisi üzerinde de bir işlem gerçekleştirmeniz gerekiyorsa, bunu ardışık olarak iki seferde yapmanız gerekir.
 
-But by harnessing superposition, a quantum computer could perform that operation on both 0 and 1 at the same time. If we scale this up to many qubits, you can imagine how this may potentially result in speed-ups or an increase in memory capacity or other improvements.
+Ama süperpozisyondan yararlanarak, bir kuantum bilgisayarda bu işlemi aynı anda 0 ve 1 üzerinde gerçekleştirebilirsiniz. Bunu birçok kübite ölçeklendirecek olursak, potansiyel olarak hızlanmalara veya bellek kapasitesinde artışa veya diğer iyileştirmelere nasıl yol açabileceğini hayal edebilirsiniz.
 
-## Measurements
+## Ölçümler
 
-You’ve seen that the marbles have a fifty percent chance of becoming red or blue upon direct observation. A cat observing a marble is a metaphor of measuring a qubit’s state, where red represents a 1 and blue represents a 0. In real life, measurements are conducted by measuring physical quantities in the lab.
+Bilyelerin doğrudan bakıldığında yüzde elli ihtimalle kırmızı veya mavi olma ihtimalinin olduğunu gördünüz. Bir kedinin bir bilyeyi gözlemlemesi, kübitin durumunun ölçülmesinde, kırmızı renk bilyenin 1'i ve mavi renk bilyenin 0'ı temsil etmesiyle ilgili bir metafor. Gerçek hayatta ölçümler, laboratuvarda fiziksel büyüklüklerin ölçülmesiyle yapılır.
 
-Measurement is essentially asking the qubit what state it’s in, but there’s a caveat: simply the act of measurement makes the qubit settle into either the 0 or 1 states, so you only ever get the answer 0 or 1. But there’s a probability associated with each possible outcome.
+Ölçüm esasen kübite hangi durumda olduğunun sorulmasıdır, ancak dikkat edilmesi gereken bir şey: ölçüm davranışı bir kübitin 0 ya da 1 durumlarından birine yerleşmesini sağlar, böylece yalnızca 0 ya da 1 sonucunu elde edebilirsiniz. Ancak her bir olası çıktı için (0 ve 1) tanımlanmış bir olasılık vardır.
 
-Even if you happen to know everything about the probabilities beforehand--that is, even if you know the exact superposition state of the qubit before measurement--you cannot predict the outcome of a measurement.
+Olasılıklar hakkında önceden her şeyi bilseniz bile--yani, ölçümden önce kübitin süperpozisyon durumunu tam olarak bilseniz bile--ölçümün sonucunu tahmin edemezsiniz.
 
-Essentially:
+Esasen:
 
-> Even if you know everything about the state of a quantum system, it *can* still behave randomly.
+> Bir kuantum sisteminin durumu hakkında her şeyi bilseniz bile, *yine de* rastgele davranabilir.
 {: .prompt-tip }
 
-For instance, you know everything about the state of a Whiskertese marble: it's in an equally weighted (fifty-fifty) superposition. Yet, after measurement, we don't know if it will end up as a red marble or a blue one. That part is random!
+Örneğin, bir Bıyıkkent bilyesi hakkında her şeyi biliyorsunuz: eşit ağırlıklı(yarı-yarıya) bir süperpozisyonda. Ancak, ölçümden sonra, kırmızı bilyede mi yoksa mavi bilyede mi sonlanacağını bilmiyoruz. Bu kısım rastgele!
 
-Quantum physics is probabilistic, which means there is some *uncertainty*. A measurement moves the system from uncertainty to certainty.
+Kuantum fiziği olasılıksal, yani bu *belirsizlik* var demek. Bir ölçüm, sistemi belirsizlikten belirginliğe taşır.
 
-At first glance, it may appear that the benefit of quantum superposition has vanished since you only ever get 0’s and 1’s as your outcomes, no different from classical bits. Enter quantum computing algorithms. 
+İlk bakışta kuantum süperpozisyonunun faydası, çıktı olarak klasik bitlerden farklı olmaksızın 0'lar ve 1'ler elde edildiğinden ötürü, yok oluyormuş gibi görünebilir. İşte tam bu noktada kuantum hesaplama algoritmaları devreye girer.
 
-An algorithm is basically a series of operations you perform to get a desired result. What a quantum computing algorithm does is manipulate the probabilities, increasing the probability associated with the desired outcome and decreasing all others. [^footnote] In this way, if the probability associated with the desired state hits 1, then that outcome is guaranteed, which means the behavior is no longer random. 
+Algoritma temel olarak, istenilen sonuçları elde etmek için gerçekleştirilen bir dizi işleme denir. Bir kuantum hesaplama algoritmasının yaptığı şey ise olasılıkları manipüle etmektir, istenilen sonuca ait olasılığı artırıp diğerlerini azaltmak. [^footnote] Bu şekilde, istenilen duruma ilişkin olasılık 1'e ulaşırsa, o sonuç garanti altına alınmış olur, yani davranış artık rastgele değildir.
 
-[^footnote]: Quantum operations are carried out by applying what are known as *quantum gates,* logic operations that are the building block of quantum circuits, and analogous to classical logic gates in conventional digital circuits. 
+[^footnote]: Kuantum işlemleri, kuantum devrelerinin yapı taşı olan ve geleneksel dijital devrelerdeki klasik mantık kapılarıyla benzerlik gösteren *kuantum kapıları* adı verilen mantık işlemlerinin uygulanmasıyla gerçekleştirilir.
 
-So there you have it. Now that you have an overview of qubits, quantum superposition, and measurements, you know the physics behind the marbles in Whiskerton. 
+Şimdi kübitler, kuantum süperpozisyonu ve ölçümler hakkında genel bir bakışa sahip olduğunuza göre, Bıyıkkent bilyelerinin arkasındaki fiziği biliyorsunuz.
 
->If you’d like to dive deeper into these concepts and see how Blade’s predicament is related to what is known as Schrödinger’s cat, read on! Otherwise, head on over to the next story: [Chapter 3 - Story - Doorbells](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)
+>Daha derin kavramları öğrenmek ve Blade'in çıkmazının Schrödinger'in kedisiyle nasıl alakalı olduğunu görmek isterseniz, okumaya devam edin! Aksi halde, yeni hikaye ile devam  edebilirsiniz: [Bölüm 3 - Hikaye - Kapı Zilleri](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)
 {: .prompt-info }
 _______
 
-## Mathematical Representation of a Qubit State
+## Bir Kübit Durumunun Matematiksel Gösterimi
 
-Quantum states are mathematically represented by what is known as *Dirac notation*, which makes use of something called a *ket*: $\ket{}$[^fn-nth-1].
+Kuantum durumları matematiksel olarak *Dirac gösterimi* olarak bilinen ve *ket* adı verilen bir şeyi kullanan bir gösterimle temsil edilir: $\ket{}$[^fn-nth-1].
 
-[^fn-nth-1]: A ket denotes a mathematical object with certain properties called a *vector*. A qubit can be considered a vector. Two vectors can be combined to form another valid vector. But you don't need to know about vectors to read this text.
+[^fn-nth-1]: Ket, belirli özelliklere sahip matematiksel bir nesneyi ifade eder ve buna *vektör* denir. Bir kübit bir vektör olarak düşünülebilir. İki vektör birleştirilerek yeni bir vektör oluşturulabilir. Ancak bu metni okumak için vektörler hakkında bilgi sahibi olmanıza gerek yok.
 
-This is how an arbitrary qubit state is represented[^fn-nth-2]:
+Keyfi bir kübit durumu bu şekilde temsil edilir[^fn-nth-2]:
 
 \begin{equation}
 \label{eq:qubit}
 \ket{\psi}=\alpha_{0}\ket{0}+\alpha_{1}\ket{1}
 \end{equation}
 
-[^fn-nth-2]: Disclaimer: This equation is not the complete picture of a qubit; there's a degree of freedom called 'phase' that can be useful for computation but is beyond the scope of this text.
+[^fn-nth-2]: Uyarı: Bu denklem bir kübitin tam gösterimi değildir; hesaplama için yararlı olabilecek 'faz' adı verilen bir serbestlik derecesi vardır ancak bu metnin kapsamı dışındadır.
 
-The Greek letter $\psi$, pronounced "sigh", is a symbolic representation of the state. The $\ket{}$ symbol is written, not spoken. When you refer to the qubit, you can voice, "I have a qubit in the state psi,” or write, “I have a qubit in the state  $\ket{\psi}$," after having defined $\ket{\psi}$ in an equation.
+Yunan harfi $\psi$, "sī" şeklinde okunur, bir durumun sembolik gösterimidir. $\ket{}$ sembolü yazılır ama okunmaz. Kübiti belirtirken, $\ket{\psi}$ 'yi denklemde tanımladıktan sonra, "Psi durumunda bir kübitim var" diyebilirsiniz ya da "$\ket{\psi}$ durumunda bir kübitim var" yazabilirsiniz.
 
-Notice that $\psi$ isn't the only thing tucked within a ket. You have $\ket{0}$ and $\ket{1}$ in the equation as well, which are the 0 and 1 states. These are called the *basis states* of the qubits; that is, the possible states a qubit can reduce to after measurement, just as a Whiskertese marble can reduce to a red or a blue.  Since a qubit has *two* basis states, a qubit is a two-level system.
+Dikkat ederseniz ketin içerisindeki tek şey $\psi$ değildir. Denklemde 0 ve 1 durumlarının temsili, $\ket{0}$ ve $\ket{1}$ de bulunur. Bunlar kübitlerin *temel durumları* olarak adlandırılır; yani bir kübitin ölçümden sonra indirgenebileceği olası durumlar, tıpkı Bıyıkkent bilyelerinin kırmızı ve maviye indirgenebilecekleri gibi.
 
-The plus sign indicates a combination, or a superposition. The parameters $\alpha_{0}$ and $\alpha_{1}$ are called *amplitudes*, and let us know how likely it is the qubit will be in the state $\ket{0}$ or $\ket{1}$ after measurement, where $\alpha$ is the Greek letter, alpha. The subscript of the symbol $\alpha$ is a label to indicate to which basis state it corresponds. 
+Artı işareti bir kombinasyon olduğunu belirtiyor, ya da süperpozisyon. $\alpha_{0}$ ve $\alpha_{1}$ parametrelerine *genlikler* deniliyor, ve bunlar bize kübitin ölçümden sonra $\ket{0}$ durumunda ya da $\ket{1}$ durumunda olmaya ne kadar yatkın olduğunu bildiriyor. Buradaki $\alpha$ ile Yunan harfi olan alpha belirtiliyor.
 
-Mathematically, if we square the amplitudes, we’ll get the probabilities associated with each basis state. So, if you measure a qubit in the state $\ket{\psi}$, you will get the result 0 with a probability $\alpha_{0}^2$, or get the result 1 with a probability $\alpha_{1}^2$. [^fn-nth-3] 
+Matematiksel olarak, eğer genliklerin karesini alırsak, her bir temel duruma karşılık gelen olasılıkları elde ederiz. Yani, $\ket{\psi}$ durumundaki bir kübiti ölçerseniz, 0 durumunu $\alpha_{0}^2$ olasılıkla, veya 1 durumunu $\alpha_{1}^2$ olasılıkla edersiniz. [^fn-nth-3]
 
-[^fn-nth-3]: The superscript 2 indicates a 'square', which means the number is being multiplied by itself. That is, $\alpha_{0}^2=\alpha_{0}*\alpha_{0}$.
+[^fn-nth-3]: Üst simge 2, bir "kare" belirtir, bu bir sayının kendisiyle olan çarpımına denir. Bu da, $\alpha_{0}^2=\alpha_{0}*\alpha_{0}$ olur.
 
-You may rightfully be wondering why these squares are suddenly popping into the picture. It is simply a mathematical convention that reminds us the amplitudes $\alpha_{0}$ and $\alpha_{1}$ may be negative. The squares of each of these amplitudes are probabilities, and probabilities are always positive, as are squares!
+Haklı olarak neden karelerin kullanıldığını merak ediyor olabilirsin. Bu bize genliklerin, $\alpha_{0}$ ve $\alpha_{1}$ negatif olabileceklerini hatırlatan basit bir matematiksel kuraldır. Her bir genliğin karesi bir olasılıktır ve olasılıklar her zaman pozitiftir, tıpkı kareler gibi!
 
-This means that each quantum state is subject to a constraint. Probability theory has a strict rule: all probabilities should add up to 1, so $\alpha_{0}^2+\alpha_{1}^2=1$ *always*. 
+Bu, her kuantum durumunun bir kısıtlamaya tabi olduğu anlamına gelir. Olasılık teorisinin katı bir kuralı vardır: tüm olasılıkların toplamı 1 olmalıdır, yani *her zaman* $\alpha_{0}^2+\alpha_{1}^2=1$ olmalıdır.
 
-Let's look at a specific example. Suppose we have a qubit in the state:
+Şimdi bir örnekle birlikte inceleyelim. Varsayalım ki, aşağıdaki durumda bir kübitimiz var:
 
 \begin{equation}
 \ket{\psi}=\sqrt{\frac{2}{3}}\ket{0}-\sqrt{\frac{1}{3}}\ket{1}
 \end{equation}
 
-Here, $\alpha_{0}=\sqrt{\frac{2}{3}}$, which means the probability of getting the result 0 after measurement is $\frac{2}{3}$. Similarly for $\alpha_{1}=-\sqrt{\frac{1}{3}}$, and a probability of  $\frac{1}{3}$ associated with result 1. That is, if you have a ton of qubits in this state, and you measure them all, statistically speaking, approximately one third of them would yield the outcome 1. The larger the amplitude, $\alpha$, the higher the probability, and the more likely it is to find the qubit in the associated state after measurement.[^fn-nth-4]
+Burada, $\alpha_{0}=\sqrt{\frac{2}{3}}$ yani ölçümden sonra 0 sonucuna ulaşma olasılığı $\frac{2}{3}$ olacaktır. Benzer şekilde $\alpha_{1}=-\sqrt{\frac{1}{3}}$, ve 1 sonucuna ulaşma olasılığı $\frac{1}{3}$ olacaktır. Yani, eğer bu durumda bir sürü kübitin varsa ve hepsini ölçersen, istatiksel olarak yaklaşık üçte biri 1 sonucunu verir. Genlik ne kadar büyükse, olasılık o kadar yüksektir ve ölçümden sonra kübitin ilişkili durumda bulunması daha olasıdır.[^fn-nth-4]
 
-[^fn-nth-4]: Note for the mathematicians: we refer to $mod(\alpha)$ here.
+[^fn-nth-4]: Matematikçiler için not: burada $;mod(\alpha);$ ifadesine atıfta bulunuyoruz.
 
-## A Note on Statistics
+## İstatistik Üzerine Bir Not
 
 The thing about qubits is that you cannot determine $\alpha_{0}$ and $\alpha_{1}$ for an arbitrary state $\ket{\psi}$ through measurements--the only way to know exactly what numbers these $\alpha$'s are is to have created the state yourself, or to know the person who created it. This is because a measurement always results in a single outcome: 0 or 1, so no measurement can lead to the knowledge of the $\alpha$'s. If someone else created the state, you can ask them for thousands of qubits in identical states and after thousands of measurements, statistically decipher what the amplitudes and thus the probabilities of the state are. [^fn-nth-5]
 
