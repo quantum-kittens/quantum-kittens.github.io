@@ -88,9 +88,9 @@ Bu, her kuantum durumunun bir kısıtlamaya tabi olduğu anlamına gelir. Olası
 
 Şimdi bir örnekle birlikte inceleyelim. Varsayalım ki, aşağıdaki durumda bir kübitimiz var:
 
-$\begin{equation}
+\begin{equation}
 \ket{\psi}=\sqrt{\frac{2}{3}}\ket{0}-\sqrt{\frac{1}{3}}\ket{1}
-\end{equation}$
+\end{equation}
 
 Burada, $\alpha_{0}=\sqrt{\frac{2}{3}}$ yani ölçümden sonra 0 sonucuna ulaşma olasılığı $\frac{2}{3}$ olacaktır. Benzer şekilde $\alpha_{1}=-\sqrt{\frac{1}{3}}$, ve 1 sonucuna ulaşma olasılığı $\frac{1}{3}$ olacaktır. Yani, eğer bu durumda bir sürü kübitin varsa ve hepsini ölçersen, istatiksel olarak yaklaşık üçte biri 1 sonucunu verir. Genlik ne kadar büyükse, olasılık o kadar yüksektir ve ölçümden sonra kübitin ilişkili durumda bulunması daha olasıdır.[^fn-nth-4]
 
