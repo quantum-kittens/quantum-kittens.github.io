@@ -118,7 +118,7 @@ Elektron ve fotonların ne olduklarını bilmiyor musunuz? Hadi kısaca konudan 
 
 Kübit durumlarıyla ilgili bir başka önemli bilgi de kararlı olmamalarıdır. Kübitin çevresindeki küçük bozulmalar onun $\ket{0}$ ya da $\ket{1}$ durumuna indirgenmesine yol açabilir: sıcaklık, titreşim vb. bozulmalar.[^fn-nth-6] Dahası bu bozulmalar bile kararsızdır; bir süre sonra kübit süperpozisyona geri dönebilir. İşte durumların bu minik çekişmesi, kübitlerin laboratuvarda manipüle edilmesini zorlaştırır--Bıyıkkent kedilerini merakta tutan şey de budur!
 
-[^fn-nth-6]: This sensitivity of quantum states is one of the obstacles in fabricating stable, perfect physical qubits, and devices with a large number of qubits. But this is an exciting research area with lots of promising progress. Kuantum durumlarının bu hassaslığı, kararlı, mükemmel fiziksel kübitler ve çok sayıda kübit içeren büyük cihazların üretilmesine engel olan şeylerden biridir. Ancak bu, fazlaca umut vaad edici ilerlemelere sahip, heyecan veren bir araştırma alanıdır. 
+[^fn-nth-6]: Kuantum durumlarının bu hassaslığı, kararlı, mükemmel fiziksel kübitler ve çok sayıda kübit içeren büyük cihazların üretilmesine engel olan şeylerden biridir. Ancak bu, fazlaca umut vaad edici ilerlemelere sahip, heyecan veren bir araştırma alanıdır. 
 
 ## Schrödinger'in Kedisi
 
@@ -128,22 +128,19 @@ Bu konu bizi Blade'in sim makinesiyle birlikte içinde bulunduğu kutuya götür
 
 Kübitler, iki temel duruma sahip iki-seviyeli sistemlerdir, ama daha fazla durum içeren diğer kuantum parçacıkları ve sistemleri de vardır. Ancak tüm bu sistemler, kübitler ve ötesi, aynı kurala uymaktadır: ölçüm yapıldığında sonuç, tüm olasılıklardan yalnızca biridir.
 
-No one really knows why this happens. One possible explanation is the Copenhagen interpretation of quantum mechanics, in which the act of measurement itself collapses all possibilities to a single one. In 1935, physicist Erwin Schrödinger published a paper that outlined his famous thought experiment as a push-back to this interpretation, by hypothetically extrapolating quantum effects on a microscopic level to an everyday macroscopic object: a cat.Kimse bunun neden gerçekleştiğini bilmiyor. Olası açıklamalardan bir tanesi, ölçme eyleminin kendisinin, tüm olasılıkları tek bir olasılıkta birleştirdiğini belirten quantum mekaniğinin Kopenhag yourumudur. 1935'te fizikçi Erwin Schrödinger, 
+Kimse bunun neden gerçekleştiğini bilmiyor. Olası açıklamalardan bir tanesi, ölçme eyleminin kendisinin, tüm olasılıkları tek bir olasılıkta birleştirdiğini belirten quantum mekaniğinin Kopenhag yourumudur. 1935'te fizikçi Erwin Schrödinger, bu yoruma karşı bir itiraz olarak ünlü düşünce deneyini özetleyen bir makale yayınladı, mikroskobik düzeydeki kuantum etkilerinin günlük, makroskobik bir nesneyle varsayımsal olarak genelleştirdi: bir kedi.
 
-In the original thought experiment, a radioactive substance is used instead of a qubit (or a Whiskertese marble). Radioactive substances decay according to probabilities, just like a qubit reduces to a certain state according to probabilities.
+Düşünce deneyinin aslında, kübit yerine(ya da bir Bıyıkkent bilyesi) radyoaktif bir madde kullanıldı. Radyoaktif maddeler olasılıklara göre bozunabilirdi, tıpkı bir kübitin olasılıklara göre belirli bir duruma indirgenebilmesi gibi. 
 
-A cat is placed in a box with a radioactive substance that is linked to a vial of poison. If any one of the atoms decays, then the vial shatters, poisoning the cat. Thus, the state of the cat is coupled with that of the poison system, which is governed by the probability that at least one atom will decay. In this way, before the box is opened, the cat can be considered to be both dead or alive, because each of the possibilities is likely. That is, the cat's reality is undetermined prior to the opening of the box. 
+Bir kedi, bir şişe zehire bağlı radyoaktif bir maddeyle dolu bir kutunun içine koyulur. Eğer atomların biri bozunursa, şişe çatlar ve kediyi zehirler. Böylece, kedinin durumu, en az bir atomun bozunma olasılığıyla yönetilen zehir sistemiyle bağlantılı hale gelir. Böylece kutu açılmadan önce, kedi hem ölü hem diri şeklinde değerlendirilir, çünkü olasılıkların her biri mümkündür. Yani, kedinin gerçekliği, kutunun açılışından önce belirsizdir.
 
-Schrödinger argued that this is a 'ridiculous case' and that one can't really believe that before one opens the box the cat is in a superposition of dead and alive. He was right, of course. This scenario can't be considered *truly* quantum. The cat isn't a quantum particle, for one. So while the cat isn't actually in a superposition of dead and alive, the thought experiment at the very least demonstrates a probabilistic system.
+Schrödinger bunun "saçma bir durum" olduğunu ve birinin kutu açılmadan önce kedinin ölü ve dirinin süperpozisyonunda olduğuna gerçekten inanılamayacağını savundu. Tabii ki haklıydı. Bu senaryo *tamemen* kuantum olarak değerlendirilemezdi. Kedi bir kuantum parçacığı değildi bir kere. Yani kedi gerçekten ölü ve dirinin süperpozisyonunda olmasa da, düşünce deneyi en azından olasılıksal sistemin altını çiziyordu.
 
-This thought experiment has fast become one of the most recognized iconographies of quantum phenomenon in popular culture, and naturally had to make an appearance in Whiskerton. With glitter, of course, because there's no reason to get morbid in such a quaint little town. Note that Schrödinger didn't actually poison cats--he merely thought about it!
+Bu düşünce deneyi, popüler kültürde kuantum olgusunun en çok tanınan ikonografilerinden biri haline geldi ve doğal olarak Bıyıkkent'te de yerini buldu. Sim ile tabii ki, böylesine şirin bir kasabada kasvetli olmanın bir anlamı yok. Schrödinger'in gerçekten kedileri zehirlemediğinin altını çizelim--sadece düşündü!
 
-Now, there’s one more curious aspect to this thought experiment: you could say that the state of the cat is *entangled* with that of the radioactive substance. 
+Şimdi, bu düşünce deneyinin bir ilgi çekici yanı daha var: kedinin durumunun radyoaktif maddenin durumu ile *dolanık* hale geldiğini söyleyebiliriz.
 
-Quantum entanglement is actually our next stop! Let’s hop to it: **[Next: Chapter 3 - Story - Doorbells](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)**
-
-_____________________________
-
+Kuantum dolanıklık aslında bir sonraki durağımız! Hadi başlayalım: **[Sonraki: Bölüm 3 - Hikaye - Kapı Zilleri](https://quantum-kittens.github.io/posts/CHAPTER-3-Story-Doorbells/)**
 
 _____________________________
 
@@ -151,64 +148,67 @@ _____________________________
 _____________________________
 
 
+_____________________________
 
 
-## Qiskit Code
 
-This section is for those of you who want to get started with Qiskit, IBM Quantum’s open source python framework to program quantum computers.
 
-You can simulate a Whiskerton marble using this supplementary Qiskit code. This code walks you through creating and running a quantum circuit with a single qubit.
+## Qiskit Kodu
 
-You can run this code in two ways:
+Bu bölüm, kuantum bilgisayarları programlamak için IBM Quantum'un açık kaynaklı Python çerçevesi(framework) olan Qiskit'i kullanmaya başlamak isteyenler içindir.
 
-- On the cloud: you can choose use a cloud-based tool like [Google Colab](https://colab.research.google.com/) or [qBraid](https://www.qbraid.com/). 
-- Locally: you can [install Qiskit](https://qiskit.org/) and run the code on your local machine
+Bu ek Qiskit kodunu kullanarak bir Whiskerton bilyesini simüle edebilirsiniz. Bu kod, tek bir kübitle bir kuantum devresi oluşturma ve çalıştırma konusunda size yol gösterir.
 
-See this blog post for further setup details: [
+Bu kodu iki şekilde çalıştırabilirsiniz:
+
+- Bulutta: bulut tabanlı bir araç kullanmayı seçebilirsiniz [Google Colab](https://colab.research.google.com/) veya [qBraid](https://www.qbraid.com/). 
+- Yerel olarak: [Qiskit kurup](https://qiskit.org/) kodu yerel cihazınızda çalıştırabilirsiniz.
+
+Daha fazla kurulum ayrıntısı için bu blog gönderisine bakabilirsiniz: [
 Explore newly recommended notebook environments for Qiskit](https://www.ibm.com/quantum/blog/qiskit-notebook-environments)
 
-The below code is also available as a jupyter notebook [here](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_2.ipynb).
+Aşağıdaki kod aynı zamanda jupyter notebook için de mevcuttur [buradan](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_2.ipynb).
 
-November 2024 note: this code has now been updated to Qiskit 1.0. If you've used an earlier version of Qiskit before, this blog post may be useful for you: [Best practices for transitioning to Qiskit SDK v1.0](https://www.ibm.com/quantum/blog/transition-to-1)
+Kasım 2024 not: bu kod Qiskit 1.0 için güncellenmiştir. Eğer daha önce Qiskit'in daha erken bir versiyonunu kullandıysanız, bu blog gönderisi sizin için yardımcı olabilir: [Best practices for transitioning to Qiskit SDK v1.0](https://www.ibm.com/quantum/blog/transition-to-1)
 
 
 
 
 
  ```python
-# Install Qiskit along with some optional dependencies useful for visualization 
-# by uncommenting the instruction below if you don't have Qiskit installed already
+# Görselleştirme için yararlı bazı isteğe bağlı bağımlılıklarla birlikte Qiskit'i yükleyin 
+# Qiskit henüz yüklü değilse aşağıdaki talimatın yorum satırını kaldırın
 
 #pip install'qiskit[visualization]'
 
-# Install the Qiskit Runtime Service if you don't have it installed already by uncommenting the instruction below
+# Eğer Qiskit Runtime Service hâlâ yüklü değilse, aşağıdaki talimatın yorum satırını kaldırarak yükleyin
 
 #pip install qiskit-ibm-runtime
 
-# Install the Qiskit Aer Simulator if you don't have it installed already by uncommenting the instruction below
+# Eğer Qiskit Aer Simülatör hâlâ yüklü değilse, aşağıdaki talimatın yorum satırını kaldırarak yükleyin
 
 #pip install qiskit-aer
 
-# Import necessary Qiskit libraries
+# Gerekli Qiskit kütüphanelerini içe aktarın
 
 from qiskit import QuantumCircuit
 
-#Create Marble Circuit
+#Bilye Devresi Oluşturma
 
-marble_circuit = QuantumCircuit(1, 1) # add one qubit (Whiskerton marble) and one classical bit (to store the measurement outcome)
+bilye_devresi = QuantumCircuit(1, 1) # bir kübit ekleyin (Bıyıkket bilyesi) ve bir klasik bit (ölçüm sonucunu saklamak için)
 
-marble_circuit.h(0) # add H-gate or Hadamard gate to the qubit (this is the quantum gate that puts the marble in superposition)
+bilye_devresi.h(0) # kübite H-kapısı veya Hadamard kapısı ekleyin (bu bilyeyi süperpozisyona sokan kuantum kapısı)
 
-marble_circuit.measure(0,0) # add a measurement operator (this is equivalent to a cat looking directly at a marble)
+bilye_devresi.measure(0,0) # bir ölçüm operatörü ekleyin (bu kedinin doğrudan bilyeye bakmasına denktir)
 
-marble_circuit.draw('mpl') # see how the circuit looks
+bilye_devresi.draw('mpl') # devrenin nasıl göründüğüne bakın
 ```
 
 
 
  ```python
 
- # Import necessary Qiskit libraries for running the circuit on a simulator
+ # Devreyi simülatörde çalıştırmak için gerekli Qiskit kütüphanelerini içeri aktarın
 
 from qiskit.transpiler.preset_passmanagers import generate_preset_pass_manager
 from qiskit_ibm_runtime import QiskitRuntimeService
@@ -217,24 +217,23 @@ from qiskit_ibm_runtime import SamplerV2 as Sampler
 from qiskit.visualization import plot_histogram
 
 
-#Run Marble Circuit,
-#That is, see if the marble turns red or blue
+#Bilye Devresini Çalıştırın,
+#Bu bilyenin kırmızıya mı maviye mi döndüğünü görmek için
+bilye_durumu = {'1': 'kirmizi', '0': 'mavi'}
 
-marble_state = {'1': 'red', '0': 'blue'}
-
-aer_sim = AerSimulator() # Identify the quantum computer to run this on. In this case it's a simulator not a real device.
+aer_sim = AerSimulator() # Bunu çalıştırmak için kuantum bilgisayar tanımla. Bu durumda bir simülatör kullanıyoruz, gerçek bir cihaz değil.
 pm = generate_preset_pass_manager(backend=aer_sim, optimization_level=1) 
-isa_marble_circuit = pm.run(marble_circuit) # This line and the line above essentially prepare the circuit to be executed on the device you selected. For for more technical details, please see: https://docs.quantum.ibm.com/api/qiskit/transpiler#transpiler
+bilye_devresi_mi = pm.run(bilye_devresi) # Bu satır ve aşağısındaki satır devreyi seçilen cihazda çuygulanmaya hazırlamak için kullanılıyor. Daha fazla teknik detay için, lütfen bu link ile devam edin: https://docs.quantum.ibm.com/api/qiskit/transpiler#transpiler
 
-# fetch and print the outcome:
+# sonuçları çekme ve yazdırma:
 sampler = Sampler(mode=aer_sim)
 
-result = sampler.run([isa_marble_circuit], shots=1000).result() # Run the circuit on the simulator 1000 times to gather statistics.
+result = sampler.run([bilye_devresi_mi], shots=1000).result() # İstatistik toplamak için devreyi simülatörde 1000 kez çalıştır.
 counts = result[0].data.c.get_counts()
 
 ans = str(max(counts, key=counts.get))
 
-print('The marble is ' + marble_state[ans] + '.') # The outcome is the one associated with the highest count.
+print('Bilye ' + bilye_durumu[ans] + 'renktir.') # Bu çıktı, en yüksek sayıma sahip olanı verir.
 
 
 
@@ -242,17 +241,17 @@ print('The marble is ' + marble_state[ans] + '.') # The outcome is the one assoc
 
 ```python
 
-# Examine the statistics and plot histogram
+# İstatistik ve histogram grafiğini inceleyelim
 
-print("Your result in the form of counts:", counts)
-print("Thus, in 1000 shots, you get blue " + str(counts['0']) + " times, and red " + str(counts['1']) + " times.")
+print("Sayım şeklinde sonuçların:", counts)
+print("Dolayısıyla, 1000 atışta, " + str(counts['0']) + " kez mavi renk bilye elde ettin ve " + str(counts['1']) + " kez kırmızı renk bilye elde ettin.")
 
 plot_histogram(counts)
 
 ```
 
 ```python
-# If you want to run the circuit on a real device then you can use the following 
+# Devreyi gerçek bir cihazda çalıştırmak için aşağıdaki kodu kullanabilirsiniz
 
 #from qiskit_ibm_runtime import QiskitRuntimeService
  
@@ -261,4 +260,4 @@ plot_histogram(counts)
 
 
 
-*Note: the Qiskit code provided is open source, and does not fall under the copyright of Quantum Kittens.*
+*Not: Kullanılan Qiskit kodu açık kaynaklıdır, ve Quantum Kittens'ın telif hakkı kapsamına girmez.*
