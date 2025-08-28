@@ -82,7 +82,7 @@ Matematiksel olarak, eğer genliklerin karesini alırsak, her bir temel duruma k
 
 [^fn-nth-3]: Üst simge 2, bir "kare" belirtir, bu bir sayının kendisiyle olan çarpımına denir. Bu da, $\alpha_{0}^2=\alpha_{0}*\alpha_{0}$ olur.
 
-Haklı olarak neden karelerin kullanıldığını merak ediyor olabilirsin. Bu bize genliklerin, $\alpha_{0}$ ve $\alpha_{1}$ negatif olabileceklerini hatırlatan basit bir matematiksel kuraldır. Her bir genliğin karesi bir olasılıktır ve olasılıklar her zaman pozitiftir, tıpkı kareler gibi!
+Haklı olarak neden karelerin kullanıldığını merak ediyor olabilirsiniz. Bu bize genliklerin, $\alpha_{0}$ ve $\alpha_{1}$'in negatif olabileceklerini hatırlatan basit bir matematiksel kuraldır. Her bir genliğin karesi bir olasılıktır ve olasılıklar her zaman pozitiftir, tıpkı kareler gibi!
 
 Bu, her kuantum durumunun bir kısıtlamaya tabi olduğu anlamına gelir. Olasılık teorisinin katı bir kuralı vardır: tüm olasılıkların toplamı 1 olmalıdır, yani *her zaman* $\alpha_{0}^2+\alpha_{1}^2=1$ olmalıdır.
 
