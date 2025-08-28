@@ -11,7 +11,7 @@ Derinlerde, klasik bilgisayarların temelinde bilgi, *bitler* tarafından taşı
 
 ## Kübit nedir?
 
-Bir kübit kuantum hesaplamadaki en basit sistemdir, kuantum hesaplama için temel bileşendir. Fiziksel olarak, kuantum bilgisayarın kullandığı donanıma bağlı olarak kübitler, çeşitli farklı biçimlerde bulunabilirler. Ancak davranışsal olarak, aynı hareket ederler. Yani bir 'kübit'i, klasik bir bitten farklı olarak ilginç bir şekilde davranan soyut bir matematiksel nesne olarak düşünebilirsiniz. Klasik bitler iki değerden birini alabilir, 0 ve 1, ancak bir kübit bunu ve daha fazlasını yapabilir:
+Bir kübit kuantum hesaplamadaki en basit sistemdir, kuantum hesaplama için temel bileşendir. Fiziksel olarak, kuantum bilgisayarın kullandığı donanıma bağlı olarak kübitler, çeşitli farklı biçimlerde bulunabilirler. Ancak davranışsal olarak, aynı hareket ederler. Yani bir 'kübiti', klasik bir bitten farklı olarak ilginç bir şekilde davranan soyut bir matematiksel nesne olarak düşünebilirsiniz. Klasik bitler iki değerden birini alabilir, 0 ve 1, ancak bir kübit bunu ve daha fazlasını yapabilir:
 
 > Kübitler, yalnızca 0 veya 1 durumlarında değil, aynı zamanda ikisinin *süperpozisyonunda* olma yeteneğine sahip soyut matematiksel nesnelerdir.
 {: .prompt-tip MK}
