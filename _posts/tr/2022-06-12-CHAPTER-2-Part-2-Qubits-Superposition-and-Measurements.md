@@ -106,7 +106,7 @@ Yine de kübit durumlarının kullanışlı olması için $\alpha$'ların ne old
 
 ## Fiziksel Kübitler
 
-Önceden belirtilidiği gibi, kübit durumları matematiksel yapılardır; bu da onlarla, kullanılan fiziksel sistem hakkında bir açıklama yapmadan matematiksel olarak algoritmalar ve benzeri şeyler geliştirmek için çalışmayı kolaylaştırır. Bu önemlidir, çünkü kübit durumlarını laboratuvarda ister elektron spinleri, ister fotonların kutuplaşmış durumları ya da başka bir şey olarak fiziksel olarak inşa etmeniz fark etmez.
+Önceden belirtilidiği gibi, kübit durumları matematiksel yapılardır; bu da onlarla, kullanılan fiziksel sistem hakkında bir açıklama yapmadan matematiksel olarak algoritmalar ve benzeri şeyler geliştirmek için çalışmayı kolaylaştırır. Bu önemlidir, çünkü kübit durumlarını laboratuvarda ister elektron spinlerini, ister fotonların kutuplaşmış durumlarını ya da başka bir şey, fiziksel olarak inşa etmeniz fark etmez.
 
 Elektron ve fotonların ne olduklarını bilmiyor musunuz? Hadi kısaca konudan sapalım:
 
