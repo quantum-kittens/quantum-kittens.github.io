@@ -223,7 +223,7 @@ bilye_durumu = {'1': 'kirmizi', '0': 'mavi'}
 
 aer_sim = AerSimulator() # Bunu çalıştırmak için kuantum bilgisayar tanımla. Bu durumda bir simülatör kullanıyoruz, gerçek bir cihaz değil.
 pm = generate_preset_pass_manager(backend=aer_sim, optimization_level=1) 
-bilye_devresi_mi = pm.run(bilye_devresi) # Bu satır ve aşağısındaki satır devreyi seçilen cihazda çuygulanmaya hazırlamak için kullanılıyor. Daha fazla teknik detay için, lütfen bu link ile devam edin: https://docs.quantum.ibm.com/api/qiskit/transpiler#transpiler
+bilye_devresi_mi = pm.run(bilye_devresi) # Bu satır ve aşağısındaki satır devreyi seçilen cihazda uygulanmaya hazırlamak için kullanılıyor. Daha fazla teknik detay için, lütfen bu link ile devam edin: https://docs.quantum.ibm.com/api/qiskit/transpiler#transpiler
 
 # sonuçları çekme ve yazdırma:
 sampler = Sampler(mode=aer_sim)
