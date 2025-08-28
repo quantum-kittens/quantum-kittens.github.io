@@ -20,7 +20,7 @@ Bir kübit kuantum hesaplamadaki en basit sistemdir, kuantum hesaplama için tem
 
 Kuantum süperpozisyonu, klasik fizikte benzeri olmayan, muntazam bir kuantum fiziği olgusudur. Bunu bir kombinasyon olarak düşünebilirsiniz.
 
-Klasik bitler yalnızca 0 veya 1 durumunda olabilir ve asla ikisinin bir kombinasyonu olamazken, kuantum durumları birleştirilebilir ve yine de geçerli durumlar olabilir. Dolayısıyla bir kübitin durumu 0 *ve* 1'in bir kombinasyonu olabilir.
+Klasik bitler yalnızca 0 veya 1 durumunda olabilir ve asla ikisinin bir kombinasyonu olamazken, kuantum durumları birleştirilebilir ve yine de geçerli durumlar olabilirler. Dolayısıyla bir kübitin durumu 0 *ve* 1'in bir kombinasyonu olabilir.
 
 ![](/assets/imgs/Marble_Animation.png){: style="max-width: 150px" .left} Bıyıkkent'te bilyeler, varsayılan olarak böyle bir süperpozisyon (üst üste binme) durumundadır: kırmızı ve mavi renklerin eşit ağırlıkta bir kombinasyonu şeklinde. Bu renkleri boya renkleri olarak düşünmek yanlış olur. Günlük hayatında, klasik deneyimde, eğer kırmızı ve mavi renk boyayı birleştirirsen, mor renk boya elde edersin. Ancak Bıyıkkent bilyeleri mor renk değildir; bir kedi bilyeyi gözlemledikten sonra bilye, her biri için yüzde elli ihtimalle ya kırmızı renge ya da mavi renge dönüşür. Eğer mor renk boyanız varsa kırmızı ve mavi renkleri geri elde etme şansınız yoktur!
 
