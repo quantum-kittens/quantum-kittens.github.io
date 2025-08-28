@@ -128,7 +128,7 @@ Bu konu bizi Blade'in sim makinesiyle birlikte içinde bulunduğu kutuya götür
 
 Kübitler, iki temel duruma sahip iki-seviyeli sistemlerdir, ama daha fazla durum içeren diğer kuantum parçacıkları ve sistemleri de vardır. Ancak tüm bu sistemler, kübitler ve ötesi, aynı kurala uymaktadır: ölçüm yapıldığında sonuç, tüm olasılıklardan yalnızca biridir.
 
-Kimse bunun neden gerçekleştiğini bilmiyor. Olası açıklamalardan bir tanesi, ölçme eyleminin kendisinin, tüm olasılıkları tek bir olasılıkta birleştirdiğini belirten quantum mekaniğinin Kopenhag yourumudur. 1935'te fizikçi Erwin Schrödinger, bu yoruma karşı bir itiraz olarak ünlü düşünce deneyini özetleyen bir makale yayınladı, mikroskobik düzeydeki kuantum etkilerinin günlük, makroskobik bir nesneyle varsayımsal olarak genelleştirdi: bir kedi.
+Kimse bunun neden gerçekleştiğini bilmiyor. Olası açıklamalardan bir tanesi, ölçme eyleminin kendisinin, tüm olasılıkları tek bir olasılıkta birleştirdiğini belirten quantum mekaniğinin Kopenhag yorumudur. 1935'te fizikçi Erwin Schrödinger, bu yoruma karşı bir itiraz olarak ünlü düşünce deneyini özetleyen bir makale yayınladı, mikroskobik düzeydeki kuantum etkilerinin günlük, makroskobik bir nesneyle varsayımsal olarak genelleştirdi: bir kedi.
 
 Düşünce deneyinin aslında, kübit yerine(ya da bir Bıyıkkent bilyesi) radyoaktif bir madde kullanıldı. Radyoaktif maddeler olasılıklara göre bozunabilirdi, tıpkı bir kübitin olasılıklara göre belirli bir duruma indirgenebilmesi gibi. 
 
