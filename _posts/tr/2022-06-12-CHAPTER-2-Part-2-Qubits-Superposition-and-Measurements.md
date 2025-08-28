@@ -98,25 +98,25 @@ Burada, $\alpha_{0}=\sqrt{\frac{2}{3}}$ yani ölçümden sonra 0 sonucuna ulaşm
 
 ## İstatistik Üzerine Bir Not
 
-The thing about qubits is that you cannot determine $\alpha_{0}$ and $\alpha_{1}$ for an arbitrary state $\ket{\psi}$ through measurements--the only way to know exactly what numbers these $\alpha$'s are is to have created the state yourself, or to know the person who created it. This is because a measurement always results in a single outcome: 0 or 1, so no measurement can lead to the knowledge of the $\alpha$'s. If someone else created the state, you can ask them for thousands of qubits in identical states and after thousands of measurements, statistically decipher what the amplitudes and thus the probabilities of the state are. [^fn-nth-5]
+Kübitlerle ilgili mesele, $\ket{\psi}$ gibi rastgele bir durumda $\alpha_{0}$ ve $\alpha_{1}$ katsayılarını ölçüm yaparak belirleyemezsiniz—-$\alpha$ değerlerinin tam olarak ne olduklarını bilmenin yolu ya bu durumu kendiniz yaratmış olmanızdır ya da onu yaratan kişiyi tanıyor olmanızdır. Bunun sebebi ölçümün her zaman tek bir sonuç vermesidir:0 ya da 1, bu nedenle hiçbir ölçüm $\alpha$'ların bilgisine yol açamaz. Durumu bir başkası yaratmışsa, onlardan binlerce özdeş durumda kübit isteyebilir ve binlerce ölçüm yaptıktan sonra istatistiksel olarak genlikleri ve dolayısıyla durumun olasılıklarını çözümleyebilirsiniz. [^fn-nth-5]
 
-[^fn-nth-5]: This is precisely why quantum circuits are run multiple times: to gather statistics. Quantum circuits are quantum computation models that have gate sequences, measurements, and the like.
+[^fn-nth-5]: Bu tam olarak kuantum devrelerinin birçok kez çalışmasının sebebidir: istatistik toplamak. Kuantum devreleri kapı dizileri, ölçümler ve buna benzer başka öğeler içeren kuantum hesaplama modelleridir.
 
-However, you don't necessarily need to know what the $\alpha$'s are in order for qubit states to be useful. The beauty of the qubit state lies in how one can change and manipulate $\alpha_{0}$ and $\alpha_{1}$ with quantum gates before measurement. As mentioned earlier, the goal is to boost the probabilities associated with the desired outcome. If the desired outcome is 0,  then the algorithm can be designed to boost $\alpha_{0}$, regardless of what it is. And if $\alpha_{0} = 1$, then the outcome 0 will be guaranteed.
+Yine de kübit durumlarının kullanışlı olması için $\alpha$'ların ne olduğunu bilmenize gerek yoktur. Kübit durumunun güzelliği, ölçümden önce kuantum kapılarındaki $\alpha_{0}$ ve $\alpha_{1}$ değerlerinin değiştirilebilmesinde ve manipüle edilebilmesinde yatar. Eğer istenilen çıktı 0 ise, o zaman algoritma değerine bakılmaksızın, $\alpha_{0}$'ın değerini yükseltme amacıyla tasarlanabilir. Eğer $\alpha_{0} = 1$ ise sonucun 0 olması kesindir.
 
-## Physical Qubits
+## Fiziksel Kübitler
 
-As stated earlier, qubit states are mathematical constructs, which make them easier to work with mathematically to develop algorithms and the like without making a statement on the physical system that is used. This is important, because it doesn't matter whether you physically construct qubit states in the lab as, say, electron spins, polarized states of photons, or something else.
+Önceden belirtilidiği gibi, kübit durumları matematiksel yapılardır; bu da onlarla, kullanılan fiziksel sistem hakkında bir açıklama yapmadan matematiksel olarak algoritmalar ve benzeri şeyler geliştirmek için çalışmayı kolaylaştırır. Bu önemlidir, çünkü kübit durumlarını laboratuvarda ister elektron spinleri, ister fotonların kutuplaşmış durumları ya da başka bir şey olarak fiziksel olarak inşa etmeniz fark etmez.
 
-Don’t know what electrons or photons are? Let’s digress briefly:
+Elektron ve fotonların ne olduklarını bilmiyor musunuz? Hadi kısaca konudan sapalım:
 
-> An electron is a negatively charged subatomic particle. It has a property called 'spin' that we needn't discuss in detail. Suffice it to say that the spin of an electron can be $+\frac{1}{2}$ or $-\frac{1}{2}$, which mathematically can be represented as the states $\ket{0}$ and $\ket{1}$.
+>Elektron, negatif yüklü bir atom altı parçacıktır. Ayrıntıya girmeden, "spin(dönüş)" adı verilen bir özelliğe sahiptir. Elektronun spinin $+\frac{1}{2}$ ya da $-\frac{1}{2}$ olduğunu söylemek yeterlidir, bu da matematiksel olarak $\ket{0}$ ve $\ket{1}$ durumları ile gösterilebilir.
 {: .prompt-info }
 
->A photon is the building block of electromagnetic radiation, which includes visible light. Everything that you see is due to these photons hitting your retinae. When photons are *polarized*, they vibrate in a specific direction rather than all directions. In terms of qubits, polarization in the horizontal direction, say, can be represented by $\ket{0}$ and polarization in the vertical direction, say, can be represented by $\ket{1}$. A superposition of the two is possible, and corresponds to the photon vibrating in a direction between vertical and horizontal, analogous to Southeast lying between South and East on a compass.
+>Foton, görünür ışık da dahil olmak üzere, elektromanyetik radyasyonun yapı taşıdır. Gördüğünüz her şey, retinanıza çarpan bu fotonlar sayesindedir. Fotonlar *polarize* olduklarında, tüm yönler yerine belirli bir yönde titreşmeye başlarlar. Kübitler açısından, yatay yöndeki polarizasyonun $\ket{0}$ ile temsil edildiğini ve dikey yöndeki polarizasyonun da $\ket{1}$ ile temsil edildiğini varsayalım. İkisinin süperpozisyonu mümkündür ve fotonun dikey ve yatay yönleri arasında bir yönde titreşmesine karşılık gelir, bu tıpkı bir pusulada Güney ve Doğu arasında yer alan Güneydoğu'ya benzer.
 {: .prompt-info }
 
-One important thing to note about qubit states is that they are not stable. Little disturbances in a qubit's environment can reduce it to either $\ket{0}$ or $\ket{1}$: disturbances like heat, vibrations, etc.[^fn-nth-6] And even *that* is unstable; after some time a qubit can jump back into a superposition. It's this little tug of war of states that makes qubits a little tricky to manipulate in the lab--and what keeps the cats of Whiskerton intrigued!
+Kübit durumlarıyla ilgili bir başka önemli bilgi de kararlı olmamalarıdır. Kübitin çevresindeki küçük bozulmalar onun $\ket{0}$ ya da $\ket{1}$ durumuna indirgenmesine yol açabilir: sıcaklık, titreşim vb. bozulmalar.[^fn-nth-6] Dahası bu bozulmalar bile kararsızdır; bir süre sonra kübit süperpozisyona geri dönebilir. İşte durumların bu minik çekişmesi, kübitlerin laboratuvarda manipüle edilmesini zrolaştırır--Bıyıkkent kedilerini merakta tutan şey de budur!
 
 [^fn-nth-6]: This sensitivity of quantum states is one of the obstacles in fabricating stable, perfect physical qubits, and devices with a large number of qubits. But this is an exciting research area with lots of promising progress. 
 
