@@ -134,7 +134,7 @@ Düşünce deneyinin aslında, kübit yerine(ya da bir Bıyıkkent bilyesi) rady
 
 Bir kedi, bir şişe zehire bağlı radyoaktif bir maddeyle dolu bir kutunun içine koyulur. Eğer atomların biri bozunursa, şişe çatlar ve kediyi zehirler. Böylece, kedinin durumu, en az bir atomun bozunma olasılığıyla yönetilen zehir sistemiyle bağlantılı hale gelir. Böylece kutu açılmadan önce, kedi hem ölü hem diri şeklinde değerlendirilir, çünkü olasılıkların her biri mümkündür. Yani, kedinin gerçekliği, kutunun açılışından önce belirsizdir.
 
-Schrödinger bunun "saçma bir durum" olduğunu ve birinin kutu açılmadan önce kedinin ölü ve dirinin süperpozisyonunda olduğuna gerçekten inanılamayacağını savundu. Tabii ki haklıydı. Bu senaryo *tamemen* kuantum olarak değerlendirilemezdi. Kedi bir kuantum parçacığı değildi bir kere. Yani kedi gerçekten ölü ve dirinin süperpozisyonunda olmasa da, düşünce deneyi en azından olasılıksal sistemin altını çiziyordu.
+Schrödinger bunun "saçma bir durum" olduğunu ve birinin kutu açılmadan önce kedinin ölü ve dirinin süperpozisyonunda olduğuna gerçekten inanılamayacağını savur. Tabii ki haklı. Bu senaryo *tamamen* kuantum olarak değerlendirilemezdi. Kedi bir kuantum parçacığı değildi bir kere. Yani kedi gerçekten ölü ve dirinin süperpozisyonunda olmasa da, düşünce deneyi en azından olasılıksal sistemin altını çiziyordu.
 
 Bu düşünce deneyi, popüler kültürde kuantum olgusunun en çok tanınan ikonografilerinden biri haline geldi ve doğal olarak Bıyıkkent'te de yerini buldu. Sim ile tabii ki, böylesine şirin bir kasabada kasvetli olmanın bir anlamı yok. Schrödinger'in gerçekten kedileri zehirlemediğinin altını çizelim--sadece düşündü!
 
