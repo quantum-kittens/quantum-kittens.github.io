@@ -102,7 +102,7 @@ Kübitlerle ilgili mesele, $\ket{\psi}$ gibi rastgele bir durumda $\alpha_{0}$ v
 
 [^fn-nth-5]: Bu tam olarak kuantum devrelerinin birçok kez çalışmasının sebebidir: istatistik toplamak. Kuantum devreleri kapı dizileri, ölçümler ve buna benzer başka öğeler içeren kuantum hesaplama modelleridir.
 
-Yine de kübit durumlarının kullanışlı olması için $\alpha$'ların ne olduğunu bilmenize gerek yoktur. Kübit durumunun güzelliği, ölçümden önce kuantum kapılarındaki $\alpha_{0}$ ve $\alpha_{1}$ değerlerinin değiştirilebilmesinde ve manipüle edilebilmesinde yatar. Eğer istenilen çıktı 0 ise, o zaman algoritma değerine bakılmaksızın, $\alpha_{0}$'ın değerini yükseltme amacıyla tasarlanabilir. Eğer $\alpha_{0} = 1$ ise sonucun 0 olması kesindir.
+Yine de kübit durumlarının kullanışlı olması için $\alpha$'ların ne olduğunu bilmenize gerek yoktur. Kübit durumunun güzelliği, ölçümden önce kuantum kapılarındaki $\alpha_{0}$ ve $\alpha_{1}$ değerlerinin değiştirilebilmesinde ve manipüle edilebilmesinde yatar. Eğer istenilen çıktı 0 ise, o zaman algoritma, değerine bakılmaksızın $\alpha_{0}$'ın değerini yükseltme amacıyla tasarlanabilir. Eğer $\alpha_{0} = 1$ ise sonucun 0 olması kesindir.
 
 ## Fiziksel Kübitler
 
