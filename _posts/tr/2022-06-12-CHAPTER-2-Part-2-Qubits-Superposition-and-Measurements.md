@@ -157,7 +157,7 @@ _____________________________
 
 Bu bölüm, kuantum bilgisayarları programlamak için IBM Quantum'un açık kaynaklı Python çerçevesi(framework) olan Qiskit'i kullanmaya başlamak isteyenler içindir.
 
-Bu ek Qiskit kodunu kullanarak bir Whiskerton bilyesini simüle edebilirsiniz. Bu kod, tek bir kübitle bir kuantum devresi oluşturma ve çalıştırma konusunda size yol gösterir.
+Bu ek Qiskit kodunu kullanarak bir Bıyıkkent bilyesini simüle edebilirsiniz. Bu kod, tek bir kübitle bir kuantum devresi oluşturma ve çalıştırma konusunda size yol gösterir.
 
 Bu kodu iki şekilde çalıştırabilirsiniz:
 
