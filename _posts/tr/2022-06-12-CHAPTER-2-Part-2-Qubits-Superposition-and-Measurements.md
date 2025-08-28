@@ -116,19 +116,19 @@ Elektron ve fotonların ne olduklarını bilmiyor musunuz? Hadi kısaca konudan 
 >Foton, görünür ışık da dahil olmak üzere, elektromanyetik radyasyonun yapı taşıdır. Gördüğünüz her şey, retinanıza çarpan bu fotonlar sayesindedir. Fotonlar *polarize* olduklarında, tüm yönler yerine belirli bir yönde titreşmeye başlarlar. Kübitler açısından, yatay yöndeki polarizasyonun $\ket{0}$ ile temsil edildiğini ve dikey yöndeki polarizasyonun da $\ket{1}$ ile temsil edildiğini varsayalım. İkisinin süperpozisyonu mümkündür ve fotonun dikey ve yatay yönleri arasında bir yönde titreşmesine karşılık gelir, bu tıpkı bir pusulada Güney ve Doğu arasında yer alan Güneydoğu'ya benzer.
 {: .prompt-info }
 
-Kübit durumlarıyla ilgili bir başka önemli bilgi de kararlı olmamalarıdır. Kübitin çevresindeki küçük bozulmalar onun $\ket{0}$ ya da $\ket{1}$ durumuna indirgenmesine yol açabilir: sıcaklık, titreşim vb. bozulmalar.[^fn-nth-6] Dahası bu bozulmalar bile kararsızdır; bir süre sonra kübit süperpozisyona geri dönebilir. İşte durumların bu minik çekişmesi, kübitlerin laboratuvarda manipüle edilmesini zrolaştırır--Bıyıkkent kedilerini merakta tutan şey de budur!
+Kübit durumlarıyla ilgili bir başka önemli bilgi de kararlı olmamalarıdır. Kübitin çevresindeki küçük bozulmalar onun $\ket{0}$ ya da $\ket{1}$ durumuna indirgenmesine yol açabilir: sıcaklık, titreşim vb. bozulmalar.[^fn-nth-6] Dahası bu bozulmalar bile kararsızdır; bir süre sonra kübit süperpozisyona geri dönebilir. İşte durumların bu minik çekişmesi, kübitlerin laboratuvarda manipüle edilmesini zorlaştırır--Bıyıkkent kedilerini merakta tutan şey de budur!
 
-[^fn-nth-6]: This sensitivity of quantum states is one of the obstacles in fabricating stable, perfect physical qubits, and devices with a large number of qubits. But this is an exciting research area with lots of promising progress. 
+[^fn-nth-6]: This sensitivity of quantum states is one of the obstacles in fabricating stable, perfect physical qubits, and devices with a large number of qubits. But this is an exciting research area with lots of promising progress. Kuantum durumlarının bu hassaslığı, kararlı, mükemmel fiziksel kübitler ve çok sayıda kübit içeren büyük cihazların üretilmesine engel olan şeylerden biridir. Ancak bu, fazlaca umut vaad edici ilerlemelere sahip, heyecan veren bir araştırma alanıdır. 
 
-## Schrödinger's Cat
+## Schrödinger'in Kedisi
 
-This brings us to Blade in the box with the glitter machine. His predicament is a homage of sorts to a thought experiment by physicist Erwin Schrödinger in 1935[^fn-nth-7].
+Bu konu bizi Blade'in sim makinesiyle birlikte içinde bulunduğu kutuya götürüyor. Bulunduğu durum, fizikçi Erwin Schrödinger'in 1935'te yaptığı bir düşünce deneyine bir tür saygı duruşudur.[^fn-nth-7].
 
-[^fn-nth-7]: Schrödinger, Erwin (November 1935). "Die gegenwärtige Situation in der Quantenmechanik (The present situation in quantum mechanics)". Naturwissenschaften. 23 (48): 807-812.
+[^fn-nth-7]: Schrödinger, Erwin (November 1935). "Die gegenwärtige Situation in der Quantenmechanik (Kuantum mekaniğindeki mevcut durum)". Naturwissenschaften. 23 (48): 807-812.
 
-Qubits are two-level systems and have two basis states, but there are other quantum particles and systems that can have even more. Yet all of these systems, qubits and beyond, adhere to the same rule: upon measurement, the outcome is only one out of all the possibilities. 
+Kübitler, iki temel duruma sahip iki-seviyeli sistemlerdir, ama daha fazla durum içeren diğer kuantum parçacıkları ve sistemleri de vardır. Ancak tüm bu sistemler, kübitler ve ötesi, aynı kurala uymaktadır: ölçüm yapıldığında sonuç, tüm olasılıklardan yalnızca biridir.
 
-No one really knows why this happens. One possible explanation is the Copenhagen interpretation of quantum mechanics, in which the act of measurement itself collapses all possibilities to a single one. In 1935, physicist Erwin Schrödinger published a paper that outlined his famous thought experiment as a push-back to this interpretation, by hypothetically extrapolating quantum effects on a microscopic level to an everyday macroscopic object: a cat.
+No one really knows why this happens. One possible explanation is the Copenhagen interpretation of quantum mechanics, in which the act of measurement itself collapses all possibilities to a single one. In 1935, physicist Erwin Schrödinger published a paper that outlined his famous thought experiment as a push-back to this interpretation, by hypothetically extrapolating quantum effects on a microscopic level to an everyday macroscopic object: a cat.Kimse bunun neden gerçekleştiğini bilmiyor. Olası açıklamalardan bir tanesi, ölçme eyleminin kendisinin, tüm olasılıkları tek bir olasılıkta birleştirdiğini belirten quantum mekaniğinin Kopenhag yourumudur. 1935'te fizikçi Erwin Schrödinger, 
 
 In the original thought experiment, a radioactive substance is used instead of a qubit (or a Whiskertese marble). Radioactive substances decay according to probabilities, just like a qubit reduces to a certain state according to probabilities.
 
