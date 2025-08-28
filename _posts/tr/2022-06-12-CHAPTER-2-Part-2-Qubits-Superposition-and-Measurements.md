@@ -162,7 +162,7 @@ Bu ek Qiskit kodunu kullanarak bir Whiskerton bilyesini simüle edebilirsiniz. B
 Bu kodu iki şekilde çalıştırabilirsiniz:
 
 - Bulutta: bulut tabanlı bir araç kullanmayı seçebilirsiniz [Google Colab](https://colab.research.google.com/) veya [qBraid](https://www.qbraid.com/). 
-- Yerel olarak: [Qiskit kurup](https://qiskit.org/) kodu yerel cihazınızda çalıştırabilirsiniz.
+- Yerel olarak: [Qiskit](https://qiskit.org/) kurup kodu yerel cihazınızda çalıştırabilirsiniz.
 
 Daha fazla kurulum ayrıntısı için bu blog gönderisine bakabilirsiniz: [
 Explore newly recommended notebook environments for Qiskit](https://www.ibm.com/quantum/blog/qiskit-notebook-environments)
