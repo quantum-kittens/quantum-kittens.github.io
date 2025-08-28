@@ -78,7 +78,7 @@ Dikkat ederseniz ketin içerisindeki tek şey $\psi$ değildir. Denklemde 0 ve 1
 
 Artı işareti bir kombinasyon olduğunu belirtiyor, ya da süperpozisyon. $\alpha_{0}$ ve $\alpha_{1}$ parametrelerine *genlikler* deniliyor, ve bunlar bize kübitin ölçümden sonra $\ket{0}$ durumunda ya da $\ket{1}$ durumunda olmaya ne kadar yatkın olduğunu bildiriyor. Buradaki $\alpha$ ile Yunan harfi olan alpha belirtiliyor.
 
-Matematiksel olarak, eğer genliklerin karesini alırsak, her bir temel duruma karşılık gelen olasılıkları elde ederiz. Yani, $\ket{\psi}$ durumundaki bir kübiti ölçerseniz, 0 durumunu $\alpha_{0}^2$ olasılıkla, veya 1 durumunu $\alpha_{1}^2$ olasılıkla edersiniz. [^fn-nth-3]
+Matematiksel olarak, eğer genliklerin karesini alırsak, her bir temel duruma karşılık gelen olasılıkları elde ederiz. Yani, $\ket{\psi}$ durumundaki bir kübiti ölçerseniz, 0 durumunu $\alpha_{0}^2$ olasılıkla, veya 1 durumunu $\alpha_{1}^2$ olasılıkla elde edersiniz. [^fn-nth-3]
 
 [^fn-nth-3]: Üst simge 2, bir "kare" belirtir, bu bir sayının kendisiyle olan çarpımına denir. Bu da, $\alpha_{0}^2=\alpha_{0}*\alpha_{0}$ olur.
 
