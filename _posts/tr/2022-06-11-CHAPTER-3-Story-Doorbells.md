@@ -37,55 +37,55 @@ O sırada, şaşırtıcı olmayan bir şekilde Luna, Soya'yı zil bölmesinin i�
 
 Şaşırtıcı olmayacak bir şekilde sese, yavru kedileri kahkaha krizlerine sokan gürültülü birer *bam!* ve *karışmış iplik* eşlik etti.
 
-![](/assets/imgs/Ladybug_ceiling.png){: style="max-width: 200px" .left} True to his nature, Blade had leapt reflexively at the sudden peal, bopping his head on the ceiling. Unbeknownst to him, the suspicious spot had transferred itself to his forehead in the process. Transferred itself, because the suspicious spot was in reality a ladybug who had, in the spur of the moment, decided to test whether perching on a cat’s head was more fun than perching on a ceiling.
+![](/assets/imgs/Ladybug_ceiling.png){: style="max-width: 200px" .left} Doğası gereği Blade, ani çınlama sesiyle refleksif bir şekilde sıçramış ve başını tavana çarpmıştı. Haberi olmadan şüpheli leke bu esnada alnına da sıçramıştı. Sıçramıştı çünkü, şüpheli nokta aslında bir uğur böceğiydi ve o an bir kedinin kafasına tünemenin tavanda durmaktan daha eğlenceli olup olmadığını test etmeye karar vermişti.
 
-Blade glared and grumbled—first at bopping his head and then at the now-blank ceiling—before heading to the front door.
+Blade, önce kafasını çarptığına, sonra da artık bomboş olan tavana homurdanarak ters ters baktı ve ardından ön kapıya yöneldi.
  
-When he opened the door to an empty porch, he groaned. *Infernal kittens, I bet it was them. Disturbing my suspicious spot scrutinization. Now I know how Mowgli feels when he watches birds.*
+Kapıyı açtığında kimsenin olmadığını gördü ve homurdandı.*Haylaz kediler, bahse girerim onlardı. Şüpheli nokta incelememi böldüler. Şimdi Mowgli'nin kuşları izlerken hissettiklerini anlayabiliyorum.*
 
-From where they hid behind a bush, Luna and Soya shared gleeful whispers and watched as the buildercat glared at the street before trudging back inside. Ringing Blade's doorbell had been so much fun, they decided to have another go of it.
+Gizlendikleri çalının arkasından Luna ve Soya, neşeyle fısıldaştılar ve inşacı kedinin sokağa bakıp içeri geri dönmesini izlediler. Blade'in kapı zilini çalmak çok eğlenceliydi, bu yüzden tekrar yapmaya karar verdiler.
 
-"Let's count to five and then ring again,” Luna said. Entanglers always took a few seconds to re-entangle the marbles once set off.
+"Beşe kadar sayalım ve tekrar çalalım," dedi Luna. Dolanıklaştırıcıları harekete geçirdikten sonra bilyeleri yeniden dolanık hâle getirmek, birkaç saniye sürerdi.
 	
-Soya nodded, and began to count: "One."
+"Soya onaylarcasına başını salladı ve saymaya başladı: "Bir."
 	
-"Two," said Luna.
+"İki," dedi Luna.
 	
-"Eight."
+"Sekiz."
 	
-"Butterfly!”
+"Kelebek!”
 	
-"Where?"
+"Nerede?"
 	
-"There."
+"Orada."
 	
-"Eee! Catch it, catch it! Left. No, right! Rightleft!” 
+"Eee! Yakala, yakala! Sol. Hayır, sağ! Sağsol!” 
 
 
 ![](/assets/imgs/Soya_Luna_Full_Illustration.png){: style="max-width: 500px"}
 	
 
-Luna attempted to snatch a glimmering butterfly from the air, Soya contributing unhelpful albeit enthusiastic remarks. They spent a few breezy moments like this before Luna remembered why they were there.
+Soya'nın coşkulu ama faydasız açıklamalarıyla Luna, havada parıldayan bir kelebeği yakalamaya çalıştı. Böyle birkaç keyifli an geçirip durdular, ta ki Luna neden orada olduklarını hatırlayana kadar.
 	
-"Wait,” Luna said. “Let's ring the bell first and then catch it?” 
+"Dur," dedi Luna. "Önce zili çalıp, sonra yakalayalım mı?"
 	
-Soya saluted.
+Soya onayladı.
 	
-They rang the doorbell once more; this time it was Luna who peered into the peephole. The marble turned red, and the ensuing *bang!* they heard from within delighted them so fiercely they forgot all about the butterfly.
+Zili bir kez daha çaldılar; bu sefer delikten bakan kişi Luna'ydı. Bilye kırmızıya döndü, ve ardından gelen *bam!* sesiyle o kadar neşelendiler ki kelebeği tamamen unuttular.
 	
-The ladybug, peeved by the sudden jolt, hopped back to the ceiling, concluding that cat heads were decidedly *not* ideal for perching after all. But Blade did not see the suspicious spot reappear above him, for he barreled to the front door, furious. 
+Uğur böceği, ani sarsılma yüzünden sinirlendi ve kedi kafalarının tünemek için uygun *olmadıklarına* kanaat getirip, tavana geri zıpladı. Ama Blade üstündeki şüpheli noktanın tekrar göründüğünü fark etmeden hışımla ön kapıya gitti, öfkelenmişti.
 	
-He flung open the door, unsurprised to find no one there, and yowled into the mid-morning sunshine: “I know it’s you, Luna! You and whichever kittens you’ve roped into bothering me. Leave me alone or I’ll… I’ll…” he glanced at the parcel still clutched in his paw. “I’ll make you run an errand!”
+Kapıyı ardına kadar açtı, kimseyi bulmadığına şaşırmadı ve öğle vakti güneş ışığına doğru bağırdı: "Senin yaptığını biliyorum Luna! Sen ve beni rahatsız etmeye ikna ettiğin diğer yavru kediler. Beni rahat bırakın, yoksa... yoksa.." pençesinde tuttuğu pakete baktı. "Sana bir iş yaptırırım!"
 	
-There was no answer, though he hadn’t really been expecting one. But he had a plan.
+Bir cevap gelmedi, zaten olmasını da beklemiyordu. Ama bir planı vardı.
 
-He pretended, with inimitable dramatic flair, to close the door. He left it a smidge open, just enough for him to peep through. 
+Benzersiz bir dramatik yetenekle, kapıyı kapatıyormuş gibi yaptı. Gözetleyebileceği şekilde, kapıyı çok az aralık bıraktı.
 
-However, Luna, being somewhat of a connoisseur of plans and pranks, anticipated this, so she turned to Soya and said:
+Ancak Luna, plan ve şaka konusunda uzman olduğu için bunu önceden tahmin edip ve Soya'ya şöyle söyledi:
 
-"It's your turn to ring the bell. Go up there! I’ll stand guard.” And when the diamond-chested, gullible kitten did just that, Luna slipped away, rapturous at this bonus prank, the sounds of a disgruntled cat berating a kitten fading behind her as she fled.
+"Zili çalma sırası sende. Hadi git! Ben arkanı kollayacağım." Ve göğsünde beyaz bir elmas deseni bulunan, saf kedi yavrusu tam da bunu yaptığında, Luna bu ekstra yaramazlıktan büyük bir sevinçle sessizce; arkasında bir kedinin kedi yavrusunu azarlarken çıkardığı homurtularla oradan uzaklaştı.
 	
-Back on the porch, beration complete, Blade pushed his parcel into a regretful Soya’s paws and set her about making the delivery. Which meant he was completely free to ponder the suspicious spot in peace.
+Verandaya geri döndüklerinde, azarlama sona ermişti, Blade paketi, pişman olan Soya'nın pençelerine bıraktı ve teslimatı yapması için onu görevlendirdi. Bu da şüpheli noktayı huzur içinde düşünmekte tamamen özgür olduğu anlamına geliyordu.
 
 _____________________________
 
@@ -96,5 +96,5 @@ _____________________________
 _____________________________
 
 
-**[Chapter 3 Part 2 - Commentary - Multiple Qubits, Entanglement, and Bell States](https://quantum-kittens.github.io/posts/CHAPTER-3-Part-2-Multiple-Qubits-Entanglement-and-Bell-States/)**
+**[Bölüm 3 Kısım 2 - Açıklama - Çoklu Kübitler, Dolanıklık, ve Bell Durumları](https://quantum-kittens.github.io/posts/CHAPTER-3-Part-2-Multiple-Qubits-Entanglement-and-Bell-States/)**
 
