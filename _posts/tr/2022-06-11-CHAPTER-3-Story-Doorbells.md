@@ -1,41 +1,41 @@
 ---
-title: 'Chapter 3 - Story - Doorbells'
+title: 'Bölüm 3 - Hikaye - Kapı Zilleri'
 ---
 
 
 
 
-While the townscats of Whiskerton delighted in uncertainty, they were privy to their own quirks and inclinations, and rather finicky about their preferences. Arya, for instance, preferred sunbathing spots with a twinge of sponginess to them, like a hard pillow or a stack of papers. If a spot didn’t meet her standards, she’d dispel a tragic sigh. There was a cat named Mowgli who took his bird watching seriously—he was known to yawp at anyone who dared talk while his eyes followed the feathered creatures’ movements. Another cat, Poh, would yawp at anyone who *didn’t* talk to him while he watched birds.
+Bıyıkkent'in kedileri belirsizlikten hoşnutken, kendi tuhaflıklarının ve eğilimlerinin farkındaydılar ve tercihleri konusunda titiz olmayı yeğlerlerdi. Örneğin Arya, sert bir yastık ya da bir kağıt yığını gibi süngerimsi bir his veren güneşlenme noktalarını tercih ediyordu. Eğer güneşlenme noktası standartlarına uymazsa, trajik bir iç çekiş duyulurdu. Kuş izlemeyi oldukça ciddiye alan Mowgli isimli bir kedi vardı ve gözleri tüylü yaratıkların hareketleri üzerindeyken konuşmaya cesaret eden herkese bağırmasıyla ün salmıştı. Başka bir kedi, Poh, kuşları izlerken kendisiyle konuşmayan herkese bağırırdı.
 
-Luna’s particular quirk was to begin each day with something that captivated her, something that kept boredom at bay, something that made her wiggle with glee. On most days, that meant darting about the town to identify changes made overnight; the town of Whiskerton would occasionally rearrange itself at night, unbeknownst to anyone until the morning after, save for the occasional cat on a midnight stroll. 
+Luna'nın kendine özgü tuhaflığı her güne onu büyüleyen bir şeyle başlamaktı, can sıkıntısını uzak tutan, onu neşeyle kıpırdatan bir şey. Çoğu gün bu, gece boyunca yapılan değişiklikleri tespit etmek için kasabanın etrafında koşuşturmak anlamına gelirdi; Bıyıkkent bazen geceleri kendi kendini yeniden düzenlerdi ve bunu, gece yarısı gezintisine çıkan bir kedi dışında, kimse ertesi sabaha kadar fark etmezdi.
 
-Each morning before breakfast—since to her there were more important things than food—Luna would zoom through the streets to discover changes. Blinded by curiosity and sprinting far more quickly than she had any business to, she’d bump into hawker carts and morning walkers and mail deliverers, drawing curses in her wake.
+Her sabah kahvaltıdan önce-onun için yemekten daha önemli şeyler olduğundan-Luna farklılıkları keşfetmek için sokakları hızlıca dolaşırdı. Meraktan kör olmuş gözleri ve yapması gerekenden çok daha hızlı dolaşarak, seyyar satıcı arabaları, sabah yürüyüşçüleri ve posta dağıtıcılarına çarpar, arkasında serzenişler bırakırdı.
 
-On this specific morning, Luna found, much to her chagrin, that the streets and trees and rocks and grass had decided to stay exactly where they were. Not one to stay chagrined or bored or otherwise unoccupied for long, she turned to her next favorite thing: pranks.
+Bu özel sabahta, Luna, büyük üzüntüsüne rağmen, caddeleri ve ağaçları ve taşları ve çimenleri tam oldukları yerde dururken buldu. Uzun süre ne üzgün, ne sıkılmış, ne de boş kalmaya dayanamayan o, bir sonraki en sevdiği şeye yöneldi: yaramazlıklara (şakalara).
 
-And one prank that never got old was ringing doorbells.
+Ve asla eskimeyen bir şaka kapı zili çalmaktı.
 
-Specifically, ringing Blade’s doorbell, as he was a cat who startled easily. Whenever someone rang his doorbell, a *bang!* could be heard from somewhere within his cottage, for he’d leap high enough to hit the ceiling. Luna, along with any kittens accompanying her, would giggle, then bolt before Blade opened the door.
+Özellikle de kolaylıkla ürken bir kedi olan Blade'in kapısını çalmak.Ne zaman biri onun kapı zilini çalsa, kulübesinden *bam!* diye bir ses duyulurdu, çünkü tavana çarpacak kadar yükseğe zıplıyordu. Luna ve ona eşlik eden diğer yavru kediler, kıkırdaşırdı ve Blade kapıyı açar açmaz fırlayıp kaçarlardı.
 
-Now, it wasn’t only Blade’s skittishness that made ringing his doorbell interesting. A Whiskertese doorbell was itself an entertaining contraption, being more extraordinary than an ordinary doorbell. The contraption had been Arya’s idea—she was clever at that sort of thing—and Blade, as her best friend, was clever at bringing Arya’s ideas to life.
+Blade'in ürkekliği kapı zilini çalmayı ilgi çekici kılan tek şey değildi. Bir Bıyıkken kapı zilinin kendisi, sıradan bir kapı zili olmaktan daha sıradışı olmasıyla birlikte zaten eğlendirici bir aletti. Bu alet Arya'nın fikriydi; o bu tür şeylerde ustaydı ve Blade de en iyi arkadaşı olarak Arya'nın fikirlerini hayata geçirmede ustaydı.
 
 ![](/assets/imgs/Doorbell_Animation.png){: style="max-width: 300px" .right}  
 
-The Whiskertese doorbells were fabricated like so: two marbles were connected by something called an *entangler*, which, true to its name, entangled the marbles. This meant if someone looked directly at one marble, then the second marble would immediately be affected—without anyone having looked at it! Each of the two marbles would be in a superposition of red and blue, but once someone observed one of them, the two marbles would turn the same color: either both red, or both blue.
+Bıyıkkent kapı zilleri şu şekilde üretiliyorlardı: iki bilye *dolanıklaştırıcı* adı verilen bir şeyle birleştiriliyordu, bu da adından da anlaşılacağı üzere bilyeleri dolanık hale getiriyordu. Birisi bilyelerden birine baktığı zaman, kimse ona bakmamış olduğu halde diğer bilyenin de anında bundan etkilendiği anlamına geliyordu! İki bilye de kırmızı ve mavinin süperpozisyonunda oluyordu, ama birisi onu gözlemlediği zaman bilyelerin ikisi de aynı renge dönüyordu: ya ikisi de kırmızı, ya da ikisi de mavi.
 
-An entangler was embedded into the front door of each home, and the two marbles were placed in compartments that hung on either side. The compartment on the outside had a peephole through which a visiting cat could observe the marble. This act would immediately affect its counterpart on the other side of the door. The second marble was connected to a sound box so that whenever it became a single color, the sound would go off.
+Her evin ön kapısına bir dolanıklaştırıcı yerleştirilmiş ve iki bilye, iki yanda asılı duran bölmelere yerleştirilmişti. Dışarıdaki bölmede, ziyarete gelen bir kedinin mermeri görebileceği bir gözetleme deliği vardı. Bu eylem kapının diğer tarafındaki bilyeyi anında etkilerdi. İkinci bilye bir renge dönüştüğü zaman bağlı olduğu müzik kutusundan ses çıkmaktaydı.
 
-The adult townscats loved their doorbells, but the kittens loved them even more. Luna, especially, relished in how she could immediately change the state of a marble without having looked at it by gazing at another marble. And in how that change released a chiming sound to summon a cottage’s occupant.
+Yetişkin kediler kendi kapı zillerini çok severlerdi ama yavru kediler çok daha fazla severlerdi. Özellikle Luna, bir bilyeye bakmadan başka bir bilyeye bakarak bilyenin durumunu anında değiştirebilmesinden fazlalıkla keyif alırdı. Ve bu değişimin, kulübenin sakinine haber vermek için çınlayan bir ses çıkarmasından...
 
-With doorbells and Blade and marvelous sounds foremost in her mind, Luna went in search of an accomplice. She happened upon Soya, a timid but curious black kitten with a white diamond on her chest, who adored rustling plastic and reclining on high perches. Soya was attempting to climb her way up the side of Town Hall for a bit of reclining when Luna found her.
+Kapı zilleri ve Blade ve aklından geçen harika seslerle birlikte Luna, bir suç ortağı aramaya koyuldu. Tesadüfen Soya'ya rastladı, göğsünde beyaz bir elmas bulunan, hışırdayan plastikleri ve yüksek yerlerde uzanmayı seven, çekingen ama meraklı siyah bir kedi yavrusu. Luna onu bulduğunda soya, biraz uzanmak için Belediye Binası'nın yan tarafına tırmanmaya çalışıyordu.
 
-“Hihihi,” Luna called. “Up for some mischief, Soya?” Soya, being a kitten, was of course always up for some mischief. Not moments later, the two scurried towards a certain buildercat’s home. 
+"Hihihi," diye seslendi Luna. "Biraz yaramazlığa var mısın, Soya?" Bir yavru kedi olarak Soya için yaramazlığa her zaman yer vardı. Vakit kaybetmeden, inşacı kedinin evine doğru koşturmaya başladılar.
 
-Unsuspecting Blade was in his kitchen, staring intently at a suspicious spot on his ceiling. He clutched a small parcel in a paw because he was supposed to be delivering a custom build to one of the townscats, but he couldn’t tear his eyes away from that spot. He just *had* to figure out what it was!
+Süphesiz Blade, mutfağındaydı ve tavandaki şüpheli bir noktaya dikkatle bakıyordu. Kasabanın kedilerinden biri için özel yapılmış bir ürün teslim etmesi gerektiğinden, patisinde küçük bir paket tutuyordu, ama gözlerini o noktadan ayıramıyordu. Ne olduğunu anlaması gerekti!
 
-Meanwhile, on the front porch, Luna nudged Soya to peer inside the bell compartment. The marble within turned blue, as did the marble on the other side of the door, and the doorbell rang. 
+O sırada, şaşırtıcı olmayan bir şekilde Luna, Soya'yı zil bölmesinin içine bakması için dürttü. Bilye mavi renge döndü, dolayısıyla kapının öteki tarafındaki bilye de aynı şekilde mavi renge döndü ve kapı zili çaldı.
 
-The sound was, unsurprisingly, accompanied by a loud *bang!* and a “Twisted yarn!” which launched the kittens into fits of giggles.
+Şaşırtıcı olmayacak bir şekilde sese, yavru kedileri kahkaha krizlerine sokan gürültülü birer *bam!* ve *karışmış iplik* eşlik etti.
 
 ![](/assets/imgs/Ladybug_ceiling.png){: style="max-width: 200px" .left} True to his nature, Blade had leapt reflexively at the sudden peal, bopping his head on the ceiling. Unbeknownst to him, the suspicious spot had transferred itself to his forehead in the process. Transferred itself, because the suspicious spot was in reality a ladybug who had, in the spur of the moment, decided to test whether perching on a cat’s head was more fun than perching on a ceiling.
 
