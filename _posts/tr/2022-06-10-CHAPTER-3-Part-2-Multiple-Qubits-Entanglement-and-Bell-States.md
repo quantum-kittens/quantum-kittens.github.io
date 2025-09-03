@@ -1,33 +1,33 @@
 ---
-title: 'Chapter 3 Part 2 - Commentary - Multiple Qubits, Entanglement, and Bell States'
+title: 'Bölüm 3 Kısım 2 - Açıklama - Birden Fazla Kübit, Dolanıklık, ve Bell Durumları'
 math: true
 ---
 
 
-There isn’t much you can do with a single classical bit. Information processing and algorithms usually require more units of information. For instance, down at the machine level, an image on your social media feed is not represented by a single bit. It is represented by *many* bits, many 0’s and 1’s, long strings of bits, and it is those bit strings that are transmitted across the internet and processed by your devices.
+Tek bir klasik bit ile yapabileceğiniz çok bir şey yoktur. Bilgi işlem ve algoritmalar genellikle daha fazla bilgi birimine ihtiyaç duyar. Mesela, makine seviyesinde, sosyal medya akışınızdaki bir görsel tek bir bit ile gösterilmez. *Birçok* kübit ile gösterilir, birçok 0 ve 1'le, uzun bit dizileriyle ve bu bit dizileri internet üzerinden iletildikten sonra, cihazlarınız tarafından işlenir.
 
-In a similar fashion, there isn’t much you can do with a single qubit, no matter how fancy a qubit may seem. In fact, the potential advantage of quantum computing over classical computing in certain contexts lies in being able to one day create processors with hundreds and maybe thousands of stable, perfect qubits.
+Her ne kadar havalı görünse de, benzer bir yapıda, tek bir kübit ile de yapabileceğiniz pek bir şey yoktur. Hatta, kuantum hesaplamanın belirli bağlamlarda klasik hesaplama üzerindeki potansiyel avantajı, bir gün yüzlerce hatta binlerce kararlı ve mükemmel kübite sahip işlemciler üretebilme olasılığında yatmaktadır.
 
-Therefore, most quantum computing protocols involve more than one qubit, the way the doorbells of Whiskerton involve more than one marble. Granted, the doorbells of Whiskerton are still very simple quantum systems with only two marbles, whereas some of the algorithms designed for future quantum computers involve loads more. Nonetheless, these doorbells illustrate something that even more complex protocols make use of: a quantum phenomenon that has no analog in the classical world, *quantum entanglement*.
+Bu sebepten, çoğu kuantum hesaplama protokolü birden fazla kübit içermektedir, Bıyıkkent'in kapı zillerinin birden fazla bilye içermesindeki gibi. Bıyıkkent'in kapı zilleri yalnızca iki bilye içeren basit sistemler, oysa gelecekteki kuantum bilgisayarlar için tasarlanan bazı algoritmalar çok daha fazlasını gerektiriyor. Bununla birlikte, bu kapı zilleri çok daha karmaşık bir şeyi temsil ediyor: klasi dünyada karşılığı olmayan bir kuantum olgusu, *kuantum dolanıklığı*.
 
-## What is Quantum Entanglement?
+## Quantum Dolanıklığı Nedir?
 
-Quantum entanglement describes a peculiar connection or relationship between quantum systems. If two quantum systems are entangled, they are connected in such a way that their states cannot be described independently, and performing measurements on one system will affect the other, even if the second system isn’t nearby. 
+Kuantum dolanıklığı, kuantum sistemleri arasındaki tuhaf bir bağlantıyı ya da ilişkiyi tanımlar. İki kuantum sistemi dolanık ise, öyle bir şekilde birbirine bağlıdırlar ki, durumlarından bağımsız olarak tanımlanamazlar ve bir sistem üzerinde ölçüm yapmak, diğeri yakında olmasa bile onu etkiler.
 
-In essence, the following is possible in the quantum world:
+Esasen, kuantum dünyasında mümkün olan şeyler şunlardır:
 
-> Even if two qubits (or quantum systems) are too far apart to influence each other, they can still be correlated in such a way that tampering with one immediately affects the other.
+> İki kübit (ya da kauntum sistemleri) birbirlerini etkileyemeyecek kadar bile birbirinden uzak olsalar, öyle bir şekilde korelasyonludurlar ki, birine müdahale edildiğinde hemen diğerini etkiler.
 {: .prompt-tip }
 
-The two marbles in a Whiskertese doorbell are entangled. Remember that if one turns red, the second one does as well, even though the two are in separate boxes. No one needs to look directly at the second marble in order for it to reduce to a single color.  
+Bıyıkkent kapı zilindeki iki bilye dolanıktı. Hatırlayın biri kırmızı renge döndüğünde, ikisi farklı kutularda oldukları halde diğeri de kırmızı renge dönüyordu. İkinci bilyenin tek bir renge dönüşmesi için, kimsenin ikinci bilyeyi gözlemlemesine gerek kalmıyordu.
 
-This entanglement isn’t quite like the correlations we see in our everyday lives. In our classical world, if you have two marbles in an opaque bag, one red and one blue, and you pull out the blue one, you would know immediately that the red one was still in the bag. That’s classical correlation, the type of correlation we experience on the daily. 
+Bu dolanıklık, günlük hayatımızda karşılaştığımız korelasyonlara tam olarak benzemiyor. Bizim klasik dünyamızda, saydam bir poşette biri kırmızı biri mavi iki bilyen varsa, mavi olanı çıkarttığında, kırmızı olanın hala poşette olup olmadığını o anda bilebilirsin. Bu klasik korelasyon, bizim günlük hayatta karşılaştığımız çeşitte bir korelasyon.
 
-However, quantum entanglement doesn’t behave like classical correlations. There are nuances to it that don’t translate to our everyday experience. For one, if the marbles were Whiskertese marbles, then they wouldn’t be a single color in the first place. The marble you pull out of the bag would be in a superposition until you looked at it. Only once the marble in your hand reduces to a single color would the marble in the bag change, even if the bag was taken far away from you. [^fn-nth-1]
+Ancak, kuantum dolanıklığı klasik korelasyon gibi davranmıyor. Günlük yaşantımıza doğrudan çevrilemeyecek bazı farklılıklara sahip. Bu farklılıklardan biri, eğer bilyeler Bıyıkkent bilyesi olsaydı, öncelikle tek bir renkte olmazlardı. Poşetten çektiğin bilye, doğrudan bakana kadar (gözlemleyene kadar) süperpozisyonda olurdu. Elindeki bilye tek bir renge indirgenir indirgenmez, poşetteki bilye de değişecektir, poşet senden çok uzağa götürülmüş olsa bile. [^fn-nth-1]
 
-[^fn-nth-1]: There are other nuances to entanglement as well, and two quantum systems that are very, very far apart must also be what is known as *non-local* to influence one another, but those are explorations for another day.
+[^fn-nth-1]: Dolanıklık için daha başka farklılıklar da mevcut, birbirinden çok ama çok uzak iki kuantum sistemi birbirini etkileyebilmek için *yerel olmama (non-local)* denilen özelliğe de sahip olmalıdır, fakat bunlar başka bir günün konusudur.
 
-Since we’re talking about two entities immediately influencing one another despite distance between them, at this point you may rightfully wonder: does this mean we can send information faster than light? Unfortunately, the answer is no.
+Aralarındaki mesafeye rağmen birbirini anında etkileyen iki varlıktan bahsettiğimize göre, bu noktada haklı olarak şunu merak edebilirsiniz: Bu, bilgiyi ışıktan daha hızlı gönderebileceğimiz anlamına mı geliyor?Maalesef cevap hayır.
 
 The catch is that simply performing any old type of measurement won’t work—yes, there are different *types* of measurements! The varying types of measurements are beyond the scope of the current text, but suffice it to say that if you and a friend who lives far away share an entangled pair, then the type of measurement you perform on your part of the pair must be conveyed to your friend somehow. If your friend doesn’t know which type of measurement to perform on their part, they won’t be able to ‘see’ the expected result! So some sort of communication must take place, say, through a telephone call. Which…cannot happen faster than light.
 
