@@ -29,46 +29,46 @@ Ancak, kuantum dolanıklığı klasik korelasyon gibi davranmıyor. Günlük ya�
 
 Aralarındaki mesafeye rağmen birbirini anında etkileyen iki varlıktan bahsettiğimize göre, bu noktada haklı olarak şunu merak edebilirsiniz: Bu, bilgiyi ışıktan daha hızlı gönderebileceğimiz anlamına mı geliyor?Maalesef cevap hayır.
 
-The catch is that simply performing any old type of measurement won’t work—yes, there are different *types* of measurements! The varying types of measurements are beyond the scope of the current text, but suffice it to say that if you and a friend who lives far away share an entangled pair, then the type of measurement you perform on your part of the pair must be conveyed to your friend somehow. If your friend doesn’t know which type of measurement to perform on their part, they won’t be able to ‘see’ the expected result! So some sort of communication must take place, say, through a telephone call. Which…cannot happen faster than light.
+İşin can alıcı noktası şu ki, rastgele uygulanan eski tip bir ölçümün işe yaramayacağıdır, ve evet başka *tür* ölçümler de vardır! Çeşitli ölçüm türleri konumuz dışında ama şunu söylemek yeterli, sen ve senden çok uzakta yaşayan bir arkadaşın dolanık bir çift paylaşıyorsanız, o zaman senin parçacığına uyguladığın ölçüm türünü bir şekilde arkadaşına iletmen gerekir. Arkadaşın hangi ölçüm türünü uygulayacağından bihaberse, beklenen sonucu 'göremez'. Yani telefon görüşmesi gibi başka bir yolla bir şekilde iletişimde olmanız gerekir. Ki...bu da ışıktan daha hızlı olamaz.
 
->If you’d like to dive a little deeper into quantum entanglement, read on! Otherwise, head on over to the next page: [Who Gets the Cardboard Box?](https://quantum-kittens.github.io/posts/Who-Gets-the-Cardboard-Box/).
+>Kuantum dolanıklığını daha detaylı incelemek isterseniz, okumaya devam edin. Aksi takdirde, yeni sayfaya geçelim: [Karton Kutu Kimin Olacak?](https://quantum-kittens.github.io/posts/Who-Gets-the-Cardboard-Box/).
 {: .prompt-info }
 
 _______
 
-## Mathematical Representation of Multi-Qubit States
+## Birden Fazla Kübit İçeren Durumların Matematiksel Gösterimi
 
-Multiple qubit states are represented in a similar manner to single qubit states. We’ll focus on two-qubit states since Whiskerton doorbells have two qubits, but the representation holds for even higher numbers.
+Birden fazla kübit içeren durumlar, tek kübit içeren durumlara benzer bir gösterime sahiptir. Bıyıkkent kapı zilleri iki kübite sahip olduğundan biz de iki kübitli durumlara odaklanacağız ama gösterim daha fazla sayıda kübit için de geçerlidir.
 
 
-Recall the equation for an arbitrary single qubit state from [Chapter 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/):
+[Bölüm 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)'de verilen keyfi, tek kübit durumu için olan denklemi hatırlayalım:
 
 
 \begin{equation}
 \ket{\psi}=\alpha_{0}\ket{0}+\alpha_{1}\ket{1}
 \end{equation}
 
-In this equation, the basis states are analogous to the two values a classical bit can have: 0 and 1. And a qubit can be in a superposition of the two basis states. 
+Bu denklemde, temel durumlar klasik bir bitin sahip olabileceği iki değere benzemektedir: 0 ve 1. Ve bir kübit, iki temel(baz) durumun süperpozisyonunda bulunabilir. 
 
-In order to understand how to represent a two-qubit state, let’s look at all the possible values of two classical bits. Two bits, combined, can have one of four values: 00, 01, 10, or 11. Just like the single qubit case, these four values correspond to four basis states. Two qubits can be in one of these four states or they can be in a superposition of these states! Therefore, an arbitrary two-qubit state can be represented by the following equation:
+İki kübitlik bir durumun nasıl gösterildiğini anlamak için, iki klasik bitin tüm olası değerlerini inceleyelim. Birleştirilmiş, iki bit, bu dört değerden birini alabilir: 00, 01, 10, ya da 11. Tek kübitlik durumda olduğu gibi, bu dört değer de dört temel duruma karşılık gelir. İki kübit, bu dört durumdan birinde ya da bu durumların süperpozisyonunda olabilir! Dolayısıyla, keyfi iki kübitlik bir durum şu denklem ile gösterilebilir:
 
 \begin{equation}
 \ket{\psi}=\alpha_{00}\ket{00}+\alpha_{01}\ket{01}+\alpha_{10}\ket{10}+\alpha_{11}\ket{11}
 \end{equation}
 
-Just like the equation for a single qubit, $\alpha_{00}^2$ is the probability that the two qubits will yield the outcome 00 after measurement. Similarly for the other three basis states. Once again, the laws of probability dictate that $\alpha_{00}^2+\alpha_{01}^2+\alpha_{10}^2+\alpha_{11}^2=1$. 
+Tıpkı tek kübit için olan denklem gibi $\alpha_{00}^2$, iki kübitin ölçümden sonra 00 çıktısını getirmesinin olasığını gösterir. Bu, diğer üç temel durum için benzerdir. Bir kez daha olasılık yasaları $\alpha_{00}^2+\alpha_{01}^2+\alpha_{10}^2+\alpha_{11}^2=1$ olmasını gerektirir.
 
-## Entanglement and Bell States
+## Dolanıklık ve Bell Durumları
 
-Simply having two qubits in hand is not enough to consider them entangled. The qubits have to be in specific states in order to be considered entangled, which means there are certain $\alpha$ values that imply entanglement. 
+Elinizde sadece iki kübit olması, bunların dolanık olduğunu düşünmeniz için yeterli değildir. Kübitlerin dolanık olduğunu söylemek için özel durumlarda bulunmaları gerekir, bu da dolanıklığı gerektiren belirli $\alpha$ durumları olduğu anlamına gelir.
 
-For instance, in order to represent the entangled state of a Whiskertese doorbell, $\alpha_{01}=\alpha_{10}=0$ and the other two, $\alpha_{00}$ and $\alpha_{11}$, must be equal with their squares adding up to 1.
+Örneğin, Bıyıkkent'in kapı zillerininin dolanık durumunu temsil etmek için $\alpha_{01}=\alpha_{10}=0 ile diğer ikisinin $\alpha_{00}$ ve $\alpha_{11}$ karelerinin toplamının 1'e eşit olması gerekir.
 
-Let’s break this down. In a Whiskertese doorbell, the marbles become the same color after the outer marble is directly observed. If the marbles can only become the same color, then only two possible states are allowed: $\ket{red, red}$ and $\ket{blue, blue}$. The first position in each $\ket{}$ represents the outer marble, and the second position represents the inner marble. The state $\ket{red, blue}$ is illegal and can never happen within the doorbell apparatus, and so, the probability associated with it is zero. Same for $\ket{blue, red}$.
+Hadi bunu adım adım inceleyelim. Bir Bıyıkkent kapı zilinde bilyeler, dışarıdaki bilye doğrudan gözlemlendiğinde (bakıldığında) aynı renk olurlar. Eğer ki bilyeler yalnızca aynı renk olabiliyorsa o zaman yalnızca iki olası durum vardır: $\ket{kırmızı, kırmızı}$ and $\ket{mavi, mavi}$. Her iki $\ket{}$'te de birinci değerler dışarıdaki bilyeyi temsil eder, ve ikinci değerler içerideki bilyeyi temsil eder. $\ket{kırmızı, mavi}$ durumu yasaktır ve kapı zili aparatında asla gerçekleşemez, dolayısıyla bu duruma tanımlanan olasılık sıfırdır. Aynısı $\ket{mavi, kırmızı}$ için de geçerlidir.
 
-This means the only non-zero probabilities are the ones associated with $\ket{red, red}$ and $\ket{blue, blue}$, and since Whiskertese marbles have a 50-50 chance of becoming either color, the two probabilities must be equal.
+Bu yalnızca sıfır-olmayan olasılıkların $\ket{kırmızı, kırmızı}$ ile $\ket{mavi, mavi}$'ye tanımlandığı anlamına gelir ve Bıyıkkent bilyelerinin renklerden birine dönme şansı yarı-yarıya olduğundan, olasılıklar eşit olmalıdır.
 
-So here is what that state looks like:
+Yani durumlar böyle görünmektedir:
 
 
 \begin{equation}
@@ -76,21 +76,21 @@ So here is what that state looks like:
 \label{eq:bellstate}
 \end{equation}
 
-The marbles are in what is known as a "Bell state”—named after the physicist John S. Bell, and *not* because this is the state of the doorbells in Whiskerton. The above equation is what this particular Bell state looks like mathematically, where $\phi^+$ is a naming convention. [^fn-nth-2]
+Bilyeler, "Bell durumundadır" bu durum Bıyıkkent'in kapı zillerinden('zil' kelimesinin İngilizce karşılığı 'bell' dir) dolayı *değil*, fizikçi John S. Bell'in adından dolayı "Bell durumu" olarak isimlendirilmiştir. Yukarıdaki denklem, bu özel Bell durumunun matematiksel olarak nasıl göründüğünü gösterir; burada $\phi^+$ bir adlandırma kuralıdır.[^fn-nth-2]
 
-[^fn-nth-2]: This is what the Bell state looks like mathematically in the *computational basis*, which is a reference to the type of measurement required to ‘see’ the outcome. There are different bases associated with different types of measurements.
+[^fn-nth-2]: Bu, Bell durumunun *hesaplama temelinde(bazında)* matematiksel olarak nasıl göründüğüdür; ki bu da sonucu ‘görmek’ için gereken ölçüm türüne bir göndermedir. Farklı ölçüm türleriyle ilişkili farklı bazlar mevcuttur.
 
-As you can see, there's an equal probability for either of the two basis states $\ket{00},\ket{11}$ to occur, before the first qubit is measured. But when the first qubit becomes either $\ket{0}$ or $\ket{1}$, then the second one has no choice but to follow. In this manner the outcomes are correlated, and the qubits are entangled. 
+Gördüğünüz üzere, ilk kübit ölçülmeden önce, iki baz durumundan $\ket{00},\ket{11}$ herhangi birinin oluşma olasılığı eşittir. Ama ne zaman ilk kübit $\ket{0}$ ya da $\ket{1}$ olursa, o zaman ikinci kübitin diğerini takip etmekten başka seçeneği yoktur. Bu şekilde sonuçlar birbirleriyle ilişkilenir (korele olur) ve kübitler dolanık hale gelir.
 
-At this point it is important to note that this isn't the only Bell state; there are others. For instance, one of the other Bell states involves the second qubit always becoming the *opposite* of what the first becomes! But that's not how the entangled marbles of Whiskerton's doorbells behave.
+Bu noktada şunu belirtmek önemli ki tek Bell durumu bu değil, başka Bell durumları da mevcuttur. Örneğin, diğer Bell durumlarından birinde ikinci kübit her zaman birincisinin aldığı değerin *zıttı* olur! Ancak, Bıyıkkent'in kapı zillerinin dolanık bilyelerinin davranışları böyle değildir.
 
-These two-qubit pairs that are in Bell states are called EPR pairs, after physicists Albert Einstein, Boris Podolsky, and Nathan Rosen. EPR pairs and entanglement are a valuable resource for theoretical and potential quantum computing applications like quantum cryptography, superdense coding, and quantum teleportation. [^fn-nth-3]
+Bell durumlarındaki ikili-kübit çiftleri, fizikçiler Albert Einstein, Boris Podolsky, ve Nathan Rosen'a ithafen, ERP çiftleri olarak adlandırılmışlardır. ERP çiftleri ve dolanıklık, teorik fizik ile kuantum kriptografi, süper yoğun kodlama ve kuantum ışınlanma(teleportasyon) gibi potansiyel kuantum hesaplama uygulamaları için değerli kaynaklardır. [^fn-nth-3]
 
-[^fn-nth-3]: Teleportation in this context is not the teleportation you find in Star Trek. We plan to explore this application in a future story!
+[^fn-nth-3]: Burada belirtilen ışınlanma, Star Trek'de bulabileceğin bağlamda bir ışınlanma değildir. Bu uygulama alanından, ileriki bir hikayede bahsetmeyi planlıyoruz!
  
-## Quick Note on Physical Entangled Qubits
+## Fiziksel Dolaşık Kübitler Hakkında Kısa Bir Not
  
-Physically constructing entangled qubits in the lab depends on what you use for qubits. For instance, two photons from a single source, generated in a specific manner, may emerge entangled. There's no single universal 'entangler' the way there is in Whiskerton. And, more accurately, no one actually calls these sources 'entanglers'! Well, apart from cats.
+Laboratuvarda dolaşık kübitleri fiziksel olarak oluşturmak, hangi tür kübit kullandığınıza bağlıdır. Örneğin, tek bir kaynaktan çıkan, özel bir şekilde üretilen iki foton, dolanık halde ortaya çıkabilir. Bıyıkkent'te olduğu gibi genel, tek bir 'dolanıklaştırıcı' yoktur. Ve doğrusu, aslında kimse bu kaynaklara ‘dolanıklaştırıcı’ demez! Kediler hariç.
  
 _____________________________
 
@@ -101,46 +101,46 @@ _____________________________
 _____________________________
 
 
-**[Next: Who Gets the Cardboard Box?](https://quantum-kittens.github.io/posts/Who-Gets-the-Cardboard-Box/)**
+**[Sırada: Karton Kutu Kimin Olacak?](https://quantum-kittens.github.io/posts/Who-Gets-the-Cardboard-Box/)**
  
 ________
 
-## Qiskit Code
+## Qiskit Kodu
 
-You can simulate a Whiskerton doorbell using the following code. By using this code, you will learn how to create the quantum circuit corresponding to the Bell state.
+Sıradaki kodu kullanarak bir Bıyıkkent kapı zilini simüle edebilirsiniz. Bu kodu kullandığınızda, Bell durumlarına karşılık gelen kuantum devrelerini oluşturmayı öğreneceksiniz.
 
-The below code is also available as a jupyter notebook [here](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_3.ipynb).
+Aşağıdaki kod aynı zamanda jüpyter notebook olarak da mevcuttur [buradan ulaşabilirsiniz](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_3.ipynb).
 
  ```python
-# Import necessary Qiskit libraries
+# Gerekli Qiskit kütüphanelerini içeri aktaralım
 
 from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister
 
-#Create Doorbell Entangler Circuit
+#Kapı Zili Dolanıklaştırıcı Devresi Oluştur 
 
-qubits = QuantumRegister(2, name='q') # Create a quantum register with 2 qubits (Whiskertese marbles) and name the register 'q'
+kubitler = QuantumRegister(2, name='q') # İki kübit(Bıyıkkent bilyeleri) ile bir kuantum kaydı oluştur ve kaydı 'q' olarak isimlendir 
 
-classical_bits = ClassicalRegister(2, name='c') # Create a classical register with 2 bits and name the register 'c' (to eventually store the measurement outcome)
+classical_bits = ClassicalRegister(2, name='c') # İki bit ile bir klasik kayıt oluştur ve kaydı 'c' olarak isimlendir (Ölçüm sonuçlarını saklamak için)
 
-q0, q1 = qubits # Label the two qubits in the register 'q0' and 'q1'
+q0, q1 = kubitler # Kayıttaki iki kübiti 'q0' ve 'q1' olarak etiketle
 
-c0, c1 = classical_bits
+c0, c1 = klasik_bitler
 
-doorbell_circuit = QuantumCircuit(qubits, classical_bits) # Create a circuit with the quantum and classical registers.
+kapizili_devresi = QuantumCircuit(kubitler, klasik_bitler) # Kuantum ve klasik kayıtlarla bir devre oluştur.
 
-doorbell_circuit.h(q0) # Add a Hadamard gate to the first qubit 
+kapizili_devresi.h(q0) # İlk kübite bir Hadamard kapısı uygula
 
-doorbell_circuit.cx(q0,q1) # Add a cnot gate with the first qubit as the control and the second qubit as the target. The target flips its state when the control is in the 1 state.
+kapizili_devresi.cx(q0,q1) # İlk kübit kontrol ve ikinci kübit hedef kübit olacak şekilde bir cnot kapısı uygula. Kontrol kübit 1 durumundaysa, hedef kübitin durumu ters çevrilir.
 
-doorbell_circuit.measure([q0,q1],[c0,c1]) # Add measurement operators (this is equivalent to a cat looking directly at the outer marble).
+kapizili_devresi.measure([q0,q1],[c0,c1]) # Ölçüm operatörleri ekle (bu bir kedinin dışarıdaki bilyeye doğrudan bakmasına eşdeğerdir).
 
-doorbell_circuit.draw('mpl') # See how the circuit looks.
+kapizili_devresi.draw('mpl') # Devrenin nasıl göründüğüne bak.
 
 ```
 
 
-As an exercise, run this circuit in a similar way to the marble circuit in [Chapter 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)!
+Alıştırma olarak, bu devreyi Bölüm 2'deki bilye devresine benzer bir şekilde çalıştırın [Bölüm 2](https://quantum-kittens.github.io/posts/CHAPTER-2-Part-2-Qubits-Superposition-and-Measurements/)!
 
-*Note: the Qiskit code provided is open source, and does not fall under the copyright of Quantum Kittens.*
+*Not: Kullanılan Qiskit kodu açık kaynaklıdır, ve Quantum Kittens'ın telif hakkı kapsamına girmez.*
 
 
