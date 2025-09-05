@@ -76,7 +76,7 @@ Yani durumlar böyle görünmektedir:
 \label{eq:bellstate}
 \end{equation}
 
-Bilyeler, "Bell durumundadır" bu durum Bıyıkkent'in kapı zillerinden('zil' kelimesinin İngilizce karşılığı 'bell' dir) dolayı *değil*, fizikçi John S. Bell'in adından dolayı "Bell durumu" olarak isimlendirilmiştir. Yukarıdaki denklem, bu özel Bell durumunun matematiksel olarak nasıl göründüğünü gösterir; burada $\phi^+$ bir adlandırma kuralıdır.[^fn-nth-2]
+Bilyeler, "Bell durumundadır" bu durum Bıyıkkent'in kapı zillerinden-'zil' kelimesinin İngilizce karşılığı 'bell'dir-dolayı *değil*, fizikçi John S. Bell'in adından dolayı "Bell durumu" olarak isimlendirilmiştir. Yukarıdaki denklem, bu özel Bell durumunun matematiksel olarak nasıl göründüğünü gösterir; burada $\phi^+$ bir adlandırma kuralıdır.[^fn-nth-2]
 
 [^fn-nth-2]: Bu, Bell durumunun *hesaplama temelinde(bazında)* matematiksel olarak nasıl göründüğüdür; ki bu da sonucu ‘görmek’ için gereken ölçüm türüne bir göndermedir. Farklı ölçüm türleriyle ilişkili farklı bazlar mevcuttur.
 
