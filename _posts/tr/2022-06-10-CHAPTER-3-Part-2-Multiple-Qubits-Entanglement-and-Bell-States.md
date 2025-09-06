@@ -84,9 +84,9 @@ Gördüğünüz üzere, ilk kübit ölçülmeden önce, iki baz durumundan $\ket
 
 Bu noktada şunu belirtmek önemli ki tek Bell durumu bu değil, başka Bell durumları da mevcuttur. Örneğin, diğer Bell durumlarından birinde ikinci kübit her zaman birincisinin aldığı değerin *zıttı* olur! Ancak, Bıyıkkent'in kapı zillerinin dolanık bilyelerinin davranışları böyle değildir.
 
-Bell durumlarındaki ikili-kübit çiftleri, fizikçiler Albert Einstein, Boris Podolsky, ve Nathan Rosen'a ithafen, ERP çiftleri olarak adlandırılmışlardır. ERP çiftleri ve dolanıklık, teorik fizik ile kuantum kriptografi, süper yoğun kodlama ve kuantum ışınlanma(teleportasyon) gibi potansiyel kuantum hesaplama uygulamaları için değerli kaynaklardır. [^fn-nth-3]
+Bell durumlarındaki ikili-kübit çiftleri, fizikçiler Albert Einstein, Boris Podolsky, ve Nathan Rosen'a ithafen, ERP çiftleri olarak adlandırılmışlardır. ERP çiftleri ve dolanıklık, teorik fizik ile kuantum kriptografi, süper yoğun kodlama ve kuantum ışınlama(teleportasyon) gibi potansiyel kuantum hesaplama uygulamaları için değerli kaynaklardır. [^fn-nth-3]
 
-[^fn-nth-3]: Burada belirtilen ışınlanma, Star Trek'de bulabileceğin bağlamda bir ışınlanma değildir. Bu uygulama alanından, ileriki bir hikayede bahsetmeyi planlıyoruz!
+[^fn-nth-3]: Burada belirtilen ışınlama, Star Trek'de bulabileceğin bağlamda bir ışınlama değildir. Bu uygulama alanından, ileriki bir hikayede bahsetmeyi planlıyoruz!
  
 ## Fiziksel Dolaşık Kübitler Hakkında Kısa Bir Not
  
