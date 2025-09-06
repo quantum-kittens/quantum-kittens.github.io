@@ -109,7 +109,7 @@ ________
 
 Sıradaki kodu kullanarak bir Bıyıkkent kapı zilini simüle edebilirsiniz. Bu kodu kullandığınızda, Bell durumlarına karşılık gelen kuantum devrelerini oluşturmayı öğreneceksiniz.
 
-Aşağıdaki kod aynı zamanda jüpyter notebook olarak da mevcuttur [buradan ulaşabilirsiniz](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_3.ipynb).
+Aşağıdaki kod aynı zamanda jupyter notebook olarak da mevcuttur [buradan ulaşabilirsiniz](https://github.com/quantum-kittens/quantum-kittens.github.io/blob/main/jupyter_notebooks/QK_Chapter_3.ipynb).
 
  ```python
 # Gerekli Qiskit kütüphanelerini içeri aktaralım
