@@ -1,10 +1,10 @@
 ---
-title: 'Chapter 4 - Story - Who Gets the Cardboard Box?'
+title: 'Bölüm 4 - Hikaye - Karton Kutu Kimin Olacak?'
 ---
 
 
 
-The cats of Whiskerton were no strangers to randomly appearing objects, in fact, they delighted in them. Lush feathers — rumored to be shed from a species of vibrantly plumaged birds flying unseen above the clouds, too shy to ever show their faces — iridescent stones from mountains to the west, curiously shaped flowers, and, occasionally, a stray trinket or bauble that had tumbled from an oblivious cat’s pockets as they scurried about their daily business.
+Bıyıkkent'in kedileri rastgele beliren nesnelere hiç yabancı değillerdi, hatta çok seviyorlardı. Gür tüyler — bulutların üzerinde görünmeden uçan, yüzlerini göstermekten çekinen, canlı renk tüylere sahip bir kuş türünden geldiği söylenir — batıdaki dağlardan gelen yanardöner taşlar, merak uyandıran şekillerde çiçekler ve ara sıra, günlük işlerini yaparken habersiz bir kedinin cebinden düşen başıboş bir süs ya da bir oyuncak.
 
 The cats still spoke of the year Tes's favorite flower hat disappeared — whisked away by an errant breeze on her way to the sewing shop, vanishing in the instant she reached for it. Two weeks passed and she grew so distraught she offered to reward anyone who could find it with a month's supply of her famous oceanberry pies. The whole town was stirred into a frenetic, competitive search, as Tes's pies were not only the tastiest in all of Whiskerton, but also exceedingly rare: she scarcely had time to bake amidst her countless craft projects running in parallel, a privilege of being a retired Councilcat. This scarcity rendered her pies all the more coveted.
 
