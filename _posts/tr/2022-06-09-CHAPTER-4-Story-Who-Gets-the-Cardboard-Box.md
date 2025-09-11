@@ -6,95 +6,96 @@ title: 'Bölüm 4 - Hikaye - Karton Kutu Kimin Olacak?'
 
 Bıyıkkent'in kedileri rastgele beliren nesnelere hiç yabancı değillerdi, hatta çok seviyorlardı. Gür tüyler — bulutların üzerinde görünmeden uçan, yüzlerini göstermekten çekinen, canlı renk tüylere sahip bir kuş türünden geldiği söylenir — batıdaki dağlardan gelen yanardöner taşlar, merak uyandıran şekillerde çiçekler ve ara sıra, günlük işlerini yaparken habersiz bir kedinin cebinden düşen başıboş bir süs ya da bir oyuncak.
 
-The cats still spoke of the year Tes's favorite flower hat disappeared — whisked away by an errant breeze on her way to the sewing shop, vanishing in the instant she reached for it. Two weeks passed and she grew so distraught she offered to reward anyone who could find it with a month's supply of her famous oceanberry pies. The whole town was stirred into a frenetic, competitive search, as Tes's pies were not only the tastiest in all of Whiskerton, but also exceedingly rare: she scarcely had time to bake amidst her countless craft projects running in parallel, a privilege of being a retired Councilcat. This scarcity rendered her pies all the more coveted.Kediler hala Tes'in en sevdiği çiçeğin kaybolduğu yılı konuşuyorlardı — dikiş dükkanına giderken bir esintiyle savrulup, ona uzandığı anda gözden kayboldu. İki hafta geçti ve 
+Kediler hala Tes'in en sevdiği çiçekli şapkasının kaybolduğu yılı konuşuyorlardı — terziye giderken bir esintiyle savrulup, eli ona uzandığı anda gözden kaybolmuştu. İki hafta geçmişti ve o kadar perişan bir haldeydi ki bulan kişiyi meşhur okyanus meyvesi turtalarının bir aylık tedariği ile ödüllendirecekti. Tüm kent çılgın bir heyecana, rekabetçi bir arayışa tutulmuştu, Tes'in turtası Bıyıkkent'in en lezzetli turtası olmakla birlikte aynı zamanda son derece nadirdi: emekli bir konsey kedisi olmanın getirdiği ayrıcalıkla aynı anda yürüttüğü sayısız el işi projelerinin ortasında, pişirmeye ara sıra vakit bulabiliyordu. Bu ara sıralık onun turtalarını daha da istenilir kılıyordu.
 
 
 ![](/assets/imgs/Tes_Animation.gif){: style="max-width: 300px" .right} 
 
-Remarkably, the hat popped back onto Tes's own head one humid afternoon as she knitted by the river bordering the town to the east. A bewildered Tes demanded to know where the hat had been all the while, but the hat, naturally, offered no explanation. Always one to honor her word, Tes enjoyed a month of her own oceanberry pies, much to the collective dismay of the townscats.
+Fevkalade, şapka kenti doğuya bağlayan nehrin kenarında örgü örerdüğü nemli bir öğleden sonra şapka, Tes'in başına geri döndü. Şaşkına dönmüş Tes, şapkanın bu zamana kadar nerede olduğunu öğrenmeyi talep etti, ama şapka doğal olarak hiçbir açıklama sunamadı. Her zaman sözünün arkasında olan Tes, kedilerin toplu dehşetine rağmen bir ay boyunca kendi okyanus meyvesi turtalarının keyfini çıkardı.
 
-The rarest item of all to appear spontaneously was an unclaimed cardboard box. Every cardboard box in Whiskerton was meticulously accounted for — cats take them very, very seriously indeed.
+Aniden beliren en nadir obje, sahipsiz karton kutulardı. Bıyıkkent'teki her karton kutu titizlikle kayda geçirilirdi — karton kutular kediler için çok, çok ciddi bir meseleydi.
 
-So when an enormous unclaimed cardboard box materialized in the town square, haloed by the bright afternoon sunlight streaming through the branches of the Great Scratching Tree, tremendous excitement ensued.
+Böylece kent meydanında, Büyük Tırmalama Ağacı'nın dallarından süzülen parlak öğleden sonra güneş ışığının oluşturduğu bir halede, devasa, sahipsiz bir karton kutu belirdiğinde, büyük bir heyecan yaşandı.
 
-Two of the town's councilcats, Arya and Poh, were first to arrive in the square, and both immediately laid claim to the box. Naturally, this led to a bit of a scuffle.
+Kentin iki meclis kedisi Arya ve Poh, meydana ilk varanlardı ve anında kutuyu sahiplendiler. Doğal olarak bu da bazı itişip kakışmalara sebebiyet verdi.
 
 
 ![](/assets/imgs/Poh.png){: style="max-width: 200px" .left} 
 
-"Well, you may be older, but I invoke sniffing rights. I sniffed the box first," Arya declared, whipping her tail decisively.
+"Belki sen daha büyük olabilirsin ama koklama yasalarını hatırlatmak isterim. Kutuyu önce ben kokladım," dedi Arya kuyruğunu kararlı bir şekilde sallayarak.
 
-"I *saw* the box first," Poh countered.
+"Kutuyu önce ben *gördüm*," diyerek karşı çıktı Poh.
 
-And so the argument continued.
+Tartışma böyle devam etti.
 
-A rather substantial crowd began gathering to witness the little spat, and eventually cats started calling out the name of whomever between Arya and Poh they believed had the rightful claim to the box.
+Küçük tartışmaya tanıklık etmek için oldukça kalabalık bir topluluk toplanmaya başladı ve nihayet kediler Arya ve Poh arasından kutuyu hak ettiklerini düşündükleri kişinin adını seslenmeye başladılar.
 
-Arya and Poh ignored them at first, for this was exceedingly serious business. However, as the sunshine began to wane, Arya remembered she had other responsibilities to attend to that day. Namely, her duties at the library. She needed this to be settled quickly and fairly. Even though she *knew* the box was rightfully hers, she resigned herself to the fact that only an impartial external decision-maker would placate the increasingly animated crowd.
+Arya ve Poh başta onları görmezden geldiler, çünkü bu son derece ciddi bir işti. Ancak, gün ışığı azalmaya durduğunda Arya o gün tamamlaması gereken başka sorumlulukları olduğunu hatırladı. Yani, kütüphanedeki görevleri. Bu konunun hızlıca ve adilce kararlaştırılmasına ihtiyacı vardı. Kutuyu hak edenin kendisi olduğunu *bilse* de, yalnızca tarafsız bir karar vericinin giderek coşkulu hâle gelen kalabalığı yatıştırabileceği gerçeğini kabullendi
 
-She proposed they use a marble, which was her trusty method for choosing between two options.
+İki seçenek arasında karar vermek için güvendiği bir yöntem olan bilye kullanımını önerdi.
 
-"It is only fair," Arya insisted.
+"Bu adil olur," diye ısrar etti Arya.
 
-Poh sighed. "Fine. If the marble turns red, the box is mine. If it turns blue, then the box is not yours."
+Poh iç çekti. "Peki. Eğer bilye kırmızıya dönerse, kutu benim. Eğer maviye dönerse, o zaman kutu senin değil."
 
-"Oh? Surely you meant if the marble turns blue the box is *mine*."
+"Ah tabii. Eğer bilye maviye dönerse kutu *benim*dir demek istedin.*
 
-"But of course!" Poh could not suppress a cheeky grin.
+"Tabii ki!" Poh yaramaz sırıtışını bastıramadı.
 
 
 ![](/assets/imgs/ch4_cardboardbox.png){: style="max-width: 200px" .right} 
 
-Luna, the most enthusiastic of the onlookers, sprang forward, paws raised. "I will get a marble! Can I get a marble? I will get a marble for you." She could hardly get the words out, she was wriggling so excitedly. When Arya and Poh nodded their agreement, she practically shook her fur off with her wriggles.
+İzleyenlerin en coşkulusu olan Luna, pençelerini kaldırarak öne doğru fırladı. "Ben bir bilye getireceğim! Bir bilye getirebilir miyim? Sizin için bir bilye getireceğim." Heyecan kıpır kıpırdı, kelimeleri zar zor dışarı dökebildi. Arya ve Poh onaylarcasına başlarını salladıklarında, heyecandan öyle kıpır kıpır oldu ki silkelenirken neredeyse tüyleri dökülecekti.
 
-Poh offered to escort Luna to the toy station where the townscats kept most of the town's marbles and other playthings. It was a squat building at the corner of the town square, one of the permanent locations that bordered the square, despite the town's charming habit of rearranging itself every morning. Luna didn't particularly enjoy slowing down to walk with the councilcat (she yearned to zoom to the station and back) but the thought of playing an important role in the dispute between Arya and Poh kept her composed.
+Poh, Luna'ya kentteki bilyelerin ve diğer oyuncakların çoğunun saklandığı oyuncak istasyonuna kadar eşlik etmeyi teklif etti. Kasabanın her sabah kendini yeniden düzenleme alışkanlığına rağmen, meydanı çevreleyen kalıcı yerlerden biri olan kasaba meydanının köşesindeki bodur bir binaydı. Luna, konsey kedisiyle yürümek için yavaşlamaktan pek hoşlanmamıştı (istasyona hızla gidip gelmek için can atıyordu) ama Arya ve Poh arasındaki anlaşmazlıkta büyük bir rol oynayacağı düşüncesi onu yerinde tuttu.
 
-"Do not forget to avoid looking directly at the marble," Poh instructed her when they reached the doors. If Luna looked at the marble, it would turn red or blue before it ever reached Arya and Poh. He gave her a meaningful nod and returned to the box.
+Kapıya ulaştıklarında Poh "Bilyeye doğrudan bakmaman gerektiğini unutma," diye tembihledi. Eğer Luna bilyeye bakarsa, Arya ve Poh'a ulaşmadan önce bilye kırmızı ya da maviye dönerdi. Ona, başıyla anlamlı bir işaret verdi ve kutuya geri döndü.
 
-While they waited for Luna to fetch a marble, Arya and Poh settled themselves on opposite sides of the box, eyeing each other warily. The onlookers buzzed with fervor, and playful mini-arguments about whom the marble would choose rippled through the gathering.
+Luna'nın bir bilye getirmesini beklerken Arya ve Poh, birbirlerine temkinli bakışlar göndererek kutunun zıt taraflarına yerleştiler. Seyirciler coşkuyla vızıldıyordu ve bilyenin kimi seçeceği konusunda kalabalıkta şakacı küçük-tartışmalar dalgalanıyordu.
 
-When Luna returned, she placed the marble—without looking at it—between the two contesting councilcats. The marble remained unaffected by the onlookers' gazes, for they were too distant to influence the marble; one's eyes must be within ten centimeters of a marble to affect it.
+Luna döndüğünde, yarışan iki konsil kedisinin arasına bilyeyi-bakmadan-yerleştirdi. Bilye, bilyeyi etkilemek için uzakta kaldıklarından seyircilerin bakışlarına karşı, etkisizliğini sürdürmeye devam etti; bilyenin etkilenmesi için göze on santimetre mesafede olmalıydı.
 
-The only exception to this rule was a special pair of binoculars that could affect marbles from afar, and was used for things like the glitter machine on Schrödinger Day where one cat could activate the machine by gazing at it from the ground.
+Bu kurala tek istisna durum bilyeleri uzaktan etkileyebilen özel bir dürbündü, ve Schrödinger Günü'nde bir kedinin yerden bakarak makineyi etkinleştirebildiği parıltı makinesi gibi şeyler için kullanılıyordu.
 
-"Are you ready?" Poh asked Arya. She offered a solemn salute.
+Poh Arya'ya "Hazır mısın?" diye sordu. O da ciddi bir şekilde, onayladığını belirten bir işarette bulundu.
 
-Then, together, they observed the marble, and to Arya's dismay, it turned red.
+Sonra, birlikte, bilyeye baktılar ve bilye Arya'nın aleyhine, kırmızıya döndü.
 
-"Ha!" said Poh triumphantly. "The box is mine."
+"Hah!" dedi Poh zaferle. "Kutu benim."
 
-Arya frowned, narrowing her eyes at Poh, for she knew he was prone to craftiness, having needed to survive many unfathomable perils out at sea. But her suspicion fled quickly. She trusted the marbles of Whiskerton, and well, she had other matters to attend to. She smiled graciously at the crowd and sauntered away to find a suitable place to lick her paws before diving into her tasks for the evening.
+Arya'nın kaşları çatıldı, gözlerini kısarak Poh'a bakmaya başladı, çünkü denizde sayısız anlaşılmaz tehlikeden sağ çıkmak zorunda kalmış olduğundan onun kurnazlığa yatkın olduğunu biliyordu. Ama şüphesi hemen kayboldu. Bıyıkkent'in bilyelerine güveni tamdı ve halletmesi gereken başka işler vardı. Kalabalığa nezaketle gülümsedi ve akşamın görevlerine dalmadan önce patilerini yalamaya uygun bir yer bulmak için uzaklaştı.
 
-Poh leapt into the box to the cheers of the crowd, settled down for a contented nap, and the crowd gradually dispersed.
 
-The thing is, Arya had been right to be suspicious. For Poh hadn't escorted Luna to the toy station doors simply out of politeness. Indeed, avoiding looking at the marble was not the only instruction he'd given her—he had cunningly enlisted her in a little scheme.
+Poh, kalabalığın tezahüratları arasında kutuya atladı, mutlu bir uyku için yerleşti ve kalabalık da yavaş yavaş dağıldı.
 
-"You know that ball of silver yarn I have that I don't allow anyone to touch?"
+Ancak, Arya şüphelenmekte haklıydı. Poh, kibarlık olsun diye oyuncak istasyonuna kadar Luna'ya eşlik etmemişti. Aslında, bilyeye bakmaktan kaçınmak için verdiği tembihle kalmayıp onu kurnazca küçük bir plana dahil etmişti.
 
-"Oh, yes yes yes!" Luna had been coveting that shiny yarn for months.
+"Kimsenin dokunmasına izin vermediğim gümüş yumağı biliyorsun ya?"
 
-"Well, a small piece of it shall be yours if you play the tune of Happy Birthday to the marble you select before you bring it to us." And he slipped a mini flute into Luna's eager paw.
+"Ah, evet evet evet!" Luna'nın gözü aylardır o parlak yumaktaydı.
 
-Luna nearly swooned with excitement and darted into the toy station with unbridled enthusiasm.
+"Seçtiğin bilyeyi getirmeden önce ona Mutlu Yıllar müziğini çalarsan, yumağın küçük bir kısmı senin olabilir." dedi ve Luna'nın hevesli patilerine küçük bir flüt bıraktı.
 
-Once inside, she dutifully fetched a marble, then slowly and methodically serenaded it with the tune of Happy Birthday on the flute, taking care to remain farther than ten centimeters away. The marble glimmered with swirling and shifting colors, and it took all of her very limited self-restraint not to be distracted by the glorious chromatic display and stop playing.
+Luna neredeyse heyecandan baygınlık geçirdi ve dizginlenemez bir coşkuyla oyuncak istasyonuna daldı.
 
-Now Luna wasn't much of a musician, but she could manage Happy Birthday to a reasonable standard; all denizens of Whiskerton are trained to play mini flutes as kittens because marbles respond to music.
+Bir kez içeri girdiğinde, görev bilinciyle bir bilye seçti, sonra yavaşça ve flüt eşliğinde on santimetrelik mesafeyi koruyarak "Mutlu Yıllar" melodisiyle yöntemli bir şekilde serenat yaptı. Bilye, dönen ve değişen renklerle parıldadı ve muhteşem kromatik gösterinin dikkatini dağıtıp, çalmayı bırakmaması için kendini tutması gerekti.
 
-This was one of the most delightful aspects of living in Whiskerton: learning how to make colors dance within the marbles. The musiciancats would host spectacular concerts in the theater, often conducted by Bilito, the most senior of the councilcats and an accomplished organ player.
+Luna'ya pek de müziyen denilemezdi ama kabul edilebilir bir standartta Mutlu Yıllar'ı çalabiliyordu; Bıyıkkent'in tüm sakinlerine bilyeler müziğe tepki verdiği için yavruyken, mini flüt çalma eğitimi verilirdi.
 
-The walls of the open theater were adorned with arrays of marbles positioned far enough away from the musicians on stage and the audience that they remained unaffected by observations. The cats reveled in how colors danced and rippled through the array under the music's influence, iridescent hues leaping high into the sky like a celestial aurora.
+ Bu, Bıyıkkent'te yaşamanın en keyifli yönlerinden biriydi: renklerin bilyelerin içinde nasıl dans ettirileceğini öğrenmek. Müzisyen kediler sahnede görkemli konserler düzenlerlerdi, bu konserleri genellikle, en kıdemli konsey kedisi ve başarılı bir org sanatçısı olan Bilito yönetirdi.
+
+Açık tiyatronun duvarları, müzisyenlerin ve seyircilerin gözlemlerinden etkileyenmeyecekleri uzaklıkta konumlandırılmış bilye dizileriyle bezenirdi. Kediler, müziğin etkisiyle renklerin dans edişlerinden ve dizi boyunca dalgalanışlarından, yanardöner tonların kutup ışıkları gibi gökyüzüne doğru yükselmesinden zevk alırlardı.
 
 
 ![](/assets/imgs/MarbleGrid.png){: style="max-width: 500px"}
 
-The arrangement of the music, the melody, the chords, even the rhythm, all affected the marbles' probabilities of turning red or blue when directly observed. For the purpose of musical concerts, it was the color journey that mattered and not whether each marble would ultimately appear red or blue upon direct observation. But in the case of Luna's marble, Poh knew that the tune of Happy Birthday influenced a single marble in such a way that the probability of its turning red became vastly higher than blue.
+Müziğin düzenlenmesi, melodisi, akorları, ve hatta ritmi, hepsi bilyelerin doğrudan gözlemlenilişindeki, kırmızı veya maviye dönme olasılıklarını etkiliyordu. Konserler için önemli olan, renklerin yaptıkları yolculuklardı, her bilyenin doğrudan gözlemlenilişinde kırmızı veya mavinin ortaya çıkışı değil. Ama Luna'nın bilyesi söz konusuyken Poh, Mutlu Yıllar melodisisinin tek bir bilyenin kırmızıya dönme olasılığını, maviye dönme olasılığına göre büyük ölçüde yükseltecek şekilde etkileyeceğini biliyordu.
 
-When Luna played Happy Birthday to her chosen marble, she unwittingly ensured that Poh would almost certainly claim the box. Of course, there remained a slight chance the marble would turn blue and Arya would prevail, but Poh was quite willing to take that risk—after all, unpredictability is what makes life in Whiskerton so thoroughly interesting.
+Luna seçilen bilyeye Mutlu Yıllar'ı çalarken, istemeden de olsa Poh'un neredeyse kesin bir şekilde kutuyu kazanacağını belirlemiş oldu. Tabii ki, bilyenin maviye dönmesini sağlayacak ve Arya'yı kazandıracak küçük bir şans bulunuyordu, ama Poh bu riski almaya hazırdı sonuçta, Bıyıkkent'i bu kadar ilginç kılan şey öngürlmezliğiydi.
 
-Clever, clever Poh.
+Zeki, zeki Poh.
 
-And poor, trusting Arya.
+Ve zavallı, saf Arya.
 
 
 	
@@ -110,7 +111,7 @@ _____________________________
 _____________________________
 
 
-**[Chapter 4 Part 2 - Commentary - Quantum Gates and Circuits](https://quantum-kittens.github.io/posts/CHAPTER-4-Part-2-Quantum-Gates-and-Circuits/)**
+**[Bölüm 4 Kısım 2 - Açıklama - Kuantum Kapıları ve Devreleri](https://quantum-kittens.github.io/posts/CHAPTER-4-Part-2-Quantum-Gates-and-Circuits/)**
 
 
 
