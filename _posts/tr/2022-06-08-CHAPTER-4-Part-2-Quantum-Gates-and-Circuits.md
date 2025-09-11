@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 4 Part 2 - Commentary - Quantum Gates and Circuits'
+title: 'Bölüm 4 Kısım 2 - Açıklama - Kuantum Kapıları ve Devreleri'
 math: true
 ---
 
