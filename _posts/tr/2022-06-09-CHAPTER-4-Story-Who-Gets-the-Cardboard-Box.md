@@ -11,7 +11,7 @@ Kediler hala Tes'in en sevdiği çiçekli şapkasının kaybolduğu yılı konu�
 
 ![](/assets/imgs/Tes_Animation.gif){: style="max-width: 300px" .right} 
 
-Fevkalade, şapka kenti doğuya bağlayan nehrin kenarında örgü örerdüğü nemli bir öğleden sonra şapka, Tes'in başına geri döndü. Şaşkına dönmüş Tes, şapkanın bu zamana kadar nerede olduğunu öğrenmeyi talep etti, ama şapka doğal olarak hiçbir açıklama sunamadı. Her zaman sözünün arkasında olan Tes, kedilerin toplu dehşetine rağmen bir ay boyunca kendi okyanus meyvesi turtalarının keyfini çıkardı.
+Fevkalade, şapka kenti doğuya bağlayan nehrin kenarında örgü ördüğü nemli bir öğleden sonra şapka, Tes'in başına geri döndü. Şaşkına dönmüş Tes, şapkanın bu zamana kadar nerede olduğunu öğrenmeyi talep etti, ama şapka doğal olarak hiçbir açıklama sunamadı. Her zaman sözünün arkasında olan Tes, kedilerin toplu dehşetine rağmen bir ay boyunca kendi okyanus meyvesi turtalarının keyfini çıkardı.
 
 Aniden beliren en nadir obje, sahipsiz karton kutulardı. Bıyıkkent'teki her karton kutu titizlikle kayda geçirilirdi — karton kutular kediler için çok, çok ciddi bir meseleydi.
 
