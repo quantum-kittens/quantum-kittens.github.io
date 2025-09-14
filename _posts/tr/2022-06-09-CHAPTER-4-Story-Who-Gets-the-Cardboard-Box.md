@@ -38,7 +38,7 @@ Arya ve Poh başta onları görmezden geldiler, çünkü bu son derece ciddi bir
 
 Poh iç çekti. "Peki. Eğer bilye kırmızıya dönerse, kutu benim. Eğer maviye dönerse, o zaman kutu senin değil."
 
-"Ah tabii. Eğer bilye maviye dönerse kutu *benim*dir demek istedin.*
+"Ah tabii. Eğer bilye maviye dönerse kutu *benim*dir demek istedin.
 
 "Tabii ki!" Poh yaramaz sırıtışını bastıramadı.
 
