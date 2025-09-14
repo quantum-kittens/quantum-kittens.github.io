@@ -1,21 +1,21 @@
 ---
-title: 'This is Not the End'
+title: 'Bu Son Değil'
 ---
 
 
-Do you want to hear about how Arya sent Blade a birthday gift via quantum teleportation, and other stories about the townscats of Whiskerton?
+Arya'nın Blade'e kuantum teleportasyon yoluyla nasıl hediye gönderdiğini ve Bıyıkkent'teki diğer kedilerle ilgili başka hikayeleri öğrenmek ister misin?
 
 
-The good news is the stories don't end here, this is only the beginning. 
+İyi haber şu ki: hikayeler burada bitmiyor, bu yalnızca bir başlangıç.
 
-This is the online, living release of *Quantum Kittens*; we are slowly and steadily working towards completing the book by releasing one chapter at a time!
+Bu *Kuantum Kedicikleri*'nin çevrimiçi ve güncel yayınıdır; kitabı yavaş ve istikrarlı bir şekilde bölüm bölüm yayınlayarak tamamlamaya doğru ilerliyoruz!
 
-If you'd like to be notified about new chapter releases, please submit [this form](https://airtable.com/shrTIeiVZWHm2OTVw) and select the checkbox to recieve notitications.
+Eğer yeni bölümler yayınlandığında haberdar olmak isterseniz, lütfen formu [bu form](https://airtable.com/shrTIeiVZWHm2OTVw) doldurun ve bildirim almak için kutucuğu işaretleyin.
 
-This book is also part of Radha's experimentation with creative approaches to education, such as game-based learning and learning through storytelling. (Want to know more about game-based learning and IBM Quantum's foray into this space through the program Radha led? Read: [Quantum Explorers: A Game-Based Approach to Quantum Education](https://medium.com/qiskit/quantum-explorers-a-game-based-approach-to-quantum-education-9b84d0a0ba46))
+Bu kitap aynı zamanda Radha'nın oyun temelli öğrenme ve hikaye anlatımı yoluyla öğrenme gibi yaratıcı eğitim yaklaşımlarıyla yürüttüğü deneylerin bir parçasıdır. (Radha'nın yürüttüğü oyun temelli öğrenme ve IBM Quantum'un bu alandaki girişimleri hakkında daha fazla bilgi almak ister misiniz? O halde bunu okuyabilirsiniz: [Quantum Explorers: A Game-Based Approach to Quantum Education](https://medium.com/qiskit/quantum-explorers-a-game-based-approach-to-quantum-education-9b84d0a0ba46))
 
-Feel free to spread the love by sharing a link to Quantum Kittens with anyone you think would enjoy reading Quantum Kittens: quantumkittens.online
+Kuantum Kedicikleri'ni okumaktan keyif alacağını düşündüğünüz kişilerle bu linki paylaşmaktan çekinmeyin: quantumkittens.online
 
-Once you’ve finished reading, we would appreciate you taking a couple of minutes to fill out [this survey](https://airtable.com/shrTIeiVZWHm2OTVw). This information will be used to further our understanding of and experimention with creative education, to complete the book in a way that serves learners, and to gather relevant resources to complete the book.
+Okumayı bitirdiğinizde, birkaç dakikanızı ayırıp [bu formu](https://airtable.com/shrTIeiVZWHm2OTVw) doldurursanız minnet duyarız. Bu bilgiler, yaratıcı eğitimle ilgili anlayışımızı ve deneyimlerimizi ilerletmek, kitabı öğrenenlere fayda sağlayacak şekilde tamamlamak ve kitabı tamamlamak için ilgili alanda kaynakları toplamak amacıyla kullanılacaktır.
 
-And if you're interested in supporting this project in other ways, we wouldn't say no to [ a cup of coffee](https://ko-fi.com/quantumkittens)! 
+Ve bu projeye başka türlü desteklemek isterseniz de [ bir fincan kahveye](https://ko-fi.com/quantumkittens) hayır demeyiz!
