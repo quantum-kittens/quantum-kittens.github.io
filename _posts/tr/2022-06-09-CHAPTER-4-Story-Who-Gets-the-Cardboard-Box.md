@@ -28,7 +28,7 @@ Kentin iki meclis kedisi Arya ve Poh, meydana ilk varanlardı ve anında kutuyu 
 
 Tartışma böyle devam etti.
 
-Küçük tartışmaya tanıklık etmek için oldukça kalabalık bir topluluk toplanmaya başladı ve nihayet kediler Arya ve Poh arasından kutuyu hak ettiklerini düşündükleri kişinin adını seslenmeye başladılar.
+Küçük tartışmaya tanıklık etmek için oldukça kalabalık bir topluluk birikmeye başladı ve nihayet kediler Arya ve Poh arasından kutuyu hak ettiklerini düşündükleri kişinin adını seslenmeye başladılar.
 
 Arya ve Poh başta onları görmezden geldiler, çünkü bu son derece ciddi bir işti. Ancak, gün ışığı azalmaya durduğunda Arya o gün tamamlaması gereken başka sorumlulukları olduğunu hatırladı. Yani, kütüphanedeki görevleri. Bu konunun hızlıca ve adilce kararlaştırılmasına ihtiyacı vardı. Kutuyu hak edenin kendisi olduğunu *bilse* de, yalnızca tarafsız bir karar vericinin giderek coşkulu hâle gelen kalabalığı yatıştırabileceği gerçeğini kabullendi
 
