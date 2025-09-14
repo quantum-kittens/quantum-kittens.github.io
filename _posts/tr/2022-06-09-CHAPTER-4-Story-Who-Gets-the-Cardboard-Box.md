@@ -45,7 +45,7 @@ Poh iç çekti. "Peki. Eğer bilye kırmızıya dönerse, kutu benim. Eğer mavi
 
 ![](/assets/imgs/ch4_cardboardbox.png){: style="max-width: 200px" .right} 
 
-İzleyenlerin en coşkulusu olan Luna, pençelerini kaldırarak öne doğru fırladı. "Ben bir bilye getireceğim! Bir bilye getirebilir miyim? Sizin için bir bilye getireceğim." Heyecan kıpır kıpırdı, kelimeleri zar zor dışarı dökebildi. Arya ve Poh onaylarcasına başlarını salladıklarında, heyecandan öyle kıpır kıpır oldu ki silkelenirken neredeyse tüyleri dökülecekti.
+İzleyenlerin en coşkulusu olan Luna, pençelerini kaldırarak öne doğru fırladı. "Ben bir bilye getireceğim! Bir bilye getirebilir miyim? Sizin için bir bilye getireceğim." Heyecandan kıpır kıpırdı, kelimeleri zar zor dışarı dökebildi. Arya ve Poh onaylarcasına başlarını salladıklarında, heyecandan öyle kıpır kıpır oldu ki silkelenirken neredeyse tüyleri dökülecekti.
 
 Poh, Luna'ya kentteki bilyelerin ve diğer oyuncakların çoğunun saklandığı oyuncak istasyonuna kadar eşlik etmeyi teklif etti. Kasabanın her sabah kendini yeniden düzenleme alışkanlığına rağmen, meydanı çevreleyen kalıcı yerlerden biri olan kasaba meydanının köşesindeki bodur bir binaydı. Luna, konsey kedisiyle yürümek için yavaşlamaktan pek hoşlanmamıştı (istasyona hızla gidip gelmek için can atıyordu) ama Arya ve Poh arasındaki anlaşmazlıkta büyük bir rol oynayacağı düşüncesi onu yerinde tuttu.
 
