@@ -45,7 +45,7 @@ Poh iç çekti. "Peki. Eğer bilye kırmızıya dönerse, kutu benim. Eğer mavi
 
 ![](/assets/imgs/ch4_cardboardbox.png){: style="max-width: 200px" .right} 
 
-İzleyenlerin en coşkulusu olan Luna, pençelerini kaldırarak öne doğru fırladı. "Ben bir bilye getireceğim! Bir bilye getirebilir miyim? Sizin için bir bilye getireceğim." Heyecandan kıpır kıpırdı, kelimeleri zar zor dışarı dökebildi. Arya ve Poh onaylarcasına başlarını salladıklarında, heyecandan öyle kıpır kıpır oldu ki silkelenirken neredeyse tüyleri dökülecekti.
+İzleyenlerin en coşkulusu olan Luna, pençelerini kaldırarak öne doğru fırladı. "Ben bir bilye getireceğim! Bir bilye getirebilir miyim? Sizin için bir bilye getireceğim." Çok heyecanlanmıştı, kelimeleri zar zor dışarı dökebildi. Arya ve Poh onaylarcasına başlarını salladıklarında, öyle kıpır kıpır oldu ki silkelenirken neredeyse tüyleri dökülecekti.
 
 Poh, Luna'ya kentteki bilyelerin ve diğer oyuncakların çoğunun saklandığı oyuncak istasyonuna kadar eşlik etmeyi teklif etti. Kasabanın her sabah kendini yeniden düzenleme alışkanlığına rağmen, meydanı çevreleyen kalıcı yerlerden biri olan kasaba meydanının köşesindeki bodur bir binaydı. Luna, konsey kedisiyle yürümek için yavaşlamaktan pek hoşlanmamıştı (istasyona hızla gidip gelmek için can atıyordu) ama Arya ve Poh arasındaki anlaşmazlıkta büyük bir rol oynayacağı düşüncesi onu yerinde tuttu.
 
@@ -53,7 +53,7 @@ Kapıya ulaştıklarında Poh "Bilyeye doğrudan bakmaman gerektiğini unutma," 
 
 Luna'nın bir bilye getirmesini beklerken Arya ve Poh, birbirlerine temkinli bakışlar göndererek kutunun zıt taraflarına yerleştiler. Seyirciler coşkuyla vızıldıyordu ve bilyenin kimi seçeceği konusunda kalabalıkta şakacı küçük-tartışmalar dalgalanıyordu.
 
-Luna döndüğünde, yarışan iki konsil kedisinin arasına bilyeyi-bakmadan-yerleştirdi. Bilye, bilyeyi etkilemek için uzakta kaldıklarından seyircilerin bakışlarına karşı, etkisizliğini sürdürmeye devam etti; bilyenin etkilenmesi için göze on santimetre mesafede olmalıydı.
+Luna döndüğünde, yarışan iki konsey kedisinin arasına bilyeyi-bakmadan-yerleştirdi. Bilye, bilyeyi etkilemek için uzakta kaldıklarından seyircilerin bakışlarına karşı, etkisizliğini sürdürmeye devam etti; bilyenin etkilenmesi için göze on santimetre mesafede olmalıydı.
 
 Bu kurala tek istisna durum bilyeleri uzaktan etkileyebilen özel bir dürbündü, ve Schrödinger Günü'nde bir kedinin yerden bakarak makineyi etkinleştirebildiği parıltı makinesi gibi şeyler için kullanılıyordu.
 
@@ -68,7 +68,7 @@ Arya'nın kaşları çatıldı, gözlerini kısarak Poh'a bakmaya başladı, ç�
 
 Poh, kalabalığın tezahüratları arasında kutuya atladı, mutlu bir uyku için yerleşti ve kalabalık da yavaş yavaş dağıldı.
 
-Ancak, Arya şüphelenmekte haklıydı. Poh, kibarlık olsun diye oyuncak istasyonuna kadar Luna'ya eşlik etmemişti. Aslında, bilyeye bakmaktan kaçınmak için verdiği tembihle kalmayıp onu kurnazca küçük bir plana dahil etmişti.
+Ancak, Arya şüphelenmekte haklıydı. Poh, kibarlık olsun diye oyuncak istasyonuna kadar Luna'ya eşlik etmemişti. Aslında, bilyeye bakmaktan kaçınmak için verdiği tembihle kalmayıp, onu kurnazca küçük bir plana dahil etmişti.
 
 "Kimsenin dokunmasına izin vermediğim gümüş yumağı biliyorsun ya?"
 
@@ -89,9 +89,9 @@ Açık tiyatronun duvarları, müzisyenlerin ve seyircilerin gözlemlerinden etk
 
 ![](/assets/imgs/MarbleGrid.png){: style="max-width: 500px"}
 
-Müziğin düzenlenmesi, melodisi, akorları, ve hatta ritmi, hepsi bilyelerin doğrudan gözlemlenilişindeki, kırmızı veya maviye dönme olasılıklarını etkiliyordu. Konserler için önemli olan, renklerin yaptıkları yolculuklardı, her bilyenin doğrudan gözlemlenilişinde kırmızı veya mavinin ortaya çıkışı değil. Ama Luna'nın bilyesi söz konusuyken Poh, Mutlu Yıllar melodisisinin tek bir bilyenin kırmızıya dönme olasılığını, maviye dönme olasılığına göre büyük ölçüde yükseltecek şekilde etkileyeceğini biliyordu.
+Müziğin düzenlenmesi, melodisi, akorları, ve hatta ritmi, hepsi bilyelerin doğrudan gözlemlenilişindeki, kırmızı veya maviye dönme olasılıklarını etkiliyordu. Konserler için önemli olan renklerin yaptıkları yolculuklardı, her bilyenin doğrudan gözlemlenilişiyle kırmızı veya mavinin ortaya çıkışı değil. Ama Luna'nın bilyesi söz konusuyken Poh, Mutlu Yıllar melodisisinin tek bir bilyenin kırmızıya dönme olasılığını, maviye dönme olasılığına göre büyük ölçüde yükseltecek şekilde etkileyeceğini biliyordu.
 
-Luna seçilen bilyeye Mutlu Yıllar'ı çalarken, istemeden de olsa Poh'un neredeyse kesin bir şekilde kutuyu kazanacağını belirlemiş oldu. Tabii ki, bilyenin maviye dönmesini sağlayacak ve Arya'yı kazandıracak küçük bir şans bulunuyordu, ama Poh bu riski almaya hazırdı sonuçta, Bıyıkkent'i bu kadar ilginç kılan şey öngürlmezliğiydi.
+Luna seçilen bilyeye Mutlu Yıllar'ı çalarken, istemeden de olsa Poh'un neredeyse kesin bir şekilde kutuyu kazanacağını belirlemiş oldu. Tabii ki, bilyenin maviye dönmesini sağlayacak ve Arya'yı kazandıracak küçük bir şans bulunuyordu, ama Poh bu riski almaya hazırdı, sonuçta Bıyıkkent'i bu kadar ilginç kılan şey öngörülmezliğiydi.
 
 Zeki, zeki Poh.
 
