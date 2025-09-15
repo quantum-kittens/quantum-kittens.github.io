@@ -1,5 +1,5 @@
 ---
-title: 'Title Page'
+title: 'Giriş'
 math: true
 ---
 
