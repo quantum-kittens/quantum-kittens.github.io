@@ -12,3 +12,9 @@ order: 2
 From marbles that are red and blue at the same time to feathers that spontaneously appear and disappear, the cat world is a little funkier than ours. *Quantum Kittens*, an illustrated creative non-fiction dive into their world, teaches quantum computing from a non-technical perspective suitable for high school age upwards.
 
 Quantum concepts are portrayed through stories about curious cats who live in Whiskerton, a town governed by the laws of quantum physics. Each story is accompanied by a commentary section with layperson explanations. A reader can choose to read them together, or just stick to the stories and avoid the explanations altogether.
+
+Watch a short 3 minute video about Quantum Kittens [here](https://www.youtube.com/watch?v=2xVRuXW0DBQ)! It covers the intentional architecture of this book, how to read it, the team behind it, and more.
+
+
+
+[![](/assets/imgs/About_Quantum_Kittens.png){: style="max-width: 700px" .center}](https://www.youtube.com/watch?v=2xVRuXW0DBQ)
